@@ -35,7 +35,7 @@ jobs:
 
       - name: Update README with last updated date badge
         run: |
-          DATE=$(date +'%Y-%m-%d' | tr '-' '%2D')
+          DATE=$(date +'%Y-%m-%d' | sed 's/-/%2D/g')
           sed -i "1s/.*/![Last updated](https:\/\/img.shields.io\/badge\/Last%20updated-$DATE-blue)/" README.md
 
       - name: Commit changes
