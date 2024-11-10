@@ -18,15 +18,15 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
+    #   - name: Set up Python
+    #     uses: actions/setup-python@v5
+    #     with:
+    #       python-version: '3.x'
 
-      - name: Install dependencies
-        run: |
-          cd src
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    #   - name: Install dependencies
+    #     run: |
+    #       cd src
+    #       if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
     #   - name: Run scraper
     #     run: |
@@ -35,7 +35,7 @@ jobs:
 
       - name: Update README with last updated date badge
         run: |
-          DATE=$(date +'%Y-%m-%d')
+          DATE=$(date +'%Y-%m-%d' | tr '-' '%2D')
           sed -i "1s/.*/![Last updated](https:\/\/img.shields.io\/badge\/Last%20updated-$DATE-blue)/" README.md
 
       - name: Commit changes
