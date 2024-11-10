@@ -1,0 +1,122 @@
+[
+    {
+        "showId": "81641421",
+        "id": "81641422",
+        "week": "20241103",
+        "rank": 1,
+        "weeksInTopTen": 1,
+        "country": "ph",
+        "category": "tv",
+        "name": "Don\u00e2\u0080\u0099t Come Home: Limited Series",
+        "showName": "Don\u00e2\u0080\u0099t Come Home",
+        "seasonName": "Limited Series"
+    },
+    {
+        "showId": "81776393",
+        "id": "81776394",
+        "week": "20241103",
+        "rank": 2,
+        "weeksInTopTen": 10,
+        "country": "ph",
+        "category": "tv",
+        "name": "Lavender Fields: Season 1",
+        "showName": "Lavender Fields",
+        "seasonName": "Season 1"
+    },
+    {
+        "showId": "81736884",
+        "id": "81736885",
+        "week": "20241103",
+        "rank": 3,
+        "weeksInTopTen": 4,
+        "country": "ph",
+        "category": "tv",
+        "name": "DAN DA DAN",
+        "showName": "DAN DA DAN",
+        "seasonName": "DAN DA DAN"
+    },
+    {
+        "showId": "81256675",
+        "id": "81284038",
+        "week": "20241103",
+        "rank": 4,
+        "weeksInTopTen": 1,
+        "country": "ph",
+        "category": "tv",
+        "name": "Hellbound: Season 2",
+        "showName": "Hellbound",
+        "seasonName": "Season 2"
+    },
+    {
+        "showId": "80192612",
+        "id": "81786168",
+        "week": "20241103",
+        "rank": 5,
+        "weeksInTopTen": 1,
+        "country": "ph",
+        "category": "tv",
+        "name": "Young Sheldon: Season 7",
+        "showName": "Young Sheldon",
+        "seasonName": "Season 7"
+    },
+    {
+        "showId": "81256675",
+        "id": "81256676",
+        "week": "20241103",
+        "rank": 6,
+        "weeksInTopTen": 4,
+        "country": "ph",
+        "category": "tv",
+        "name": "Hellbound: Season 1",
+        "showName": "Hellbound",
+        "seasonName": "Season 1"
+    },
+    {
+        "showId": "81769856",
+        "id": "81769857",
+        "week": "20241103",
+        "rank": 7,
+        "weeksInTopTen": 1,
+        "country": "ph",
+        "category": "tv",
+        "name": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World: Season 1",
+        "showName": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World",
+        "seasonName": "Season 1"
+    },
+    {
+        "showId": "81728601",
+        "id": "81728602",
+        "week": "20241103",
+        "rank": 8,
+        "weeksInTopTen": 15,
+        "country": "ph",
+        "category": "tv",
+        "name": "Pulang Araw: Season 1",
+        "showName": "Pulang Araw",
+        "seasonName": "Season 1"
+    },
+    {
+        "showId": "81640753",
+        "id": "81940353",
+        "week": "20241103",
+        "rank": 9,
+        "weeksInTopTen": 4,
+        "country": "ph",
+        "category": "tv",
+        "name": "Blue Lock: BLUE LOCK VS. U-20 JAPAN",
+        "showName": "Blue Lock",
+        "seasonName": "BLUE LOCK VS. U-20 JAPAN"
+    },
+    {
+        "showId": "81943491",
+        "id": "81943492",
+        "week": "20241103",
+        "rank": 10,
+        "weeksInTopTen": 2,
+        "country": "ph",
+        "category": "tv",
+        "name": "Dragon Ball DAIMA: Season 1",
+        "showName": "Dragon Ball DAIMA",
+        "seasonName": "Season 1"
+    }
+]

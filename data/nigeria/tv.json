@@ -1,0 +1,122 @@
+[
+    {
+        "showId": "81764523",
+        "id": "81764524",
+        "week": "20241103",
+        "rank": 1,
+        "weeksInTopTen": 2,
+        "country": "ng",
+        "category": "tv",
+        "name": "Beauty in Black: Season 1",
+        "showName": "Beauty in Black",
+        "seasonName": "Season 1"
+    },
+    {
+        "showId": "81613239",
+        "id": "81613240",
+        "week": "20241103",
+        "rank": 2,
+        "weeksInTopTen": 1,
+        "country": "ng",
+        "category": "tv",
+        "name": "Go Ahead, Brother: Season 1",
+        "showName": "Go Ahead, Brother",
+        "seasonName": "Season 1"
+    },
+    {
+        "showId": "81288983",
+        "id": "81486271",
+        "week": "20241103",
+        "rank": 3,
+        "weeksInTopTen": 1,
+        "country": "ng",
+        "category": "tv",
+        "name": "The Diplomat: Season 2",
+        "showName": "The Diplomat",
+        "seasonName": "Season 2"
+    },
+    {
+        "showId": "81303831",
+        "id": "81628779",
+        "week": "20241103",
+        "rank": 4,
+        "weeksInTopTen": 3,
+        "country": "ng",
+        "category": "tv",
+        "name": "The Lincoln Lawyer: Season 3",
+        "showName": "The Lincoln Lawyer",
+        "seasonName": "Season 3"
+    },
+    {
+        "showId": "81712853",
+        "id": "81712854",
+        "week": "20241103",
+        "rank": 5,
+        "weeksInTopTen": 4,
+        "country": "ng",
+        "category": "tv",
+        "name": "Inside Life: Season 1",
+        "showName": "Inside Life",
+        "seasonName": "Season 1"
+    },
+    {
+        "showId": "70140425",
+        "id": "80204202",
+        "week": "20241103",
+        "rank": 6,
+        "weeksInTopTen": 7,
+        "country": "ng",
+        "category": "tv",
+        "name": "Prison Break: Season 5",
+        "showName": "Prison Break",
+        "seasonName": "Season 5"
+    },
+    {
+        "showId": "70140425",
+        "id": "70103190",
+        "week": "20241103",
+        "rank": 7,
+        "weeksInTopTen": 8,
+        "country": "ng",
+        "category": "tv",
+        "name": "Prison Break: Season 4",
+        "showName": "Prison Break",
+        "seasonName": "Season 4"
+    },
+    {
+        "showId": "70140425",
+        "id": "70079939",
+        "week": "20241103",
+        "rank": 8,
+        "weeksInTopTen": 8,
+        "country": "ng",
+        "category": "tv",
+        "name": "Prison Break: Season 3",
+        "showName": "Prison Break",
+        "seasonName": "Season 3"
+    },
+    {
+        "showId": "70140425",
+        "id": "70040250",
+        "week": "20241103",
+        "rank": 9,
+        "weeksInTopTen": 9,
+        "country": "ng",
+        "category": "tv",
+        "name": "Prison Break: Season 1",
+        "showName": "Prison Break",
+        "seasonName": "Season 1"
+    },
+    {
+        "showId": "70140425",
+        "id": "70054891",
+        "week": "20241103",
+        "rank": 10,
+        "weeksInTopTen": 9,
+        "country": "ng",
+        "category": "tv",
+        "name": "Prison Break: Season 2",
+        "showName": "Prison Break",
+        "seasonName": "Season 2"
+    }
+]

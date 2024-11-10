@@ -1,0 +1,122 @@
+[
+    {
+        "showId": "81504326",
+        "id": "81504326",
+        "week": "20241103",
+        "rank": 1,
+        "weeksInTopTen": 1,
+        "country": "bg",
+        "category": "films",
+        "name": "Time Cut",
+        "showName": "Time Cut",
+        "seasonName": "Time Cut"
+    },
+    {
+        "showId": "81767564",
+        "id": "81767564",
+        "week": "20241103",
+        "rank": 2,
+        "weeksInTopTen": 2,
+        "country": "bg",
+        "category": "films",
+        "name": "Don't Move",
+        "showName": "Don't Move",
+        "seasonName": "Don't Move"
+    },
+    {
+        "showId": "81686180",
+        "id": "81686180",
+        "week": "20241103",
+        "rank": 3,
+        "weeksInTopTen": 2,
+        "country": "bg",
+        "category": "films",
+        "name": "Family Pack",
+        "showName": "Family Pack",
+        "seasonName": "Family Pack"
+    },
+    {
+        "showId": "80991034",
+        "id": "80991034",
+        "week": "20241103",
+        "rank": 4,
+        "weeksInTopTen": 7,
+        "country": "bg",
+        "category": "films",
+        "name": "Venom",
+        "showName": "Venom",
+        "seasonName": "Venom"
+    },
+    {
+        "showId": "81728818",
+        "id": "81728818",
+        "week": "20241103",
+        "rank": 5,
+        "weeksInTopTen": 3,
+        "country": "bg",
+        "category": "films",
+        "name": "Woman of the Hour",
+        "showName": "Woman of the Hour",
+        "seasonName": "Woman of the Hour"
+    },
+    {
+        "showId": "81157573",
+        "id": "81157573",
+        "week": "20241103",
+        "rank": 6,
+        "weeksInTopTen": 4,
+        "country": "bg",
+        "category": "films",
+        "name": "Lonely Planet",
+        "showName": "Lonely Planet",
+        "seasonName": "Lonely Planet"
+    },
+    {
+        "showId": "81643622",
+        "id": "81643622",
+        "week": "20241103",
+        "rank": 7,
+        "weeksInTopTen": 2,
+        "country": "bg",
+        "category": "films",
+        "name": "Missing",
+        "showName": "Missing",
+        "seasonName": "Missing"
+    },
+    {
+        "showId": "939827",
+        "id": "939827",
+        "week": "20241103",
+        "rank": 8,
+        "weeksInTopTen": 1,
+        "country": "bg",
+        "category": "films",
+        "name": "Scream",
+        "showName": "Scream",
+        "seasonName": "Scream"
+    },
+    {
+        "showId": "81641219",
+        "id": "81641219",
+        "week": "20241103",
+        "rank": 9,
+        "weeksInTopTen": 2,
+        "country": "bg",
+        "category": "films",
+        "name": "The Pope's Exorcist",
+        "showName": "The Pope's Exorcist",
+        "seasonName": "The Pope's Exorcist"
+    },
+    {
+        "showId": "80158583",
+        "id": "80158583",
+        "week": "20241103",
+        "rank": 10,
+        "weeksInTopTen": 2,
+        "country": "bg",
+        "category": "films",
+        "name": "Baywatch",
+        "showName": "Baywatch",
+        "seasonName": "Baywatch"
+    }
+]

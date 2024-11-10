@@ -1,0 +1,122 @@
+[
+    {
+        "showId": "81640914",
+        "id": "81640914",
+        "week": "20241103",
+        "rank": 1,
+        "weeksInTopTen": 2,
+        "country": "nl",
+        "category": "films",
+        "name": "The Super Mario Bros. Movie",
+        "showName": "The Super Mario Bros. Movie",
+        "seasonName": "The Super Mario Bros. Movie"
+    },
+    {
+        "showId": "81767564",
+        "id": "81767564",
+        "week": "20241103",
+        "rank": 2,
+        "weeksInTopTen": 2,
+        "country": "nl",
+        "category": "films",
+        "name": "Don't Move",
+        "showName": "Don't Move",
+        "seasonName": "Don't Move"
+    },
+    {
+        "showId": "81504326",
+        "id": "81504326",
+        "week": "20241103",
+        "rank": 3,
+        "weeksInTopTen": 1,
+        "country": "nl",
+        "category": "films",
+        "name": "Time Cut",
+        "showName": "Time Cut",
+        "seasonName": "Time Cut"
+    },
+    {
+        "showId": "81630893",
+        "id": "81630893",
+        "week": "20241103",
+        "rank": 4,
+        "weeksInTopTen": 3,
+        "country": "nl",
+        "category": "films",
+        "name": "The Most Beautiful Day",
+        "showName": "The Most Beautiful Day",
+        "seasonName": "The Most Beautiful Day"
+    },
+    {
+        "showId": "81728818",
+        "id": "81728818",
+        "week": "20241103",
+        "rank": 5,
+        "weeksInTopTen": 3,
+        "country": "nl",
+        "category": "films",
+        "name": "Woman of the Hour",
+        "showName": "Woman of the Hour",
+        "seasonName": "Woman of the Hour"
+    },
+    {
+        "showId": "81686180",
+        "id": "81686180",
+        "week": "20241103",
+        "rank": 6,
+        "weeksInTopTen": 2,
+        "country": "nl",
+        "category": "films",
+        "name": "Family Pack",
+        "showName": "Family Pack",
+        "seasonName": "Family Pack"
+    },
+    {
+        "showId": "81696510",
+        "id": "81696510",
+        "week": "20241103",
+        "rank": 7,
+        "weeksInTopTen": 3,
+        "country": "nl",
+        "category": "films",
+        "name": "Ordinary Angels",
+        "showName": "Ordinary Angels",
+        "seasonName": "Ordinary Angels"
+    },
+    {
+        "showId": "81157573",
+        "id": "81157573",
+        "week": "20241103",
+        "rank": 8,
+        "weeksInTopTen": 4,
+        "country": "nl",
+        "category": "films",
+        "name": "Lonely Planet",
+        "showName": "Lonely Planet",
+        "seasonName": "Lonely Planet"
+    },
+    {
+        "showId": "81713301",
+        "id": "81713301",
+        "week": "20241103",
+        "rank": 9,
+        "weeksInTopTen": 1,
+        "country": "nl",
+        "category": "films",
+        "name": "The Nun II",
+        "showName": "The Nun II",
+        "seasonName": "The Nun II"
+    },
+    {
+        "showId": "81475311",
+        "id": "81475311",
+        "week": "20241103",
+        "rank": 10,
+        "weeksInTopTen": 5,
+        "country": "nl",
+        "category": "films",
+        "name": "Sing 2",
+        "showName": "Sing 2",
+        "seasonName": "Sing 2"
+    }
+]

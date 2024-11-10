@@ -1,0 +1,122 @@
+[
+    {
+        "showId": "81504326",
+        "id": "81504326",
+        "week": "20241103",
+        "rank": 1,
+        "weeksInTopTen": 1,
+        "country": "hu",
+        "category": "films",
+        "name": "Time Cut",
+        "showName": "Time Cut",
+        "seasonName": "Time Cut"
+    },
+    {
+        "showId": "81767564",
+        "id": "81767564",
+        "week": "20241103",
+        "rank": 2,
+        "weeksInTopTen": 2,
+        "country": "hu",
+        "category": "films",
+        "name": "Don't Move",
+        "showName": "Don't Move",
+        "seasonName": "Don't Move"
+    },
+    {
+        "showId": "81686180",
+        "id": "81686180",
+        "week": "20241103",
+        "rank": 3,
+        "weeksInTopTen": 2,
+        "country": "hu",
+        "category": "films",
+        "name": "Family Pack",
+        "showName": "Family Pack",
+        "seasonName": "Family Pack"
+    },
+    {
+        "showId": "81728818",
+        "id": "81728818",
+        "week": "20241103",
+        "rank": 4,
+        "weeksInTopTen": 3,
+        "country": "hu",
+        "category": "films",
+        "name": "Woman of the Hour",
+        "showName": "Woman of the Hour",
+        "seasonName": "Woman of the Hour"
+    },
+    {
+        "showId": "81611209",
+        "id": "81611209",
+        "week": "20241103",
+        "rank": 5,
+        "weeksInTopTen": 1,
+        "country": "hu",
+        "category": "films",
+        "name": "Let Go",
+        "showName": "Let Go",
+        "seasonName": "Let Go"
+    },
+    {
+        "showId": "80117526",
+        "id": "80117526",
+        "week": "20241103",
+        "rank": 6,
+        "weeksInTopTen": 4,
+        "country": "hu",
+        "category": "films",
+        "name": "Sing",
+        "showName": "Sing",
+        "seasonName": "Sing"
+    },
+    {
+        "showId": "81157573",
+        "id": "81157573",
+        "week": "20241103",
+        "rank": 7,
+        "weeksInTopTen": 4,
+        "country": "hu",
+        "category": "films",
+        "name": "Lonely Planet",
+        "showName": "Lonely Planet",
+        "seasonName": "Lonely Planet"
+    },
+    {
+        "showId": "81083439",
+        "id": "81083439",
+        "week": "20241103",
+        "rank": 8,
+        "weeksInTopTen": 3,
+        "country": "hu",
+        "category": "films",
+        "name": "Spies in Disguise",
+        "showName": "Spies in Disguise",
+        "seasonName": "Spies in Disguise"
+    },
+    {
+        "showId": "81620884",
+        "id": "81620884",
+        "week": "20241103",
+        "rank": 9,
+        "weeksInTopTen": 3,
+        "country": "hu",
+        "category": "films",
+        "name": "Justice",
+        "showName": "Justice",
+        "seasonName": "Justice"
+    },
+    {
+        "showId": "81940448",
+        "id": "81940448",
+        "week": "20241103",
+        "rank": 10,
+        "weeksInTopTen": 1,
+        "country": "hu",
+        "category": "films",
+        "name": "Bet on Revenge",
+        "showName": "Bet on Revenge",
+        "seasonName": "Bet on Revenge"
+    }
+]

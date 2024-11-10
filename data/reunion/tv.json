@@ -1,0 +1,122 @@
+[
+    {
+        "showId": "81764523",
+        "id": "81764524",
+        "week": "20241103",
+        "rank": 1,
+        "weeksInTopTen": 2,
+        "country": "re",
+        "category": "tv",
+        "name": "Beauty in Black: Season 1",
+        "showName": "Beauty in Black",
+        "seasonName": "Season 1"
+    },
+    {
+        "showId": "81591574",
+        "id": "81591575",
+        "week": "20241103",
+        "rank": 2,
+        "weeksInTopTen": 2,
+        "country": "re",
+        "category": "tv",
+        "name": "Territory: Season 1",
+        "showName": "Territory",
+        "seasonName": "Season 1"
+    },
+    {
+        "showId": "81613239",
+        "id": "81613240",
+        "week": "20241103",
+        "rank": 3,
+        "weeksInTopTen": 1,
+        "country": "re",
+        "category": "tv",
+        "name": "Go Ahead, Brother: Season 1",
+        "showName": "Go Ahead, Brother",
+        "seasonName": "Season 1"
+    },
+    {
+        "showId": "81554969",
+        "id": "81554970",
+        "week": "20241103",
+        "rank": 4,
+        "weeksInTopTen": 1,
+        "country": "re",
+        "category": "tv",
+        "name": "Murder Mindfully: Season 1",
+        "showName": "Murder Mindfully",
+        "seasonName": "Season 1"
+    },
+    {
+        "showId": "81943491",
+        "id": "81943492",
+        "week": "20241103",
+        "rank": 5,
+        "weeksInTopTen": 2,
+        "country": "re",
+        "category": "tv",
+        "name": "Dragon Ball DAIMA: Season 1",
+        "showName": "Dragon Ball DAIMA",
+        "seasonName": "Season 1"
+    },
+    {
+        "showId": "81351064",
+        "id": "81351065",
+        "week": "20241103",
+        "rank": 6,
+        "weeksInTopTen": 1,
+        "country": "re",
+        "category": "tv",
+        "name": "Children of the Church Steps: Limited Series",
+        "showName": "Children of the Church Steps",
+        "seasonName": "Limited Series"
+    },
+    {
+        "showId": "81171925",
+        "id": "81301833",
+        "week": "20241103",
+        "rank": 7,
+        "weeksInTopTen": 4,
+        "country": "re",
+        "category": "tv",
+        "name": "Ranma1/2: Season 1",
+        "showName": "Ranma1/2",
+        "seasonName": "Season 1"
+    },
+    {
+        "showId": "81736884",
+        "id": "81736885",
+        "week": "20241103",
+        "rank": 8,
+        "weeksInTopTen": 4,
+        "country": "re",
+        "category": "tv",
+        "name": "DAN DA DAN",
+        "showName": "DAN DA DAN",
+        "seasonName": "DAN DA DAN"
+    },
+    {
+        "showId": "81303831",
+        "id": "81628779",
+        "week": "20241103",
+        "rank": 9,
+        "weeksInTopTen": 3,
+        "country": "re",
+        "category": "tv",
+        "name": "The Lincoln Lawyer: Season 3",
+        "showName": "The Lincoln Lawyer",
+        "seasonName": "Season 3"
+    },
+    {
+        "showId": "81288983",
+        "id": "81486271",
+        "week": "20241103",
+        "rank": 10,
+        "weeksInTopTen": 1,
+        "country": "re",
+        "category": "tv",
+        "name": "The Diplomat: Season 2",
+        "showName": "The Diplomat",
+        "seasonName": "Season 2"
+    }
+]

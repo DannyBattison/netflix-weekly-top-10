@@ -1,0 +1,122 @@
+[
+    {
+        "showId": "81622654",
+        "id": "81622655",
+        "week": "20241103",
+        "rank": 1,
+        "weeksInTopTen": 4,
+        "country": "lb",
+        "category": "tv",
+        "name": "Love Is Blind, Habibi: Season 1",
+        "showName": "Love Is Blind, Habibi",
+        "seasonName": "Season 1"
+    },
+    {
+        "showId": "81288983",
+        "id": "81486271",
+        "week": "20241103",
+        "rank": 2,
+        "weeksInTopTen": 1,
+        "country": "lb",
+        "category": "tv",
+        "name": "The Diplomat: Season 2",
+        "showName": "The Diplomat",
+        "seasonName": "Season 2"
+    },
+    {
+        "showId": "81764523",
+        "id": "81764524",
+        "week": "20241103",
+        "rank": 3,
+        "weeksInTopTen": 2,
+        "country": "lb",
+        "category": "tv",
+        "name": "Beauty in Black: Season 1",
+        "showName": "Beauty in Black",
+        "seasonName": "Season 1"
+    },
+    {
+        "showId": "81303831",
+        "id": "81628779",
+        "week": "20241103",
+        "rank": 4,
+        "weeksInTopTen": 3,
+        "country": "lb",
+        "category": "tv",
+        "name": "The Lincoln Lawyer: Season 3",
+        "showName": "The Lincoln Lawyer",
+        "seasonName": "Season 3"
+    },
+    {
+        "showId": "80236318",
+        "id": "81634116",
+        "week": "20241103",
+        "rank": 5,
+        "weeksInTopTen": 4,
+        "country": "lb",
+        "category": "tv",
+        "name": "Outer Banks: Season 4",
+        "showName": "Outer Banks",
+        "seasonName": "Season 4"
+    },
+    {
+        "showId": "81481334",
+        "id": "81481335",
+        "week": "20241103",
+        "rank": 6,
+        "weeksInTopTen": 4,
+        "country": "lb",
+        "category": "tv",
+        "name": "Deceitful Love: Limited Series",
+        "showName": "Deceitful Love",
+        "seasonName": "Limited Series"
+    },
+    {
+        "showId": "81591574",
+        "id": "81591575",
+        "week": "20241103",
+        "rank": 7,
+        "weeksInTopTen": 2,
+        "country": "lb",
+        "category": "tv",
+        "name": "Territory: Season 1",
+        "showName": "Territory",
+        "seasonName": "Season 1"
+    },
+    {
+        "showId": "81613239",
+        "id": "81613240",
+        "week": "20241103",
+        "rank": 8,
+        "weeksInTopTen": 1,
+        "country": "lb",
+        "category": "tv",
+        "name": "Go Ahead, Brother: Season 1",
+        "showName": "Go Ahead, Brother",
+        "seasonName": "Season 1"
+    },
+    {
+        "showId": "81591296",
+        "id": "81591297",
+        "week": "20241103",
+        "rank": 9,
+        "weeksInTopTen": 6,
+        "country": "lb",
+        "category": "tv",
+        "name": "Nobody Wants This: Season 1",
+        "showName": "Nobody Wants This",
+        "seasonName": "Season 1"
+    },
+    {
+        "showId": "81198299",
+        "id": "81413678",
+        "week": "20241103",
+        "rank": 10,
+        "weeksInTopTen": 6,
+        "country": "lb",
+        "category": "tv",
+        "name": "Finding Ola: Season 2",
+        "showName": "Finding Ola",
+        "seasonName": "Season 2"
+    }
+]

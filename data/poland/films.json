@@ -1,0 +1,122 @@
+[
+    {
+        "showId": "81598180",
+        "id": "81598180",
+        "week": "20241103",
+        "rank": 1,
+        "weeksInTopTen": 1,
+        "country": "pl",
+        "category": "films",
+        "name": "Ticket to Paradise",
+        "showName": "Ticket to Paradise",
+        "seasonName": "Ticket to Paradise"
+    },
+    {
+        "showId": "81504326",
+        "id": "81504326",
+        "week": "20241103",
+        "rank": 2,
+        "weeksInTopTen": 1,
+        "country": "pl",
+        "category": "films",
+        "name": "Time Cut",
+        "showName": "Time Cut",
+        "seasonName": "Time Cut"
+    },
+    {
+        "showId": "81620884",
+        "id": "81620884",
+        "week": "20241103",
+        "rank": 3,
+        "weeksInTopTen": 3,
+        "country": "pl",
+        "category": "films",
+        "name": "Justice",
+        "showName": "Justice",
+        "seasonName": "Justice"
+    },
+    {
+        "showId": "81686180",
+        "id": "81686180",
+        "week": "20241103",
+        "rank": 4,
+        "weeksInTopTen": 2,
+        "country": "pl",
+        "category": "films",
+        "name": "Family Pack",
+        "showName": "Family Pack",
+        "seasonName": "Family Pack"
+    },
+    {
+        "showId": "81713301",
+        "id": "81713301",
+        "week": "20241103",
+        "rank": 5,
+        "weeksInTopTen": 1,
+        "country": "pl",
+        "category": "films",
+        "name": "The Nun II",
+        "showName": "The Nun II",
+        "seasonName": "The Nun II"
+    },
+    {
+        "showId": "81676888",
+        "id": "81676888",
+        "week": "20241103",
+        "rank": 6,
+        "weeksInTopTen": 1,
+        "country": "pl",
+        "category": "films",
+        "name": "Hijack '93",
+        "showName": "Hijack '93",
+        "seasonName": "Hijack '93"
+    },
+    {
+        "showId": "81611209",
+        "id": "81611209",
+        "week": "20241103",
+        "rank": 7,
+        "weeksInTopTen": 1,
+        "country": "pl",
+        "category": "films",
+        "name": "Let Go",
+        "showName": "Let Go",
+        "seasonName": "Let Go"
+    },
+    {
+        "showId": "81588906",
+        "id": "81588906",
+        "week": "20241103",
+        "rank": 8,
+        "weeksInTopTen": 1,
+        "country": "pl",
+        "category": "films",
+        "name": "Mr. Malcolm's List",
+        "showName": "Mr. Malcolm's List",
+        "seasonName": "Mr. Malcolm's List"
+    },
+    {
+        "showId": "81681817",
+        "id": "81681817",
+        "week": "20241103",
+        "rank": 9,
+        "weeksInTopTen": 1,
+        "country": "pl",
+        "category": "films",
+        "name": "Do Patti",
+        "showName": "Do Patti",
+        "seasonName": "Do Patti"
+    },
+    {
+        "showId": "81198916",
+        "id": "81198916",
+        "week": "20241103",
+        "rank": 10,
+        "weeksInTopTen": 9,
+        "country": "pl",
+        "category": "films",
+        "name": "Minions: The Rise of Gru",
+        "showName": "Minions: The Rise of Gru",
+        "seasonName": "Minions: The Rise of Gru"
+    }
+]

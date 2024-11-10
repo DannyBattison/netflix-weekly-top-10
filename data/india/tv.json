@@ -1,0 +1,122 @@
+[
+    {
+        "showId": "81737430",
+        "id": "81786478",
+        "week": "20241103",
+        "rank": 1,
+        "weeksInTopTen": 7,
+        "country": "in",
+        "category": "tv",
+        "name": "The Great Indian Kapil Show: Season 2",
+        "showName": "The Great Indian Kapil Show",
+        "seasonName": "Season 2"
+    },
+    {
+        "showId": "81180964",
+        "id": "81681534",
+        "week": "20241103",
+        "rank": 2,
+        "weeksInTopTen": 3,
+        "country": "in",
+        "category": "tv",
+        "name": "Fabulous Lives of Bollywood Wives: Season 3",
+        "showName": "Fabulous Lives of Bollywood Wives",
+        "seasonName": "Season 3"
+    },
+    {
+        "showId": "81288983",
+        "id": "81486271",
+        "week": "20241103",
+        "rank": 3,
+        "weeksInTopTen": 1,
+        "country": "in",
+        "category": "tv",
+        "name": "The Diplomat: Season 2",
+        "showName": "The Diplomat",
+        "seasonName": "Season 2"
+    },
+    {
+        "showId": "81303831",
+        "id": "81628779",
+        "week": "20241103",
+        "rank": 4,
+        "weeksInTopTen": 3,
+        "country": "in",
+        "category": "tv",
+        "name": "The Lincoln Lawyer: Season 3",
+        "showName": "The Lincoln Lawyer",
+        "seasonName": "Season 3"
+    },
+    {
+        "showId": "81641421",
+        "id": "81641422",
+        "week": "20241103",
+        "rank": 5,
+        "weeksInTopTen": 1,
+        "country": "in",
+        "category": "tv",
+        "name": "Don\u00e2\u0080\u0099t Come Home: Limited Series",
+        "showName": "Don\u00e2\u0080\u0099t Come Home",
+        "seasonName": "Limited Series"
+    },
+    {
+        "showId": "81256675",
+        "id": "81284038",
+        "week": "20241103",
+        "rank": 6,
+        "weeksInTopTen": 1,
+        "country": "in",
+        "category": "tv",
+        "name": "Hellbound: Season 2",
+        "showName": "Hellbound",
+        "seasonName": "Season 2"
+    },
+    {
+        "showId": "81265803",
+        "id": "81265804",
+        "week": "20241103",
+        "rank": 7,
+        "weeksInTopTen": 10,
+        "country": "in",
+        "category": "tv",
+        "name": "IC 814: The Kandahar Hijack: Limited Series",
+        "showName": "IC 814: The Kandahar Hijack",
+        "seasonName": "Limited Series"
+    },
+    {
+        "showId": "81554969",
+        "id": "81554970",
+        "week": "20241103",
+        "rank": 8,
+        "weeksInTopTen": 1,
+        "country": "in",
+        "category": "tv",
+        "name": "Murder Mindfully: Season 1",
+        "showName": "Murder Mindfully",
+        "seasonName": "Season 1"
+    },
+    {
+        "showId": "81303831",
+        "id": "81303833",
+        "week": "20241103",
+        "rank": 9,
+        "weeksInTopTen": 9,
+        "country": "in",
+        "category": "tv",
+        "name": "The Lincoln Lawyer: Season 1",
+        "showName": "The Lincoln Lawyer",
+        "seasonName": "Season 1"
+    },
+    {
+        "showId": "81256675",
+        "id": "81256676",
+        "week": "20241103",
+        "rank": 10,
+        "weeksInTopTen": 4,
+        "country": "in",
+        "category": "tv",
+        "name": "Hellbound: Season 1",
+        "showName": "Hellbound",
+        "seasonName": "Season 1"
+    }
+]

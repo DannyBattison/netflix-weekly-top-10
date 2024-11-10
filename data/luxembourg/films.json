@@ -1,0 +1,122 @@
+[
+    {
+        "showId": "81504326",
+        "id": "81504326",
+        "week": "20241103",
+        "rank": 1,
+        "weeksInTopTen": 1,
+        "country": "lu",
+        "category": "films",
+        "name": "Time Cut",
+        "showName": "Time Cut",
+        "seasonName": "Time Cut"
+    },
+    {
+        "showId": "81686180",
+        "id": "81686180",
+        "week": "20241103",
+        "rank": 2,
+        "weeksInTopTen": 2,
+        "country": "lu",
+        "category": "films",
+        "name": "Family Pack",
+        "showName": "Family Pack",
+        "seasonName": "Family Pack"
+    },
+    {
+        "showId": "81767564",
+        "id": "81767564",
+        "week": "20241103",
+        "rank": 3,
+        "weeksInTopTen": 2,
+        "country": "lu",
+        "category": "films",
+        "name": "Don't Move",
+        "showName": "Don't Move",
+        "seasonName": "Don't Move"
+    },
+    {
+        "showId": "81728818",
+        "id": "81728818",
+        "week": "20241103",
+        "rank": 4,
+        "weeksInTopTen": 3,
+        "country": "lu",
+        "category": "films",
+        "name": "Woman of the Hour",
+        "showName": "Woman of the Hour",
+        "seasonName": "Woman of the Hour"
+    },
+    {
+        "showId": "81680788",
+        "id": "81680788",
+        "week": "20241103",
+        "rank": 5,
+        "weeksInTopTen": 1,
+        "country": "lu",
+        "category": "films",
+        "name": "Sisu",
+        "showName": "Sisu",
+        "seasonName": "Sisu"
+    },
+    {
+        "showId": "81676888",
+        "id": "81676888",
+        "week": "20241103",
+        "rank": 6,
+        "weeksInTopTen": 1,
+        "country": "lu",
+        "category": "films",
+        "name": "Hijack '93",
+        "showName": "Hijack '93",
+        "seasonName": "Hijack '93"
+    },
+    {
+        "showId": "81157573",
+        "id": "81157573",
+        "week": "20241103",
+        "rank": 7,
+        "weeksInTopTen": 4,
+        "country": "lu",
+        "category": "films",
+        "name": "Lonely Planet",
+        "showName": "Lonely Planet",
+        "seasonName": "Lonely Planet"
+    },
+    {
+        "showId": "81611209",
+        "id": "81611209",
+        "week": "20241103",
+        "rank": 8,
+        "weeksInTopTen": 1,
+        "country": "lu",
+        "category": "films",
+        "name": "Let Go",
+        "showName": "Let Go",
+        "seasonName": "Let Go"
+    },
+    {
+        "showId": "81696510",
+        "id": "81696510",
+        "week": "20241103",
+        "rank": 9,
+        "weeksInTopTen": 2,
+        "country": "lu",
+        "category": "films",
+        "name": "Ordinary Angels",
+        "showName": "Ordinary Angels",
+        "seasonName": "Ordinary Angels"
+    },
+    {
+        "showId": "81620884",
+        "id": "81620884",
+        "week": "20241103",
+        "rank": 10,
+        "weeksInTopTen": 3,
+        "country": "lu",
+        "category": "films",
+        "name": "Justice",
+        "showName": "Justice",
+        "seasonName": "Justice"
+    }
+]

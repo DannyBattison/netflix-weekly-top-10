@@ -1,0 +1,122 @@
+[
+    {
+        "showId": "81916012",
+        "id": "81916012",
+        "week": "20241103",
+        "rank": 1,
+        "weeksInTopTen": 1,
+        "country": "id",
+        "category": "films",
+        "name": "Marni: The Story of Wewe Gombel",
+        "showName": "Marni: The Story of Wewe Gombel",
+        "seasonName": "Marni: The Story of Wewe Gombel"
+    },
+    {
+        "showId": "81767564",
+        "id": "81767564",
+        "week": "20241103",
+        "rank": 2,
+        "weeksInTopTen": 2,
+        "country": "id",
+        "category": "films",
+        "name": "Don't Move",
+        "showName": "Don't Move",
+        "seasonName": "Don't Move"
+    },
+    {
+        "showId": "81678619",
+        "id": "81678619",
+        "week": "20241103",
+        "rank": 3,
+        "weeksInTopTen": 2,
+        "country": "id",
+        "category": "films",
+        "name": "Possession: Kerasukan",
+        "showName": "Possession: Kerasukan",
+        "seasonName": "Possession: Kerasukan"
+    },
+    {
+        "showId": "81927385",
+        "id": "81927385",
+        "week": "20241103",
+        "rank": 4,
+        "weeksInTopTen": 1,
+        "country": "id",
+        "category": "films",
+        "name": "Janji Darah",
+        "showName": "Janji Darah",
+        "seasonName": "Janji Darah"
+    },
+    {
+        "showId": "81681817",
+        "id": "81681817",
+        "week": "20241103",
+        "rank": 5,
+        "weeksInTopTen": 2,
+        "country": "id",
+        "category": "films",
+        "name": "Do Patti",
+        "showName": "Do Patti",
+        "seasonName": "Do Patti"
+    },
+    {
+        "showId": "81930066",
+        "id": "81930066",
+        "week": "20241103",
+        "rank": 6,
+        "weeksInTopTen": 1,
+        "country": "id",
+        "category": "films",
+        "name": "Haikyu!!: The Dumpster Battle",
+        "showName": "Haikyu!!: The Dumpster Battle",
+        "seasonName": "Haikyu!!: The Dumpster Battle"
+    },
+    {
+        "showId": "81504326",
+        "id": "81504326",
+        "week": "20241103",
+        "rank": 7,
+        "weeksInTopTen": 1,
+        "country": "id",
+        "category": "films",
+        "name": "Time Cut",
+        "showName": "Time Cut",
+        "seasonName": "Time Cut"
+    },
+    {
+        "showId": "81676888",
+        "id": "81676888",
+        "week": "20241103",
+        "rank": 8,
+        "weeksInTopTen": 1,
+        "country": "id",
+        "category": "films",
+        "name": "Hijack '93",
+        "showName": "Hijack '93",
+        "seasonName": "Hijack '93"
+    },
+    {
+        "showId": "81624008",
+        "id": "81624008",
+        "week": "20241103",
+        "rank": 9,
+        "weeksInTopTen": 3,
+        "country": "id",
+        "category": "films",
+        "name": "The Shadow Strays",
+        "showName": "The Shadow Strays",
+        "seasonName": "The Shadow Strays"
+    },
+    {
+        "showId": "81916088",
+        "id": "81916088",
+        "week": "20241103",
+        "rank": 10,
+        "weeksInTopTen": 4,
+        "country": "id",
+        "category": "films",
+        "name": "Harlot's Prayer",
+        "showName": "Harlot's Prayer",
+        "seasonName": "Harlot's Prayer"
+    }
+]

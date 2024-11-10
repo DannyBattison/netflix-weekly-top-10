@@ -1,0 +1,122 @@
+[
+    {
+        "showId": "81767564",
+        "id": "81767564",
+        "week": "20241103",
+        "rank": 1,
+        "weeksInTopTen": 2,
+        "country": "dk",
+        "category": "films",
+        "name": "Don't Move",
+        "showName": "Don't Move",
+        "seasonName": "Don't Move"
+    },
+    {
+        "showId": "81504326",
+        "id": "81504326",
+        "week": "20241103",
+        "rank": 2,
+        "weeksInTopTen": 1,
+        "country": "dk",
+        "category": "films",
+        "name": "Time Cut",
+        "showName": "Time Cut",
+        "seasonName": "Time Cut"
+    },
+    {
+        "showId": "81627351",
+        "id": "81627351",
+        "week": "20241103",
+        "rank": 3,
+        "weeksInTopTen": 1,
+        "country": "dk",
+        "category": "films",
+        "name": "Love Again",
+        "showName": "Love Again",
+        "seasonName": "Love Again"
+    },
+    {
+        "showId": "81759420",
+        "id": "81759420",
+        "week": "20241103",
+        "rank": 4,
+        "weeksInTopTen": 1,
+        "country": "dk",
+        "category": "films",
+        "name": "The Remarkable Life of Ibelin",
+        "showName": "The Remarkable Life of Ibelin",
+        "seasonName": "The Remarkable Life of Ibelin"
+    },
+    {
+        "showId": "81686180",
+        "id": "81686180",
+        "week": "20241103",
+        "rank": 5,
+        "weeksInTopTen": 2,
+        "country": "dk",
+        "category": "films",
+        "name": "Family Pack",
+        "showName": "Family Pack",
+        "seasonName": "Family Pack"
+    },
+    {
+        "showId": "81611209",
+        "id": "81611209",
+        "week": "20241103",
+        "rank": 6,
+        "weeksInTopTen": 1,
+        "country": "dk",
+        "category": "films",
+        "name": "Let Go",
+        "showName": "Let Go",
+        "seasonName": "Let Go"
+    },
+    {
+        "showId": "81157573",
+        "id": "81157573",
+        "week": "20241103",
+        "rank": 7,
+        "weeksInTopTen": 4,
+        "country": "dk",
+        "category": "films",
+        "name": "Lonely Planet",
+        "showName": "Lonely Planet",
+        "seasonName": "Lonely Planet"
+    },
+    {
+        "showId": "81479059",
+        "id": "81479059",
+        "week": "20241103",
+        "rank": 8,
+        "weeksInTopTen": 1,
+        "country": "dk",
+        "category": "films",
+        "name": "Martha",
+        "showName": "Martha",
+        "seasonName": "Martha"
+    },
+    {
+        "showId": "81591286",
+        "id": "81591286",
+        "week": "20241103",
+        "rank": 9,
+        "weeksInTopTen": 3,
+        "country": "dk",
+        "category": "films",
+        "name": "Sweet Bobby: My Catfish Nightmare",
+        "showName": "Sweet Bobby: My Catfish Nightmare",
+        "seasonName": "Sweet Bobby: My Catfish Nightmare"
+    },
+    {
+        "showId": "80991034",
+        "id": "80991034",
+        "week": "20241103",
+        "rank": 10,
+        "weeksInTopTen": 1,
+        "country": "dk",
+        "category": "films",
+        "name": "Venom",
+        "showName": "Venom",
+        "seasonName": "Venom"
+    }
+]

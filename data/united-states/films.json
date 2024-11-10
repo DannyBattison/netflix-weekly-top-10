@@ -1,0 +1,122 @@
+[
+    {
+        "showId": "81767564",
+        "id": "81767564",
+        "week": "20241103",
+        "rank": 1,
+        "weeksInTopTen": 2,
+        "country": "us",
+        "category": "films",
+        "name": "Don't Move",
+        "showName": "Don't Move",
+        "seasonName": "Don't Move"
+    },
+    {
+        "showId": "81504326",
+        "id": "81504326",
+        "week": "20241103",
+        "rank": 2,
+        "weeksInTopTen": 1,
+        "country": "us",
+        "category": "films",
+        "name": "Time Cut",
+        "showName": "Time Cut",
+        "seasonName": "Time Cut"
+    },
+    {
+        "showId": "80095314",
+        "id": "80095314",
+        "week": "20241103",
+        "rank": 3,
+        "weeksInTopTen": 2,
+        "country": "us",
+        "category": "films",
+        "name": "The Secret Life of Pets",
+        "showName": "The Secret Life of Pets",
+        "seasonName": "The Secret Life of Pets"
+    },
+    {
+        "showId": "81479059",
+        "id": "81479059",
+        "week": "20241103",
+        "rank": 4,
+        "weeksInTopTen": 1,
+        "country": "us",
+        "category": "films",
+        "name": "Martha",
+        "showName": "Martha",
+        "seasonName": "Martha"
+    },
+    {
+        "showId": "81728818",
+        "id": "81728818",
+        "week": "20241103",
+        "rank": 5,
+        "weeksInTopTen": 3,
+        "country": "us",
+        "category": "films",
+        "name": "Woman of the Hour",
+        "showName": "Woman of the Hour",
+        "seasonName": "Woman of the Hour"
+    },
+    {
+        "showId": "80117526",
+        "id": "80117526",
+        "week": "20241103",
+        "rank": 6,
+        "weeksInTopTen": 5,
+        "country": "us",
+        "category": "films",
+        "name": "Sing",
+        "showName": "Sing",
+        "seasonName": "Sing"
+    },
+    {
+        "showId": "81767873",
+        "id": "81767873",
+        "week": "20241103",
+        "rank": 7,
+        "weeksInTopTen": 2,
+        "country": "us",
+        "category": "films",
+        "name": "Kung Fu Panda 4",
+        "showName": "Kung Fu Panda 4",
+        "seasonName": "Kung Fu Panda 4"
+    },
+    {
+        "showId": "81623335",
+        "id": "81623335",
+        "week": "20241103",
+        "rank": 8,
+        "weeksInTopTen": 1,
+        "country": "us",
+        "category": "films",
+        "name": "Harold and the Purple Crayon",
+        "showName": "Harold and the Purple Crayon",
+        "seasonName": "Harold and the Purple Crayon"
+    },
+    {
+        "showId": "81762792",
+        "id": "81762792",
+        "week": "20241103",
+        "rank": 9,
+        "weeksInTopTen": 4,
+        "country": "us",
+        "category": "films",
+        "name": "Bad Boys: Ride or Die",
+        "showName": "Bad Boys: Ride or Die",
+        "seasonName": "Bad Boys: Ride or Die"
+    },
+    {
+        "showId": "80033394",
+        "id": "80033394",
+        "week": "20241103",
+        "rank": 10,
+        "weeksInTopTen": 16,
+        "country": "us",
+        "category": "films",
+        "name": "Minions",
+        "showName": "Minions",
+        "seasonName": "Minions"
+    }
+]

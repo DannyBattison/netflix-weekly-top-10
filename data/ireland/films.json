@@ -1,0 +1,122 @@
+[
+    {
+        "showId": "81767564",
+        "id": "81767564",
+        "week": "20241103",
+        "rank": 1,
+        "weeksInTopTen": 2,
+        "country": "ie",
+        "category": "films",
+        "name": "Don't Move",
+        "showName": "Don't Move",
+        "seasonName": "Don't Move"
+    },
+    {
+        "showId": "81504326",
+        "id": "81504326",
+        "week": "20241103",
+        "rank": 2,
+        "weeksInTopTen": 1,
+        "country": "ie",
+        "category": "films",
+        "name": "Time Cut",
+        "showName": "Time Cut",
+        "seasonName": "Time Cut"
+    },
+    {
+        "showId": "81728818",
+        "id": "81728818",
+        "week": "20241103",
+        "rank": 3,
+        "weeksInTopTen": 3,
+        "country": "ie",
+        "category": "films",
+        "name": "Woman of the Hour",
+        "showName": "Woman of the Hour",
+        "seasonName": "Woman of the Hour"
+    },
+    {
+        "showId": "81479059",
+        "id": "81479059",
+        "week": "20241103",
+        "rank": 4,
+        "weeksInTopTen": 1,
+        "country": "ie",
+        "category": "films",
+        "name": "Martha",
+        "showName": "Martha",
+        "seasonName": "Martha"
+    },
+    {
+        "showId": "81616256",
+        "id": "81616256",
+        "week": "20241103",
+        "rank": 5,
+        "weeksInTopTen": 4,
+        "country": "ie",
+        "category": "films",
+        "name": "A Man Called Otto",
+        "showName": "A Man Called Otto",
+        "seasonName": "A Man Called Otto"
+    },
+    {
+        "showId": "70284279",
+        "id": "70284279",
+        "week": "20241103",
+        "rank": 6,
+        "weeksInTopTen": 1,
+        "country": "ie",
+        "category": "films",
+        "name": "Labor Day",
+        "showName": "Labor Day",
+        "seasonName": "Labor Day"
+    },
+    {
+        "showId": "80158583",
+        "id": "80158583",
+        "week": "20241103",
+        "rank": 7,
+        "weeksInTopTen": 1,
+        "country": "ie",
+        "category": "films",
+        "name": "Baywatch",
+        "showName": "Baywatch",
+        "seasonName": "Baywatch"
+    },
+    {
+        "showId": "80117526",
+        "id": "80117526",
+        "week": "20241103",
+        "rank": 8,
+        "weeksInTopTen": 21,
+        "country": "ie",
+        "category": "films",
+        "name": "Sing",
+        "showName": "Sing",
+        "seasonName": "Sing"
+    },
+    {
+        "showId": "81516447",
+        "id": "81516447",
+        "week": "20241103",
+        "rank": 9,
+        "weeksInTopTen": 2,
+        "country": "ie",
+        "category": "films",
+        "name": "Fantastic Beasts: The Secrets of Dumbledore",
+        "showName": "Fantastic Beasts: The Secrets of Dumbledore",
+        "seasonName": "Fantastic Beasts: The Secrets of Dumbledore"
+    },
+    {
+        "showId": "80185871",
+        "id": "80185871",
+        "week": "20241103",
+        "rank": 10,
+        "weeksInTopTen": 1,
+        "country": "ie",
+        "category": "films",
+        "name": "Geostorm",
+        "showName": "Geostorm",
+        "seasonName": "Geostorm"
+    }
+]

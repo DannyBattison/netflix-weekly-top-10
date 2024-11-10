@@ -1,0 +1,122 @@
+[
+    {
+        "showId": "81504326",
+        "id": "81504326",
+        "week": "20241103",
+        "rank": 1,
+        "weeksInTopTen": 1,
+        "country": "lv",
+        "category": "films",
+        "name": "Time Cut",
+        "showName": "Time Cut",
+        "seasonName": "Time Cut"
+    },
+    {
+        "showId": "81555726",
+        "id": "81555726",
+        "week": "20241103",
+        "rank": 2,
+        "weeksInTopTen": 2,
+        "country": "lv",
+        "category": "films",
+        "name": "Puss in Boots: The Last Wish",
+        "showName": "Puss in Boots: The Last Wish",
+        "seasonName": "Puss in Boots: The Last Wish"
+    },
+    {
+        "showId": "81686180",
+        "id": "81686180",
+        "week": "20241103",
+        "rank": 3,
+        "weeksInTopTen": 2,
+        "country": "lv",
+        "category": "films",
+        "name": "Family Pack",
+        "showName": "Family Pack",
+        "seasonName": "Family Pack"
+    },
+    {
+        "showId": "70061480",
+        "id": "70061480",
+        "week": "20241103",
+        "rank": 4,
+        "weeksInTopTen": 1,
+        "country": "lv",
+        "category": "films",
+        "name": "War",
+        "showName": "War",
+        "seasonName": "War"
+    },
+    {
+        "showId": "81083439",
+        "id": "81083439",
+        "week": "20241103",
+        "rank": 5,
+        "weeksInTopTen": 3,
+        "country": "lv",
+        "category": "films",
+        "name": "Spies in Disguise",
+        "showName": "Spies in Disguise",
+        "seasonName": "Spies in Disguise"
+    },
+    {
+        "showId": "81475311",
+        "id": "81475311",
+        "week": "20241103",
+        "rank": 6,
+        "weeksInTopTen": 17,
+        "country": "lv",
+        "category": "films",
+        "name": "Sing 2",
+        "showName": "Sing 2",
+        "seasonName": "Sing 2"
+    },
+    {
+        "showId": "80991034",
+        "id": "80991034",
+        "week": "20241103",
+        "rank": 7,
+        "weeksInTopTen": 3,
+        "country": "lv",
+        "category": "films",
+        "name": "Venom",
+        "showName": "Venom",
+        "seasonName": "Venom"
+    },
+    {
+        "showId": "81479059",
+        "id": "81479059",
+        "week": "20241103",
+        "rank": 8,
+        "weeksInTopTen": 1,
+        "country": "lv",
+        "category": "films",
+        "name": "Martha",
+        "showName": "Martha",
+        "seasonName": "Martha"
+    },
+    {
+        "showId": "81157573",
+        "id": "81157573",
+        "week": "20241103",
+        "rank": 9,
+        "weeksInTopTen": 4,
+        "country": "lv",
+        "category": "films",
+        "name": "Lonely Planet",
+        "showName": "Lonely Planet",
+        "seasonName": "Lonely Planet"
+    },
+    {
+        "showId": "70284279",
+        "id": "70284279",
+        "week": "20241103",
+        "rank": 10,
+        "weeksInTopTen": 1,
+        "country": "lv",
+        "category": "films",
+        "name": "Labor Day",
+        "showName": "Labor Day",
+        "seasonName": "Labor Day"
+    }
+]

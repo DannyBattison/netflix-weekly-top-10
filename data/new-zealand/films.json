@@ -1,0 +1,122 @@
+[
+    {
+        "showId": "81625291",
+        "id": "81625291",
+        "week": "20241103",
+        "rank": 1,
+        "weeksInTopTen": 1,
+        "country": "nz",
+        "category": "films",
+        "name": "Plane",
+        "showName": "Plane",
+        "seasonName": "Plane"
+    },
+    {
+        "showId": "81767564",
+        "id": "81767564",
+        "week": "20241103",
+        "rank": 2,
+        "weeksInTopTen": 2,
+        "country": "nz",
+        "category": "films",
+        "name": "Don't Move",
+        "showName": "Don't Move",
+        "seasonName": "Don't Move"
+    },
+    {
+        "showId": "81504326",
+        "id": "81504326",
+        "week": "20241103",
+        "rank": 3,
+        "weeksInTopTen": 1,
+        "country": "nz",
+        "category": "films",
+        "name": "Time Cut",
+        "showName": "Time Cut",
+        "seasonName": "Time Cut"
+    },
+    {
+        "showId": "80222414",
+        "id": "80222414",
+        "week": "20241103",
+        "rank": 4,
+        "weeksInTopTen": 1,
+        "country": "nz",
+        "category": "films",
+        "name": "Made in Italy",
+        "showName": "Made in Italy",
+        "seasonName": "Made in Italy"
+    },
+    {
+        "showId": "81728818",
+        "id": "81728818",
+        "week": "20241103",
+        "rank": 5,
+        "weeksInTopTen": 3,
+        "country": "nz",
+        "category": "films",
+        "name": "Woman of the Hour",
+        "showName": "Woman of the Hour",
+        "seasonName": "Woman of the Hour"
+    },
+    {
+        "showId": "81475311",
+        "id": "81475311",
+        "week": "20241103",
+        "rank": 6,
+        "weeksInTopTen": 16,
+        "country": "nz",
+        "category": "films",
+        "name": "Sing 2",
+        "showName": "Sing 2",
+        "seasonName": "Sing 2"
+    },
+    {
+        "showId": "80100582",
+        "id": "80100582",
+        "week": "20241103",
+        "rank": 7,
+        "weeksInTopTen": 2,
+        "country": "nz",
+        "category": "films",
+        "name": "Mechanic: Resurrection",
+        "showName": "Mechanic: Resurrection",
+        "seasonName": "Mechanic: Resurrection"
+    },
+    {
+        "showId": "81686180",
+        "id": "81686180",
+        "week": "20241103",
+        "rank": 8,
+        "weeksInTopTen": 2,
+        "country": "nz",
+        "category": "films",
+        "name": "Family Pack",
+        "showName": "Family Pack",
+        "seasonName": "Family Pack"
+    },
+    {
+        "showId": "80158583",
+        "id": "80158583",
+        "week": "20241103",
+        "rank": 9,
+        "weeksInTopTen": 1,
+        "country": "nz",
+        "category": "films",
+        "name": "Baywatch",
+        "showName": "Baywatch",
+        "seasonName": "Baywatch"
+    },
+    {
+        "showId": "81479059",
+        "id": "81479059",
+        "week": "20241103",
+        "rank": 10,
+        "weeksInTopTen": 1,
+        "country": "nz",
+        "category": "films",
+        "name": "Martha",
+        "showName": "Martha",
+        "seasonName": "Martha"
+    }
+]

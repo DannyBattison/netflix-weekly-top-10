@@ -1,0 +1,122 @@
+[
+    {
+        "showId": "81767564",
+        "id": "81767564",
+        "week": "20241103",
+        "rank": 1,
+        "weeksInTopTen": 2,
+        "country": "gr",
+        "category": "films",
+        "name": "Don't Move",
+        "showName": "Don't Move",
+        "seasonName": "Don't Move"
+    },
+    {
+        "showId": "81504326",
+        "id": "81504326",
+        "week": "20241103",
+        "rank": 2,
+        "weeksInTopTen": 1,
+        "country": "gr",
+        "category": "films",
+        "name": "Time Cut",
+        "showName": "Time Cut",
+        "seasonName": "Time Cut"
+    },
+    {
+        "showId": "81686180",
+        "id": "81686180",
+        "week": "20241103",
+        "rank": 3,
+        "weeksInTopTen": 2,
+        "country": "gr",
+        "category": "films",
+        "name": "Family Pack",
+        "showName": "Family Pack",
+        "seasonName": "Family Pack"
+    },
+    {
+        "showId": "81620884",
+        "id": "81620884",
+        "week": "20241103",
+        "rank": 4,
+        "weeksInTopTen": 3,
+        "country": "gr",
+        "category": "films",
+        "name": "Justice",
+        "showName": "Justice",
+        "seasonName": "Justice"
+    },
+    {
+        "showId": "81912728",
+        "id": "81912728",
+        "week": "20241103",
+        "rank": 5,
+        "weeksInTopTen": 3,
+        "country": "gr",
+        "category": "films",
+        "name": "What If...",
+        "showName": "What If...",
+        "seasonName": "What If..."
+    },
+    {
+        "showId": "81643622",
+        "id": "81643622",
+        "week": "20241103",
+        "rank": 6,
+        "weeksInTopTen": 2,
+        "country": "gr",
+        "category": "films",
+        "name": "Missing",
+        "showName": "Missing",
+        "seasonName": "Missing"
+    },
+    {
+        "showId": "81083439",
+        "id": "81083439",
+        "week": "20241103",
+        "rank": 7,
+        "weeksInTopTen": 3,
+        "country": "gr",
+        "category": "films",
+        "name": "Spies in Disguise",
+        "showName": "Spies in Disguise",
+        "seasonName": "Spies in Disguise"
+    },
+    {
+        "showId": "81157573",
+        "id": "81157573",
+        "week": "20241103",
+        "rank": 8,
+        "weeksInTopTen": 4,
+        "country": "gr",
+        "category": "films",
+        "name": "Lonely Planet",
+        "showName": "Lonely Planet",
+        "seasonName": "Lonely Planet"
+    },
+    {
+        "showId": "81676888",
+        "id": "81676888",
+        "week": "20241103",
+        "rank": 9,
+        "weeksInTopTen": 1,
+        "country": "gr",
+        "category": "films",
+        "name": "Hijack '93",
+        "showName": "Hijack '93",
+        "seasonName": "Hijack '93"
+    },
+    {
+        "showId": "81619948",
+        "id": "81619948",
+        "week": "20241103",
+        "rank": 10,
+        "weeksInTopTen": 1,
+        "country": "gr",
+        "category": "films",
+        "name": "M3GAN",
+        "showName": "M3GAN",
+        "seasonName": "M3GAN"
+    }
+]
