@@ -6,7 +6,7 @@ on:
   workflow_dispatch:     # Allows manual trigger
 
 jobs:
-  run-python-script:
+  update-charts:
     runs-on: ubuntu-latest
 
     permissions:
