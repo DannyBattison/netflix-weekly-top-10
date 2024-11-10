@@ -33,8 +33,13 @@ jobs:
           cd src
           python scraper.py
 
+      - name: Update README with last updated date badge
+        run: |
+          DATE=$(date +'%Y-%m-%d')
+          sed -i '1s/.*/![Last updated](https://img.shields.io/badge/Last%20updated-$DATE-blue)/' README.md
+
+
       - name: Commit changes
-      
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Update charts
