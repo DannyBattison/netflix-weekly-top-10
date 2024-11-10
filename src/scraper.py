@@ -33,3 +33,5 @@ for country in countries:
 
         else:
             print(f"Failed to retrieve the page. Status code: {response.status_code}")
+
+    print(f"Data for {country} has been saved successfully")
