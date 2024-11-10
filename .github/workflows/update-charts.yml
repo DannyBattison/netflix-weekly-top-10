@@ -1,4 +1,4 @@
-name: Weekly Python Script
+name: Update charts
 
 on:
   schedule:
