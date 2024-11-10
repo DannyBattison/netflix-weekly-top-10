@@ -1,0 +1,122 @@
+[
+    {
+        "showId": "81767564",
+        "id": "81767564",
+        "week": "20241103",
+        "rank": 1,
+        "weeksInTopTen": 2,
+        "country": "ca",
+        "category": "films",
+        "name": "Don't Move",
+        "showName": "Don't Move",
+        "seasonName": "Don't Move"
+    },
+    {
+        "showId": "81504326",
+        "id": "81504326",
+        "week": "20241103",
+        "rank": 2,
+        "weeksInTopTen": 1,
+        "country": "ca",
+        "category": "films",
+        "name": "Time Cut",
+        "showName": "Time Cut",
+        "seasonName": "Time Cut"
+    },
+    {
+        "showId": "81479059",
+        "id": "81479059",
+        "week": "20241103",
+        "rank": 3,
+        "weeksInTopTen": 1,
+        "country": "ca",
+        "category": "films",
+        "name": "Martha",
+        "showName": "Martha",
+        "seasonName": "Martha"
+    },
+    {
+        "showId": "80158583",
+        "id": "80158583",
+        "week": "20241103",
+        "rank": 4,
+        "weeksInTopTen": 1,
+        "country": "ca",
+        "category": "films",
+        "name": "Baywatch",
+        "showName": "Baywatch",
+        "seasonName": "Baywatch"
+    },
+    {
+        "showId": "81579532",
+        "id": "81579532",
+        "week": "20241103",
+        "rank": 5,
+        "weeksInTopTen": 1,
+        "country": "ca",
+        "category": "films",
+        "name": "Beast (English)",
+        "showName": "Beast (English)",
+        "seasonName": "Beast (English)"
+    },
+    {
+        "showId": "81658304",
+        "id": "81658304",
+        "week": "20241103",
+        "rank": 6,
+        "weeksInTopTen": 1,
+        "country": "ca",
+        "category": "films",
+        "name": "Mindcage",
+        "showName": "Mindcage",
+        "seasonName": "Mindcage"
+    },
+    {
+        "showId": "81198916",
+        "id": "81198916",
+        "week": "20241103",
+        "rank": 7,
+        "weeksInTopTen": 5,
+        "country": "ca",
+        "category": "films",
+        "name": "Minions: The Rise of Gru",
+        "showName": "Minions: The Rise of Gru",
+        "seasonName": "Minions: The Rise of Gru"
+    },
+    {
+        "showId": "81686180",
+        "id": "81686180",
+        "week": "20241103",
+        "rank": 8,
+        "weeksInTopTen": 2,
+        "country": "ca",
+        "category": "films",
+        "name": "Family Pack",
+        "showName": "Family Pack",
+        "seasonName": "Family Pack"
+    },
+    {
+        "showId": "70284279",
+        "id": "70284279",
+        "week": "20241103",
+        "rank": 9,
+        "weeksInTopTen": 3,
+        "country": "ca",
+        "category": "films",
+        "name": "Labor Day",
+        "showName": "Labor Day",
+        "seasonName": "Labor Day"
+    },
+    {
+        "showId": "81224644",
+        "id": "81224644",
+        "week": "20241103",
+        "rank": 10,
+        "weeksInTopTen": 1,
+        "country": "ca",
+        "category": "films",
+        "name": "Prey for the Devil",
+        "showName": "Prey for the Devil",
+        "seasonName": "Prey for the Devil"
+    }
+]

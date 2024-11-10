@@ -1,0 +1,122 @@
+[
+    {
+        "showId": "81681817",
+        "id": "81681817",
+        "week": "20241103",
+        "rank": 1,
+        "weeksInTopTen": 2,
+        "country": "bd",
+        "category": "films",
+        "name": "Do Patti",
+        "showName": "Do Patti",
+        "seasonName": "Do Patti"
+    },
+    {
+        "showId": "81713677",
+        "id": "81713677",
+        "week": "20241103",
+        "rank": 2,
+        "weeksInTopTen": 1,
+        "country": "bd",
+        "category": "films",
+        "name": "Meiyazhagan",
+        "showName": "Meiyazhagan",
+        "seasonName": "Meiyazhagan"
+    },
+    {
+        "showId": "81602889",
+        "id": "81602889",
+        "week": "20241103",
+        "rank": 3,
+        "weeksInTopTen": 2,
+        "country": "bd",
+        "category": "films",
+        "name": "Transformers: Rise of the Beasts",
+        "showName": "Transformers: Rise of the Beasts",
+        "seasonName": "Transformers: Rise of the Beasts"
+    },
+    {
+        "showId": "81767564",
+        "id": "81767564",
+        "week": "20241103",
+        "rank": 4,
+        "weeksInTopTen": 2,
+        "country": "bd",
+        "category": "films",
+        "name": "Don't Move",
+        "showName": "Don't Move",
+        "seasonName": "Don't Move"
+    },
+    {
+        "showId": "81631010",
+        "id": "81631010",
+        "week": "20241103",
+        "rank": 5,
+        "weeksInTopTen": 4,
+        "country": "bd",
+        "category": "films",
+        "name": "Khel Khel Mein",
+        "showName": "Khel Khel Mein",
+        "seasonName": "Khel Khel Mein"
+    },
+    {
+        "showId": "81504326",
+        "id": "81504326",
+        "week": "20241103",
+        "rank": 6,
+        "weeksInTopTen": 1,
+        "country": "bd",
+        "category": "films",
+        "name": "Time Cut",
+        "showName": "Time Cut",
+        "seasonName": "Time Cut"
+    },
+    {
+        "showId": "81686180",
+        "id": "81686180",
+        "week": "20241103",
+        "rank": 7,
+        "weeksInTopTen": 2,
+        "country": "bd",
+        "category": "films",
+        "name": "Family Pack",
+        "showName": "Family Pack",
+        "seasonName": "Family Pack"
+    },
+    {
+        "showId": "81676888",
+        "id": "81676888",
+        "week": "20241103",
+        "rank": 8,
+        "weeksInTopTen": 1,
+        "country": "bd",
+        "category": "films",
+        "name": "Hijack '93",
+        "showName": "Hijack '93",
+        "seasonName": "Hijack '93"
+    },
+    {
+        "showId": "81769841",
+        "id": "81769841",
+        "week": "20241103",
+        "rank": 9,
+        "weeksInTopTen": 5,
+        "country": "bd",
+        "category": "films",
+        "name": "CTRL",
+        "showName": "CTRL",
+        "seasonName": "CTRL"
+    },
+    {
+        "showId": "81762714",
+        "id": "81762714",
+        "week": "20241103",
+        "rank": 10,
+        "weeksInTopTen": 5,
+        "country": "bd",
+        "category": "films",
+        "name": "GOAT - The Greatest of All Time",
+        "showName": "GOAT - The Greatest of All Time",
+        "seasonName": "GOAT - The Greatest of All Time"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "showId": "81681626",
+        "id": "81681627",
+        "week": "20241103",
+        "rank": 1,
+        "weeksInTopTen": 2,
+        "country": "lv",
+        "category": "tv",
+        "name": "This Is the Zodiac Speaking: Season 1",
+        "showName": "This Is the Zodiac Speaking",
+        "seasonName": "Season 1"
+    },
+    {
+        "showId": "81288983",
+        "id": "81486271",
+        "week": "20241103",
+        "rank": 2,
+        "weeksInTopTen": 1,
+        "country": "lv",
+        "category": "tv",
+        "name": "The Diplomat: Season 2",
+        "showName": "The Diplomat",
+        "seasonName": "Season 2"
+    },
+    {
+        "showId": "80192612",
+        "id": "81786168",
+        "week": "20241103",
+        "rank": 3,
+        "weeksInTopTen": 1,
+        "country": "lv",
+        "category": "tv",
+        "name": "Young Sheldon: Season 7",
+        "showName": "Young Sheldon",
+        "seasonName": "Season 7"
+    },
+    {
+        "showId": "81764523",
+        "id": "81764524",
+        "week": "20241103",
+        "rank": 4,
+        "weeksInTopTen": 2,
+        "country": "lv",
+        "category": "tv",
+        "name": "Beauty in Black: Season 1",
+        "showName": "Beauty in Black",
+        "seasonName": "Season 1"
+    },
+    {
+        "showId": "81591296",
+        "id": "81591297",
+        "week": "20241103",
+        "rank": 5,
+        "weeksInTopTen": 6,
+        "country": "lv",
+        "category": "tv",
+        "name": "Nobody Wants This: Season 1",
+        "showName": "Nobody Wants This",
+        "seasonName": "Season 1"
+    },
+    {
+        "showId": "81303831",
+        "id": "81628779",
+        "week": "20241103",
+        "rank": 6,
+        "weeksInTopTen": 3,
+        "country": "lv",
+        "category": "tv",
+        "name": "The Lincoln Lawyer: Season 3",
+        "showName": "The Lincoln Lawyer",
+        "seasonName": "Season 3"
+    },
+    {
+        "showId": "81665094",
+        "id": "81582441",
+        "week": "20241103",
+        "rank": 7,
+        "weeksInTopTen": 7,
+        "country": "lv",
+        "category": "tv",
+        "name": "Monsters: The Lyle and Erik Menendez Story",
+        "showName": "Monsters",
+        "seasonName": "The Lyle and Erik Menendez Story"
+    },
+    {
+        "showId": "80236318",
+        "id": "81634116",
+        "week": "20241103",
+        "rank": 8,
+        "weeksInTopTen": 4,
+        "country": "lv",
+        "category": "tv",
+        "name": "Outer Banks: Season 4",
+        "showName": "Outer Banks",
+        "seasonName": "Season 4"
+    },
+    {
+        "showId": "81670964",
+        "id": "81670965",
+        "week": "20241103",
+        "rank": 9,
+        "weeksInTopTen": 1,
+        "country": "lv",
+        "category": "tv",
+        "name": "The Manhattan Alien Abduction: Season 1",
+        "showName": "The Manhattan Alien Abduction",
+        "seasonName": "Season 1"
+    },
+    {
+        "showId": "80996601",
+        "id": "81696431",
+        "week": "20241103",
+        "rank": 10,
+        "weeksInTopTen": 5,
+        "country": "lv",
+        "category": "tv",
+        "name": "Love Is Blind: Season 7",
+        "showName": "Love Is Blind",
+        "seasonName": "Season 7"
+    }
+]

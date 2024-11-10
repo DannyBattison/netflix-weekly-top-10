@@ -1,0 +1,122 @@
+[
+    {
+        "showId": "81708094",
+        "id": "81708094",
+        "week": "20241103",
+        "rank": 1,
+        "weeksInTopTen": 3,
+        "country": "jp",
+        "category": "films",
+        "name": "Don't Call it Mystery: The Movie",
+        "showName": "Don't Call it Mystery: The Movie",
+        "seasonName": "Don't Call it Mystery: The Movie"
+    },
+    {
+        "showId": "81767564",
+        "id": "81767564",
+        "week": "20241103",
+        "rank": 2,
+        "weeksInTopTen": 2,
+        "country": "jp",
+        "category": "films",
+        "name": "Don't Move",
+        "showName": "Don't Move",
+        "seasonName": "Don't Move"
+    },
+    {
+        "showId": "81504326",
+        "id": "81504326",
+        "week": "20241103",
+        "rank": 3,
+        "weeksInTopTen": 1,
+        "country": "jp",
+        "category": "films",
+        "name": "Time Cut",
+        "showName": "Time Cut",
+        "seasonName": "Time Cut"
+    },
+    {
+        "showId": "81686180",
+        "id": "81686180",
+        "week": "20241103",
+        "rank": 4,
+        "weeksInTopTen": 2,
+        "country": "jp",
+        "category": "films",
+        "name": "Family Pack",
+        "showName": "Family Pack",
+        "seasonName": "Family Pack"
+    },
+    {
+        "showId": "81708099",
+        "id": "81708099",
+        "week": "20241103",
+        "rank": 5,
+        "weeksInTopTen": 3,
+        "country": "jp",
+        "category": "films",
+        "name": "Silent Parade",
+        "showName": "Silent Parade",
+        "seasonName": "Silent Parade"
+    },
+    {
+        "showId": "80991034",
+        "id": "80991034",
+        "week": "20241103",
+        "rank": 6,
+        "weeksInTopTen": 1,
+        "country": "jp",
+        "category": "films",
+        "name": "Venom",
+        "showName": "Venom",
+        "seasonName": "Venom"
+    },
+    {
+        "showId": "70118386",
+        "id": "70118386",
+        "week": "20241103",
+        "rank": 7,
+        "weeksInTopTen": 2,
+        "country": "jp",
+        "category": "films",
+        "name": "20th Century Boys 1: Beginning of the End",
+        "showName": "20th Century Boys 1: Beginning of the End",
+        "seasonName": "20th Century Boys 1: Beginning of the End"
+    },
+    {
+        "showId": "81624341",
+        "id": "81624341",
+        "week": "20241103",
+        "rank": 8,
+        "weeksInTopTen": 1,
+        "country": "jp",
+        "category": "films",
+        "name": "Knock at the Cabin",
+        "showName": "Knock at the Cabin",
+        "seasonName": "Knock at the Cabin"
+    },
+    {
+        "showId": "70118387",
+        "id": "70118387",
+        "week": "20241103",
+        "rank": 9,
+        "weeksInTopTen": 2,
+        "country": "jp",
+        "category": "films",
+        "name": "20th Century Boys 2: The Last Hope",
+        "showName": "20th Century Boys 2: The Last Hope",
+        "seasonName": "20th Century Boys 2: The Last Hope"
+    },
+    {
+        "showId": "70118388",
+        "id": "70118388",
+        "week": "20241103",
+        "rank": 10,
+        "weeksInTopTen": 2,
+        "country": "jp",
+        "category": "films",
+        "name": "20th Century Boys 3: Redemption",
+        "showName": "20th Century Boys 3: Redemption",
+        "seasonName": "20th Century Boys 3: Redemption"
+    }
+]

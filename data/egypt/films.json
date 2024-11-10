@@ -1,0 +1,122 @@
+[
+    {
+        "showId": "81767564",
+        "id": "81767564",
+        "week": "20241103",
+        "rank": 1,
+        "weeksInTopTen": 2,
+        "country": "eg",
+        "category": "films",
+        "name": "Don't Move",
+        "showName": "Don't Move",
+        "seasonName": "Don't Move"
+    },
+    {
+        "showId": "81504326",
+        "id": "81504326",
+        "week": "20241103",
+        "rank": 2,
+        "weeksInTopTen": 1,
+        "country": "eg",
+        "category": "films",
+        "name": "Time Cut",
+        "showName": "Time Cut",
+        "seasonName": "Time Cut"
+    },
+    {
+        "showId": "81686180",
+        "id": "81686180",
+        "week": "20241103",
+        "rank": 3,
+        "weeksInTopTen": 2,
+        "country": "eg",
+        "category": "films",
+        "name": "Family Pack",
+        "showName": "Family Pack",
+        "seasonName": "Family Pack"
+    },
+    {
+        "showId": "81199145",
+        "id": "81199145",
+        "week": "20241103",
+        "rank": 4,
+        "weeksInTopTen": 3,
+        "country": "eg",
+        "category": "films",
+        "name": "Venom: Let There Be Carnage",
+        "showName": "Venom: Let There Be Carnage",
+        "seasonName": "Venom: Let There Be Carnage"
+    },
+    {
+        "showId": "81767079",
+        "id": "81767079",
+        "week": "20241103",
+        "rank": 5,
+        "weeksInTopTen": 7,
+        "country": "eg",
+        "category": "films",
+        "name": "My cousin & I",
+        "showName": "My cousin & I",
+        "seasonName": "My cousin & I"
+    },
+    {
+        "showId": "80991034",
+        "id": "80991034",
+        "week": "20241103",
+        "rank": 6,
+        "weeksInTopTen": 5,
+        "country": "eg",
+        "category": "films",
+        "name": "Venom",
+        "showName": "Venom",
+        "seasonName": "Venom"
+    },
+    {
+        "showId": "81676888",
+        "id": "81676888",
+        "week": "20241103",
+        "rank": 7,
+        "weeksInTopTen": 1,
+        "country": "eg",
+        "category": "films",
+        "name": "Hijack '93",
+        "showName": "Hijack '93",
+        "seasonName": "Hijack '93"
+    },
+    {
+        "showId": "81681817",
+        "id": "81681817",
+        "week": "20241103",
+        "rank": 8,
+        "weeksInTopTen": 1,
+        "country": "eg",
+        "category": "films",
+        "name": "Do Patti",
+        "showName": "Do Patti",
+        "seasonName": "Do Patti"
+    },
+    {
+        "showId": "80158583",
+        "id": "80158583",
+        "week": "20241103",
+        "rank": 9,
+        "weeksInTopTen": 1,
+        "country": "eg",
+        "category": "films",
+        "name": "Baywatch",
+        "showName": "Baywatch",
+        "seasonName": "Baywatch"
+    },
+    {
+        "showId": "81616656",
+        "id": "81616656",
+        "week": "20241103",
+        "rank": 10,
+        "weeksInTopTen": 2,
+        "country": "eg",
+        "category": "films",
+        "name": "Smile",
+        "showName": "Smile",
+        "seasonName": "Smile"
+    }
+]

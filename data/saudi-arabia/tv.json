@@ -1,0 +1,122 @@
+[
+    {
+        "showId": "81446288",
+        "id": "81446289",
+        "week": "20241103",
+        "rank": 1,
+        "weeksInTopTen": 31,
+        "country": "sa",
+        "category": "tv",
+        "name": "From: Season 1",
+        "showName": "From",
+        "seasonName": "Season 1"
+    },
+    {
+        "showId": "81622654",
+        "id": "81622655",
+        "week": "20241103",
+        "rank": 2,
+        "weeksInTopTen": 4,
+        "country": "sa",
+        "category": "tv",
+        "name": "Love Is Blind, Habibi: Season 1",
+        "showName": "Love Is Blind, Habibi",
+        "seasonName": "Season 1"
+    },
+    {
+        "showId": "81764523",
+        "id": "81764524",
+        "week": "20241103",
+        "rank": 3,
+        "weeksInTopTen": 1,
+        "country": "sa",
+        "category": "tv",
+        "name": "Beauty in Black: Season 1",
+        "showName": "Beauty in Black",
+        "seasonName": "Season 1"
+    },
+    {
+        "showId": "81591574",
+        "id": "81591575",
+        "week": "20241103",
+        "rank": 4,
+        "weeksInTopTen": 2,
+        "country": "sa",
+        "category": "tv",
+        "name": "Territory: Season 1",
+        "showName": "Territory",
+        "seasonName": "Season 1"
+    },
+    {
+        "showId": "81613239",
+        "id": "81613240",
+        "week": "20241103",
+        "rank": 5,
+        "weeksInTopTen": 1,
+        "country": "sa",
+        "category": "tv",
+        "name": "Go Ahead, Brother: Season 1",
+        "showName": "Go Ahead, Brother",
+        "seasonName": "Season 1"
+    },
+    {
+        "showId": "81303831",
+        "id": "81628779",
+        "week": "20241103",
+        "rank": 6,
+        "weeksInTopTen": 3,
+        "country": "sa",
+        "category": "tv",
+        "name": "The Lincoln Lawyer: Season 3",
+        "showName": "The Lincoln Lawyer",
+        "seasonName": "Season 3"
+    },
+    {
+        "showId": "81641421",
+        "id": "81641422",
+        "week": "20241103",
+        "rank": 7,
+        "weeksInTopTen": 1,
+        "country": "sa",
+        "category": "tv",
+        "name": "Don\u00e2\u0080\u0099t Come Home: Limited Series",
+        "showName": "Don\u00e2\u0080\u0099t Come Home",
+        "seasonName": "Limited Series"
+    },
+    {
+        "showId": "81787644",
+        "id": "81787645",
+        "week": "20241103",
+        "rank": 8,
+        "weeksInTopTen": 1,
+        "country": "sa",
+        "category": "tv",
+        "name": "A Virtuous Business: Limited Series",
+        "showName": "A Virtuous Business",
+        "seasonName": "Limited Series"
+    },
+    {
+        "showId": "70140425",
+        "id": "70040250",
+        "week": "20241103",
+        "rank": 9,
+        "weeksInTopTen": 17,
+        "country": "sa",
+        "category": "tv",
+        "name": "Prison Break: Season 1",
+        "showName": "Prison Break",
+        "seasonName": "Season 1"
+    },
+    {
+        "showId": "70140425",
+        "id": "70054891",
+        "week": "20241103",
+        "rank": 10,
+        "weeksInTopTen": 7,
+        "country": "sa",
+        "category": "tv",
+        "name": "Prison Break: Season 2",
+        "showName": "Prison Break",
+        "seasonName": "Season 2"
+    }
+]

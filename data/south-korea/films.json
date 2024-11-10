@@ -1,0 +1,122 @@
+[
+    {
+        "showId": "81767564",
+        "id": "81767564",
+        "week": "20241103",
+        "rank": 1,
+        "weeksInTopTen": 2,
+        "country": "kr",
+        "category": "films",
+        "name": "Don't Move",
+        "showName": "Don't Move",
+        "seasonName": "Don't Move"
+    },
+    {
+        "showId": "81672158",
+        "id": "81672158",
+        "week": "20241103",
+        "rank": 2,
+        "weeksInTopTen": 4,
+        "country": "kr",
+        "category": "films",
+        "name": "Uprising",
+        "showName": "Uprising",
+        "seasonName": "Uprising"
+    },
+    {
+        "showId": "81767872",
+        "id": "81767872",
+        "week": "20241103",
+        "rank": 3,
+        "weeksInTopTen": 1,
+        "country": "kr",
+        "category": "films",
+        "name": "The Fall Guy",
+        "showName": "The Fall Guy",
+        "seasonName": "The Fall Guy"
+    },
+    {
+        "showId": "81942318",
+        "id": "81942318",
+        "week": "20241103",
+        "rank": 4,
+        "weeksInTopTen": 3,
+        "country": "kr",
+        "category": "films",
+        "name": "PROJECT SILENCE",
+        "showName": "PROJECT SILENCE",
+        "seasonName": "PROJECT SILENCE"
+    },
+    {
+        "showId": "81631823",
+        "id": "81631823",
+        "week": "20241103",
+        "rank": 5,
+        "weeksInTopTen": 1,
+        "country": "kr",
+        "category": "films",
+        "name": "Dungeons & Dragons: Honor Among Thieves",
+        "showName": "Dungeons & Dragons: Honor Among Thieves",
+        "seasonName": "Dungeons & Dragons: Honor Among Thieves"
+    },
+    {
+        "showId": "81942321",
+        "id": "81942321",
+        "week": "20241103",
+        "rank": 6,
+        "weeksInTopTen": 3,
+        "country": "kr",
+        "category": "films",
+        "name": "The Boys",
+        "showName": "The Boys",
+        "seasonName": "The Boys"
+    },
+    {
+        "showId": "81504326",
+        "id": "81504326",
+        "week": "20241103",
+        "rank": 7,
+        "weeksInTopTen": 1,
+        "country": "kr",
+        "category": "films",
+        "name": "Time Cut",
+        "showName": "Time Cut",
+        "seasonName": "Time Cut"
+    },
+    {
+        "showId": "81942621",
+        "id": "81942621",
+        "week": "20241103",
+        "rank": 8,
+        "weeksInTopTen": 2,
+        "country": "kr",
+        "category": "films",
+        "name": "The Gossip",
+        "showName": "The Gossip",
+        "seasonName": "The Gossip"
+    },
+    {
+        "showId": "81730159",
+        "id": "81730159",
+        "week": "20241103",
+        "rank": 9,
+        "weeksInTopTen": 3,
+        "country": "kr",
+        "category": "films",
+        "name": "The Moon",
+        "showName": "The Moon",
+        "seasonName": "The Moon"
+    },
+    {
+        "showId": "81787451",
+        "id": "81787451",
+        "week": "20241103",
+        "rank": 10,
+        "weeksInTopTen": 10,
+        "country": "kr",
+        "category": "films",
+        "name": "Exhuma",
+        "showName": "Exhuma",
+        "seasonName": "Exhuma"
+    }
+]
