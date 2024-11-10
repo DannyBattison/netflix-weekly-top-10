@@ -4,8 +4,8 @@ import json
 from bs4 import BeautifulSoup
 
 def extract_json_from_html(html_content):
-    soup = BeautifulSoup(html_content, 'html.parser')
-    script_tag = soup.find('script', id='__NEXT_DATA__')
+    soup = BeautifulSoup(html_content, "html.parser")
+    script_tag = soup.find("script", id="__NEXT_DATA__")
     if script_tag:
         json_data = script_tag.string
         return json.loads(json_data)
@@ -29,7 +29,7 @@ for country in countries:
             json_object = extract_json_from_html(response.text)
             weekly_top_ten = json_object["props"]["pageProps"]["data"]["weeklyTopTen"]
 
-            with open(f"../data/{country}/{key}.json", 'w') as file: json.dump(weekly_top_ten, file, indent=4)
+            with open(f"../data/{country}/{key}.json", "w") as file: json.dump(weekly_top_ten, file, indent=4)
 
         else:
             print(f"Failed to retrieve the page. Status code: {response.status_code}")
