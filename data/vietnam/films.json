@@ -1,22 +1,22 @@
 [
     {
-        "showId": "81767564",
-        "id": "81767564",
-        "week": "20241103",
+        "showId": "81919470",
+        "id": "81919470",
+        "week": "20241110",
         "rank": 1,
-        "weeksInTopTen": 2,
+        "weeksInTopTen": 1,
         "country": "vn",
         "category": "films",
-        "name": "Don't Move",
-        "showName": "Don't Move",
-        "seasonName": "Don't Move"
+        "name": "A Place Called Silence",
+        "showName": "A Place Called Silence",
+        "seasonName": "A Place Called Silence"
     },
     {
         "showId": "81199145",
         "id": "81199145",
-        "week": "20241103",
+        "week": "20241110",
         "rank": 2,
-        "weeksInTopTen": 9,
+        "weeksInTopTen": 10,
         "country": "vn",
         "category": "films",
         "name": "Venom: Let There Be Carnage",
@@ -24,23 +24,11 @@
         "seasonName": "Venom: Let There Be Carnage"
     },
     {
-        "showId": "81686180",
-        "id": "81686180",
-        "week": "20241103",
-        "rank": 3,
-        "weeksInTopTen": 2,
-        "country": "vn",
-        "category": "films",
-        "name": "Family Pack",
-        "showName": "Family Pack",
-        "seasonName": "Family Pack"
-    },
-    {
         "showId": "81504326",
         "id": "81504326",
-        "week": "20241103",
-        "rank": 4,
-        "weeksInTopTen": 1,
+        "week": "20241110",
+        "rank": 3,
+        "weeksInTopTen": 2,
         "country": "vn",
         "category": "films",
         "name": "Time Cut",
@@ -48,11 +36,23 @@
         "seasonName": "Time Cut"
     },
     {
+        "showId": "81767564",
+        "id": "81767564",
+        "week": "20241110",
+        "rank": 4,
+        "weeksInTopTen": 3,
+        "country": "vn",
+        "category": "films",
+        "name": "Don't Move",
+        "showName": "Don't Move",
+        "seasonName": "Don't Move"
+    },
+    {
         "showId": "81718925",
         "id": "81718925",
-        "week": "20241103",
+        "week": "20241110",
         "rank": 5,
-        "weeksInTopTen": 6,
+        "weeksInTopTen": 7,
         "country": "vn",
         "category": "films",
         "name": "No More Bets",
@@ -60,23 +60,11 @@
         "seasonName": "No More Bets"
     },
     {
-        "showId": "81676888",
-        "id": "81676888",
-        "week": "20241103",
-        "rank": 6,
-        "weeksInTopTen": 1,
-        "country": "vn",
-        "category": "films",
-        "name": "Hijack '93",
-        "showName": "Hijack '93",
-        "seasonName": "Hijack '93"
-    },
-    {
         "showId": "81779693",
         "id": "81779693",
-        "week": "20241103",
-        "rank": 7,
-        "weeksInTopTen": 22,
+        "week": "20241110",
+        "rank": 6,
+        "weeksInTopTen": 23,
         "country": "vn",
         "category": "films",
         "name": "Mai",
@@ -84,11 +72,23 @@
         "seasonName": "Mai"
     },
     {
+        "showId": "81686180",
+        "id": "81686180",
+        "week": "20241110",
+        "rank": 7,
+        "weeksInTopTen": 3,
+        "country": "vn",
+        "category": "films",
+        "name": "Family Pack",
+        "showName": "Family Pack",
+        "seasonName": "Family Pack"
+    },
+    {
         "showId": "81786970",
         "id": "81786970",
-        "week": "20241103",
+        "week": "20241110",
         "rank": 8,
-        "weeksInTopTen": 8,
+        "weeksInTopTen": 9,
         "country": "vn",
         "category": "films",
         "name": "How To Make Millions Before Grandma Dies",
@@ -98,9 +98,9 @@
     {
         "showId": "81930066",
         "id": "81930066",
-        "week": "20241103",
+        "week": "20241110",
         "rank": 9,
-        "weeksInTopTen": 1,
+        "weeksInTopTen": 2,
         "country": "vn",
         "category": "films",
         "name": "Haikyu!!: The Dumpster Battle",
@@ -108,15 +108,15 @@
         "seasonName": "Haikyu!!: The Dumpster Battle"
     },
     {
-        "showId": "81624008",
-        "id": "81624008",
-        "week": "20241103",
+        "showId": "70142823",
+        "id": "70142823",
+        "week": "20241110",
         "rank": 10,
-        "weeksInTopTen": 3,
+        "weeksInTopTen": 1,
         "country": "vn",
         "category": "films",
-        "name": "The Shadow Strays",
-        "showName": "The Shadow Strays",
-        "seasonName": "The Shadow Strays"
+        "name": "Hanna",
+        "showName": "Hanna",
+        "seasonName": "Hanna"
     }
 ]
