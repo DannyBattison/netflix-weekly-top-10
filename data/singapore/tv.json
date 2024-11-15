@@ -1,46 +1,10 @@
 [
     {
-        "showId": "81256675",
-        "id": "81284038",
-        "week": "20241103",
-        "rank": 1,
-        "weeksInTopTen": 2,
-        "country": "sg",
-        "category": "tv",
-        "name": "Hellbound: Season 2",
-        "showName": "Hellbound",
-        "seasonName": "Season 2"
-    },
-    {
-        "showId": "81954820",
-        "id": "81954821",
-        "week": "20241103",
-        "rank": 2,
-        "weeksInTopTen": 1,
-        "country": "sg",
-        "category": "tv",
-        "name": "Kill Me Love Me: Season 1",
-        "showName": "Kill Me Love Me",
-        "seasonName": "Season 1"
-    },
-    {
-        "showId": "81728365",
-        "id": "81728366",
-        "week": "20241103",
-        "rank": 3,
-        "weeksInTopTen": 7,
-        "country": "sg",
-        "category": "tv",
-        "name": "Culinary Class Wars: Season 1",
-        "showName": "Culinary Class Wars",
-        "seasonName": "Season 1"
-    },
-    {
         "showId": "80192612",
         "id": "81786168",
-        "week": "20241103",
-        "rank": 4,
-        "weeksInTopTen": 1,
+        "week": "20241110",
+        "rank": 1,
+        "weeksInTopTen": 2,
         "country": "sg",
         "category": "tv",
         "name": "Young Sheldon: Season 7",
@@ -48,11 +12,23 @@
         "seasonName": "Season 7"
     },
     {
+        "showId": "81435684",
+        "id": "81516572",
+        "week": "20241110",
+        "rank": 2,
+        "weeksInTopTen": 1,
+        "country": "sg",
+        "category": "tv",
+        "name": "Arcane: Season 2",
+        "showName": "Arcane",
+        "seasonName": "Season 2"
+    },
+    {
         "showId": "81288983",
         "id": "81486271",
-        "week": "20241103",
-        "rank": 5,
-        "weeksInTopTen": 1,
+        "week": "20241110",
+        "rank": 3,
+        "weeksInTopTen": 2,
         "country": "sg",
         "category": "tv",
         "name": "The Diplomat: Season 2",
@@ -60,11 +36,23 @@
         "seasonName": "Season 2"
     },
     {
+        "showId": "81954820",
+        "id": "81954821",
+        "week": "20241110",
+        "rank": 4,
+        "weeksInTopTen": 2,
+        "country": "sg",
+        "category": "tv",
+        "name": "Kill Me Love Me: Season 1",
+        "showName": "Kill Me Love Me",
+        "seasonName": "Season 1"
+    },
+    {
         "showId": "81787644",
         "id": "81787645",
-        "week": "20241103",
-        "rank": 6,
-        "weeksInTopTen": 3,
+        "week": "20241110",
+        "rank": 5,
+        "weeksInTopTen": 4,
         "country": "sg",
         "category": "tv",
         "name": "A Virtuous Business: Limited Series",
@@ -72,11 +60,35 @@
         "seasonName": "Limited Series"
     },
     {
+        "showId": "81771310",
+        "id": "81771311",
+        "week": "20241110",
+        "rank": 6,
+        "weeksInTopTen": 1,
+        "country": "sg",
+        "category": "tv",
+        "name": "Countdown: Paul vs. Tyson: Season 1",
+        "showName": "Countdown: Paul vs. Tyson",
+        "seasonName": "Season 1"
+    },
+    {
+        "showId": "81728365",
+        "id": "81728366",
+        "week": "20241110",
+        "rank": 7,
+        "weeksInTopTen": 8,
+        "country": "sg",
+        "category": "tv",
+        "name": "Culinary Class Wars: Season 1",
+        "showName": "Culinary Class Wars",
+        "seasonName": "Season 1"
+    },
+    {
         "showId": "81736884",
         "id": "81736885",
-        "week": "20241103",
-        "rank": 7,
-        "weeksInTopTen": 4,
+        "week": "20241110",
+        "rank": 8,
+        "weeksInTopTen": 5,
         "country": "sg",
         "category": "tv",
         "name": "DAN DA DAN",
@@ -84,23 +96,11 @@
         "seasonName": "DAN DA DAN"
     },
     {
-        "showId": "81256675",
-        "id": "81256676",
-        "week": "20241103",
-        "rank": 8,
-        "weeksInTopTen": 5,
-        "country": "sg",
-        "category": "tv",
-        "name": "Hellbound: Season 1",
-        "showName": "Hellbound",
-        "seasonName": "Season 1"
-    },
-    {
         "showId": "81641421",
         "id": "81641422",
-        "week": "20241103",
+        "week": "20241110",
         "rank": 9,
-        "weeksInTopTen": 1,
+        "weeksInTopTen": 2,
         "country": "sg",
         "category": "tv",
         "name": "Don\u00e2\u0080\u0099t Come Home: Limited Series",
@@ -108,15 +108,15 @@
         "seasonName": "Limited Series"
     },
     {
-        "showId": "81681626",
-        "id": "81681627",
-        "week": "20241103",
+        "showId": "81256675",
+        "id": "81284038",
+        "week": "20241110",
         "rank": 10,
-        "weeksInTopTen": 2,
+        "weeksInTopTen": 3,
         "country": "sg",
         "category": "tv",
-        "name": "This Is the Zodiac Speaking: Season 1",
-        "showName": "This Is the Zodiac Speaking",
-        "seasonName": "Season 1"
+        "name": "Hellbound: Season 2",
+        "showName": "Hellbound",
+        "seasonName": "Season 2"
     }
 ]
