@@ -28,10 +28,10 @@ jobs:
           cd src
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      # - name: Run scraper
-      #   run: |
-      #     cd src
-      #     python scraper.py
+      - name: Run scraper
+        run: |
+          cd src
+          python scraper.py
       
       - name: Update TMDB lists
         env:
