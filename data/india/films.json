@@ -1,10 +1,22 @@
 [
     {
+        "showId": "81509546",
+        "id": "81509546",
+        "week": "20241117",
+        "rank": 1,
+        "weeksInTopTen": 2,
+        "country": "in",
+        "category": "films",
+        "name": "The Buckingham Murders",
+        "showName": "The Buckingham Murders",
+        "seasonName": "The Buckingham Murders"
+    },
+    {
         "showId": "81728598",
         "id": "81728598",
-        "week": "20241110",
-        "rank": 1,
-        "weeksInTopTen": 1,
+        "week": "20241117",
+        "rank": 2,
+        "weeksInTopTen": 2,
         "country": "in",
         "category": "films",
         "name": "Devara",
@@ -14,9 +26,9 @@
     {
         "showId": "81681817",
         "id": "81681817",
-        "week": "20241110",
-        "rank": 2,
-        "weeksInTopTen": 3,
+        "week": "20241117",
+        "rank": 3,
+        "weeksInTopTen": 4,
         "country": "in",
         "category": "films",
         "name": "Do Patti",
@@ -24,47 +36,11 @@
         "seasonName": "Do Patti"
     },
     {
-        "showId": "81509546",
-        "id": "81509546",
-        "week": "20241110",
-        "rank": 3,
-        "weeksInTopTen": 1,
-        "country": "in",
-        "category": "films",
-        "name": "The Buckingham Murders",
-        "showName": "The Buckingham Murders",
-        "seasonName": "The Buckingham Murders"
-    },
-    {
-        "showId": "81713677",
-        "id": "81713677",
-        "week": "20241110",
-        "rank": 4,
-        "weeksInTopTen": 3,
-        "country": "in",
-        "category": "films",
-        "name": "Meiyazhagan",
-        "showName": "Meiyazhagan",
-        "seasonName": "Meiyazhagan"
-    },
-    {
-        "showId": "70082633",
-        "id": "70082633",
-        "week": "20241110",
-        "rank": 5,
-        "weeksInTopTen": 2,
-        "country": "in",
-        "category": "films",
-        "name": "Bhool Bhulaiyaa",
-        "showName": "Bhool Bhulaiyaa",
-        "seasonName": "Bhool Bhulaiyaa"
-    },
-    {
         "showId": "81749329",
         "id": "81749329",
-        "week": "20241110",
-        "rank": 6,
-        "weeksInTopTen": 1,
+        "week": "20241117",
+        "rank": 4,
+        "weeksInTopTen": 2,
         "country": "in",
         "category": "films",
         "name": "Vijay 69",
@@ -72,11 +48,35 @@
         "seasonName": "Vijay 69"
     },
     {
+        "showId": "81762778",
+        "id": "81762778",
+        "week": "20241117",
+        "rank": 5,
+        "weeksInTopTen": 2,
+        "country": "in",
+        "category": "films",
+        "name": "It Ends With Us",
+        "showName": "It Ends With Us",
+        "seasonName": "It Ends With Us"
+    },
+    {
+        "showId": "81713677",
+        "id": "81713677",
+        "week": "20241117",
+        "rank": 6,
+        "weeksInTopTen": 4,
+        "country": "in",
+        "category": "films",
+        "name": "Meiyazhagan",
+        "showName": "Meiyazhagan",
+        "seasonName": "Meiyazhagan"
+    },
+    {
         "showId": "81631010",
         "id": "81631010",
-        "week": "20241110",
+        "week": "20241117",
         "rank": 7,
-        "weeksInTopTen": 5,
+        "weeksInTopTen": 6,
         "country": "in",
         "category": "films",
         "name": "Khel Khel Mein",
@@ -84,23 +84,23 @@
         "seasonName": "Khel Khel Mein"
     },
     {
-        "showId": "81504326",
-        "id": "81504326",
-        "week": "20241110",
+        "showId": "70082633",
+        "id": "70082633",
+        "week": "20241117",
         "rank": 8,
-        "weeksInTopTen": 2,
+        "weeksInTopTen": 3,
         "country": "in",
         "category": "films",
-        "name": "Time Cut",
-        "showName": "Time Cut",
-        "seasonName": "Time Cut"
+        "name": "Bhool Bhulaiyaa",
+        "showName": "Bhool Bhulaiyaa",
+        "seasonName": "Bhool Bhulaiyaa"
     },
     {
         "showId": "81243747",
         "id": "81243747",
-        "week": "20241110",
+        "week": "20241117",
         "rank": 9,
-        "weeksInTopTen": 13,
+        "weeksInTopTen": 14,
         "country": "in",
         "category": "films",
         "name": "Bhool Bhulaiyaa 2",
@@ -108,15 +108,15 @@
         "seasonName": "Bhool Bhulaiyaa 2"
     },
     {
-        "showId": "81762778",
-        "id": "81762778",
-        "week": "20241110",
+        "showId": "81762714",
+        "id": "81762714",
+        "week": "20241117",
         "rank": 10,
-        "weeksInTopTen": 1,
+        "weeksInTopTen": 6,
         "country": "in",
         "category": "films",
-        "name": "It Ends With Us",
-        "showName": "It Ends With Us",
-        "seasonName": "It Ends With Us"
+        "name": "GOAT - The Greatest of All Time",
+        "showName": "GOAT - The Greatest of All Time",
+        "seasonName": "GOAT - The Greatest of All Time"
     }
 ]
