@@ -123,7 +123,7 @@ async def process_file(country, media_type):
     tmdb_ids = []
 
     for item in data:
-        encoded_name = urllib.parse.quote(item['showName'])
+        encoded_name = urllib.parse.quote(item['name'])
         if media_type == 'tv':
             tmdb_id = get_tmdb_tv_id(TMDB_API_KEY, encoded_name)
         else:
