@@ -3,13 +3,11 @@ import requests
 import json
 from bs4 import BeautifulSoup
 
-def extract_json_from_html(html_content):
+def extract_titles_from_html(html_content):
     soup = BeautifulSoup(html_content, "html.parser")
-    script_tag = soup.find("script", id="__NEXT_DATA__")
-    if script_tag:
-        json_data = script_tag.string
-        return json.loads(json_data)
-    return None
+    
+    # Find all <button> elements with no attributes
+    return [{"name": btn.text, "rank": idx + 1} for idx, btn in enumerate(soup.find_all('button')) if not btn.attrs]
 
 with open("countries.json") as file:
     countries = json.load(file)
@@ -26,8 +24,7 @@ for country in countries:
         response = requests.get(url)
 
         if response.status_code == 200:
-            json_object = extract_json_from_html(response.text)
-            weekly_top_ten = json_object["props"]["pageProps"]["data"]["weeklyTopTen"]
+            weekly_top_ten = extract_titles_from_html(response.text)
 
             with open(f"../data/{country}/{key}.json", "w") as file: json.dump(weekly_top_ten, file, indent=4)
 
