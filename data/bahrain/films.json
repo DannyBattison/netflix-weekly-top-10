@@ -1,122 +1,42 @@
 [
     {
-        "showId": "80187054",
-        "id": "80187054",
-        "week": "20241201",
-        "rank": 1,
-        "weeksInTopTen": 1,
-        "country": "bh",
-        "category": "films",
-        "name": "Red Sparrow",
-        "showName": "Red Sparrow",
-        "seasonName": "Red Sparrow"
+        "name": "Sikandar",
+        "rank": 25
     },
     {
-        "showId": "81498404",
-        "id": "81498404",
-        "week": "20241201",
-        "rank": 2,
-        "weeksInTopTen": 1,
-        "country": "bh",
-        "category": "films",
-        "name": "Our Little Secret",
-        "showName": "Our Little Secret",
-        "seasonName": "Our Little Secret"
+        "name": "Meg 2: The Trench",
+        "rank": 26
     },
     {
-        "showId": "81902035",
-        "id": "81902035",
-        "week": "20241201",
-        "rank": 3,
-        "weeksInTopTen": 1,
-        "country": "bh",
-        "category": "films",
-        "name": "Lucky Baskhar",
-        "showName": "Lucky Baskhar",
-        "seasonName": "Lucky Baskhar"
+        "name": "HIT: The Third Case",
+        "rank": 27
     },
     {
-        "showId": "81745658",
-        "id": "81745658",
-        "week": "20241201",
-        "rank": 4,
-        "weeksInTopTen": 2,
-        "country": "bh",
-        "category": "films",
-        "name": "Spellbound",
-        "showName": "Spellbound",
-        "seasonName": "Spellbound"
+        "name": "Blue Beetle",
+        "rank": 28
     },
     {
-        "showId": "81750030",
-        "id": "81750030",
-        "week": "20241201",
-        "rank": 5,
-        "weeksInTopTen": 1,
-        "country": "bh",
-        "category": "films",
-        "name": "Sikandar Ka Muqaddar",
-        "showName": "Sikandar Ka Muqaddar",
-        "seasonName": "Sikandar Ka Muqaddar"
+        "name": "Retro",
+        "rank": 29
     },
     {
-        "showId": "81087735",
-        "id": "81087735",
-        "week": "20241201",
-        "rank": 6,
-        "weeksInTopTen": 3,
-        "country": "bh",
-        "category": "films",
-        "name": "The Hunt",
-        "showName": "The Hunt",
-        "seasonName": "The Hunt"
+        "name": "Fear Street: Prom Queen",
+        "rank": 30
     },
     {
-        "showId": "81953481",
-        "id": "81953481",
-        "week": "20241201",
-        "rank": 7,
-        "weeksInTopTen": 1,
-        "country": "bh",
-        "category": "films",
-        "name": "Bagheera",
-        "showName": "Bagheera",
-        "seasonName": "Bagheera"
+        "name": "A Widow's Game",
+        "rank": 31
     },
     {
-        "showId": "70099116",
-        "id": "70099116",
-        "week": "20241201",
-        "rank": 8,
-        "weeksInTopTen": 1,
-        "country": "bh",
-        "category": "films",
-        "name": "Madagascar: Escape 2 Africa",
-        "showName": "Madagascar: Escape 2 Africa",
-        "seasonName": "Madagascar: Escape 2 Africa"
+        "name": "Lucy",
+        "rank": 32
     },
     {
-        "showId": "80067930",
-        "id": "80067930",
-        "week": "20241201",
-        "rank": 9,
-        "weeksInTopTen": 3,
-        "country": "bh",
-        "category": "films",
-        "name": "13 Hours: The Secret Soldiers of Benghazi",
-        "showName": "13 Hours: The Secret Soldiers of Benghazi",
-        "seasonName": "13 Hours: The Secret Soldiers of Benghazi"
+        "name": "The Diplomat",
+        "rank": 33
     },
     {
-        "showId": "81131575",
-        "id": "81131575",
-        "week": "20241201",
-        "rank": 10,
-        "weeksInTopTen": 3,
-        "country": "bh",
-        "category": "films",
-        "name": "Ready or Not",
-        "showName": "Ready or Not",
-        "seasonName": "Ready or Not"
+        "name": "Ip Man 4: The Finale",
+        "rank": 34
     }
 ]

@@ -1,122 +1,42 @@
 [
     {
-        "showId": "81251375",
-        "id": "81251375",
-        "week": "20241201",
-        "rank": 1,
-        "weeksInTopTen": 1,
-        "country": "hk",
-        "category": "films",
-        "name": "The Flash",
-        "showName": "The Flash",
-        "seasonName": "The Flash"
+        "name": "Fear Street: Prom Queen",
+        "rank": 23
     },
     {
-        "showId": "81619948",
-        "id": "81619948",
-        "week": "20241201",
-        "rank": 2,
-        "weeksInTopTen": 1,
-        "country": "hk",
-        "category": "films",
-        "name": "M3GAN",
-        "showName": "M3GAN",
-        "seasonName": "M3GAN"
+        "name": "A Widow's Game",
+        "rank": 24
     },
     {
-        "showId": "81087735",
-        "id": "81087735",
-        "week": "20241201",
-        "rank": 3,
-        "weeksInTopTen": 5,
-        "country": "hk",
-        "category": "films",
-        "name": "The Hunt",
-        "showName": "The Hunt",
-        "seasonName": "The Hunt"
+        "name": "Bullet Train Explosion",
+        "rank": 25
     },
     {
-        "showId": "81498404",
-        "id": "81498404",
-        "week": "20241201",
-        "rank": 4,
-        "weeksInTopTen": 1,
-        "country": "hk",
-        "category": "films",
-        "name": "Our Little Secret",
-        "showName": "Our Little Secret",
-        "seasonName": "Our Little Secret"
+        "name": "I Want To Be Boss",
+        "rank": 26
     },
     {
-        "showId": "81554996",
-        "id": "81554996",
-        "week": "20241201",
-        "rank": 5,
-        "weeksInTopTen": 2,
-        "country": "hk",
-        "category": "films",
-        "name": "Buy Now: The Shopping Conspiracy",
-        "showName": "Buy Now: The Shopping Conspiracy",
-        "seasonName": "Buy Now: The Shopping Conspiracy"
+        "name": "Exterritorial",
+        "rank": 27
     },
     {
-        "showId": "80067930",
-        "id": "80067930",
-        "week": "20241201",
-        "rank": 6,
-        "weeksInTopTen": 5,
-        "country": "hk",
-        "category": "films",
-        "name": "13 Hours: The Secret Soldiers of Benghazi",
-        "showName": "13 Hours: The Secret Soldiers of Benghazi",
-        "seasonName": "13 Hours: The Secret Soldiers of Benghazi"
+        "name": "Money Games",
+        "rank": 28
     },
     {
-        "showId": "81745658",
-        "id": "81745658",
-        "week": "20241201",
-        "rank": 7,
-        "weeksInTopTen": 1,
-        "country": "hk",
-        "category": "films",
-        "name": "Spellbound",
-        "showName": "Spellbound",
-        "seasonName": "Spellbound"
+        "name": "Sikandar",
+        "rank": 29
     },
     {
-        "showId": "70128675",
-        "id": "70128675",
-        "week": "20241201",
-        "rank": 8,
-        "weeksInTopTen": 2,
-        "country": "hk",
-        "category": "films",
-        "name": "The American",
-        "showName": "The American",
-        "seasonName": "The American"
+        "name": "Ruby Gillman, Teenage Kraken",
+        "rank": 30
     },
     {
-        "showId": "81711199",
-        "id": "81711199",
-        "week": "20241201",
-        "rank": 9,
-        "weeksInTopTen": 2,
-        "country": "hk",
-        "category": "films",
-        "name": "GTMAX",
-        "showName": "GTMAX",
-        "seasonName": "GTMAX"
+        "name": "Inside Man: Most Wanted",
+        "rank": 31
     },
     {
-        "showId": "81131575",
-        "id": "81131575",
-        "week": "20241201",
-        "rank": 10,
-        "weeksInTopTen": 3,
-        "country": "hk",
-        "category": "films",
-        "name": "Ready or Not",
-        "showName": "Ready or Not",
-        "seasonName": "Ready or Not"
+        "name": "Mercy",
+        "rank": 32
     }
 ]

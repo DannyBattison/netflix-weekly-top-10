@@ -1,122 +1,42 @@
 [
     {
-        "showId": "81087735",
-        "id": "81087735",
-        "week": "20241201",
-        "rank": 1,
-        "weeksInTopTen": 4,
-        "country": "tr",
-        "category": "films",
-        "name": "The Hunt",
-        "showName": "The Hunt",
-        "seasonName": "The Hunt"
+        "name": "Dance with the Jackals 7",
+        "rank": 22
     },
     {
-        "showId": "81465707",
-        "id": "81465707",
-        "week": "20241201",
-        "rank": 2,
-        "weeksInTopTen": 1,
-        "country": "tr",
-        "category": "films",
-        "name": "Spider-Man: No Way Home",
-        "showName": "Spider-Man: No Way Home",
-        "seasonName": "Spider-Man: No Way Home"
+        "name": "Oflu Hoca 4",
+        "rank": 23
     },
     {
-        "showId": "81498404",
-        "id": "81498404",
-        "week": "20241201",
-        "rank": 3,
-        "weeksInTopTen": 1,
-        "country": "tr",
-        "category": "films",
-        "name": "Our Little Secret",
-        "showName": "Our Little Secret",
-        "seasonName": "Our Little Secret"
+        "name": "The Flash",
+        "rank": 24
     },
     {
-        "showId": "81745658",
-        "id": "81745658",
-        "week": "20241201",
-        "rank": 4,
-        "weeksInTopTen": 2,
-        "country": "tr",
-        "category": "films",
-        "name": "Spellbound",
-        "showName": "Spellbound",
-        "seasonName": "Spellbound"
+        "name": "A Widow's Game",
+        "rank": 25
     },
     {
-        "showId": "81131575",
-        "id": "81131575",
-        "week": "20241201",
-        "rank": 5,
-        "weeksInTopTen": 3,
-        "country": "tr",
-        "category": "films",
-        "name": "Ready or Not",
-        "showName": "Ready or Not",
-        "seasonName": "Ready or Not"
+        "name": "Fear Street: Prom Queen",
+        "rank": 26
     },
     {
-        "showId": "70099116",
-        "id": "70099116",
-        "week": "20241201",
-        "rank": 6,
-        "weeksInTopTen": 1,
-        "country": "tr",
-        "category": "films",
-        "name": "Madagascar: Escape 2 Africa",
-        "showName": "Madagascar: Escape 2 Africa",
-        "seasonName": "Madagascar: Escape 2 Africa"
+        "name": "Obsessions",
+        "rank": 27
     },
     {
-        "showId": "81555726",
-        "id": "81555726",
-        "week": "20241201",
-        "rank": 7,
-        "weeksInTopTen": 1,
-        "country": "tr",
-        "category": "films",
-        "name": "Puss in Boots: The Last Wish",
-        "showName": "Puss in Boots: The Last Wish",
-        "seasonName": "Puss in Boots: The Last Wish"
+        "name": "The Heart Knows",
+        "rank": 28
     },
     {
-        "showId": "81711199",
-        "id": "81711199",
-        "week": "20241201",
-        "rank": 8,
-        "weeksInTopTen": 2,
-        "country": "tr",
-        "category": "films",
-        "name": "GTMAX",
-        "showName": "GTMAX",
-        "seasonName": "GTMAX"
+        "name": "Collateral",
+        "rank": 29
     },
     {
-        "showId": "80186979",
-        "id": "80186979",
-        "week": "20241201",
-        "rank": 9,
-        "weeksInTopTen": 1,
-        "country": "tr",
-        "category": "films",
-        "name": "Daddy's Home 2",
-        "showName": "Daddy's Home 2",
-        "seasonName": "Daddy's Home 2"
+        "name": "Father Stu",
+        "rank": 30
     },
     {
-        "showId": "81619948",
-        "id": "81619948",
-        "week": "20241201",
-        "rank": 10,
-        "weeksInTopTen": 3,
-        "country": "tr",
-        "category": "films",
-        "name": "M3GAN",
-        "showName": "M3GAN",
-        "seasonName": "M3GAN"
+        "name": "Exterritorial",
+        "rank": 31
     }
 ]

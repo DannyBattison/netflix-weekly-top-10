@@ -1,122 +1,42 @@
 [
     {
-        "showId": "81498404",
-        "id": "81498404",
-        "week": "20241201",
-        "rank": 1,
-        "weeksInTopTen": 1,
-        "country": "uy",
-        "category": "films",
-        "name": "Our Little Secret",
-        "showName": "Our Little Secret",
-        "seasonName": "Our Little Secret"
+        "name": "The Heart Knows",
+        "rank": 24
     },
     {
-        "showId": "81711199",
-        "id": "81711199",
-        "week": "20241201",
-        "rank": 2,
-        "weeksInTopTen": 2,
-        "country": "uy",
-        "category": "films",
-        "name": "GTMAX",
-        "showName": "GTMAX",
-        "seasonName": "GTMAX"
+        "name": "A Widow's Game",
+        "rank": 25
     },
     {
-        "showId": "81198916",
-        "id": "81198916",
-        "week": "20241201",
-        "rank": 3,
-        "weeksInTopTen": 3,
-        "country": "uy",
-        "category": "films",
-        "name": "Minions: The Rise of Gru",
-        "showName": "Minions: The Rise of Gru",
-        "seasonName": "Minions: The Rise of Gru"
+        "name": "Puss in Boots: The Last Wish",
+        "rank": 26
     },
     {
-        "showId": "81674656",
-        "id": "81674656",
-        "week": "20241201",
-        "rank": 4,
-        "weeksInTopTen": 3,
-        "country": "uy",
-        "category": "films",
-        "name": "The Expendables 4",
-        "showName": "The Expendables 4",
-        "seasonName": "The Expendables 4"
+        "name": "Aquaman and the Lost Kingdom",
+        "rank": 27
     },
     {
-        "showId": "81745658",
-        "id": "81745658",
-        "week": "20241201",
-        "rank": 5,
-        "weeksInTopTen": 1,
-        "country": "uy",
-        "category": "films",
-        "name": "Spellbound",
-        "showName": "Spellbound",
-        "seasonName": "Spellbound"
+        "name": "Nonnas",
+        "rank": 28
     },
     {
-        "showId": "81756336",
-        "id": "81756336",
-        "week": "20241201",
-        "rank": 6,
-        "weeksInTopTen": 1,
-        "country": "uy",
-        "category": "films",
-        "name": "Maybe Baby 2",
-        "showName": "Maybe Baby 2",
-        "seasonName": "Maybe Baby 2"
+        "name": "Fear Street: Prom Queen",
+        "rank": 29
     },
     {
-        "showId": "70099116",
-        "id": "70099116",
-        "week": "20241201",
-        "rank": 7,
-        "weeksInTopTen": 1,
-        "country": "uy",
-        "category": "films",
-        "name": "Madagascar: Escape 2 Africa",
-        "showName": "Madagascar: Escape 2 Africa",
-        "seasonName": "Madagascar: Escape 2 Africa"
+        "name": "Family Camp",
+        "rank": 30
     },
     {
-        "showId": "80186979",
-        "id": "80186979",
-        "week": "20241201",
-        "rank": 8,
-        "weeksInTopTen": 1,
-        "country": "uy",
-        "category": "films",
-        "name": "Daddy's Home 2",
-        "showName": "Daddy's Home 2",
-        "seasonName": "Daddy's Home 2"
+        "name": "Off Track 2",
+        "rank": 31
     },
     {
-        "showId": "81766198",
-        "id": "81766198",
-        "week": "20241201",
-        "rank": 9,
-        "weeksInTopTen": 2,
-        "country": "uy",
-        "category": "films",
-        "name": "The Merry Gentlemen",
-        "showName": "The Merry Gentlemen",
-        "seasonName": "The Merry Gentlemen"
+        "name": "Exterritorial",
+        "rank": 32
     },
     {
-        "showId": "81701716",
-        "id": "81701716",
-        "week": "20241201",
-        "rank": 10,
-        "weeksInTopTen": 1,
-        "country": "uy",
-        "category": "films",
-        "name": "JOY - The Birth of IVF",
-        "showName": "JOY - The Birth of IVF",
-        "seasonName": "JOY - The Birth of IVF"
+        "name": "Body Cam",
+        "rank": 33
     }
 ]

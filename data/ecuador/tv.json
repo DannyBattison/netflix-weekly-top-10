@@ -1,122 +1,42 @@
 [
     {
-        "showId": "81912961",
-        "id": "81912962",
-        "week": "20241201",
-        "rank": 1,
-        "weeksInTopTen": 2,
-        "country": "ec",
-        "category": "tv",
-        "name": "When the Phone Rings: Limited Series",
-        "showName": "When the Phone Rings",
-        "seasonName": "Limited Series"
+        "name": "Sirens: Limited Series",
+        "rank": 27
     },
     {
-        "showId": "81726001",
-        "id": "81726002",
-        "week": "20241201",
-        "rank": 2,
-        "weeksInTopTen": 3,
-        "country": "ec",
-        "category": "tv",
-        "name": "Sisters' Feud: Season 1",
-        "showName": "Sisters' Feud",
-        "seasonName": "Season 1"
+        "name": "Tastefully Yours: Limited Series",
+        "rank": 28
     },
     {
-        "showId": "81222923",
-        "id": "81286021",
-        "week": "20241201",
-        "rank": 3,
-        "weeksInTopTen": 1,
-        "country": "ec",
-        "category": "tv",
-        "name": "The Empress: Season 2",
-        "showName": "The Empress",
-        "seasonName": "Season 2"
+        "name": "Cold Case: The Tylenol Murders: Season 1",
+        "rank": 29
     },
     {
-        "showId": "81002370",
-        "id": "81576914",
-        "week": "20241201",
-        "rank": 4,
-        "weeksInTopTen": 8,
-        "country": "ec",
-        "category": "tv",
-        "name": "Cobra Kai: Season 6",
-        "showName": "Cobra Kai",
-        "seasonName": "Season 6"
+        "name": "Newly Rich, Newly Poor: Season 1",
+        "rank": 30
     },
     {
-        "showId": "81736884",
-        "id": "81736885",
-        "week": "20241201",
-        "rank": 5,
-        "weeksInTopTen": 8,
-        "country": "ec",
-        "category": "tv",
-        "name": "DAN DA DAN",
-        "showName": "DAN DA DAN",
-        "seasonName": "DAN DA DAN"
+        "name": "American Manhunt: Osama bin Laden: Season 1",
+        "rank": 31
     },
     {
-        "showId": "81435684",
-        "id": "81516572",
-        "week": "20241201",
-        "rank": 6,
-        "weeksInTopTen": 4,
-        "country": "ec",
-        "category": "tv",
-        "name": "Arcane: Season 2",
-        "showName": "Arcane",
-        "seasonName": "Season 2"
+        "name": "Our Unwritten Seoul: Limited Series",
+        "rank": 32
     },
     {
-        "showId": "81705443",
-        "id": "81705444",
-        "week": "20241201",
-        "rank": 7,
-        "weeksInTopTen": 1,
-        "country": "ec",
-        "category": "tv",
-        "name": "Cold Case: Who Killed JonBen\u00c3\u00a9t Ramsey: Season 1",
-        "showName": "Cold Case: Who Killed JonBen\u00c3\u00a9t Ramsey",
-        "seasonName": "Season 1"
+        "name": "Valle Salvaje: Season 2",
+        "rank": 33
     },
     {
-        "showId": "81171925",
-        "id": "81301833",
-        "week": "20241201",
-        "rank": 8,
-        "weeksInTopTen": 8,
-        "country": "ec",
-        "category": "tv",
-        "name": "Ranma1/2: Season 1",
-        "showName": "Ranma1/2",
-        "seasonName": "Season 1"
+        "name": "Secrets We Keep: Limited Series",
+        "rank": 34
     },
     {
-        "showId": "81457258",
-        "id": "81457259",
-        "week": "20241201",
-        "rank": 9,
-        "weeksInTopTen": 1,
-        "country": "ec",
-        "category": "tv",
-        "name": "The Madness: Limited Series",
-        "showName": "The Madness",
-        "seasonName": "Limited Series"
+        "name": "Raw: 2025 - May 26, 2025",
+        "rank": 35
     },
     {
-        "showId": "81739530",
-        "id": "81739531",
-        "week": "20241201",
-        "rank": 10,
-        "weeksInTopTen": 3,
-        "country": "ec",
-        "category": "tv",
-        "name": "Rojo carmes\u00c3\u00ad: Season 1",
-        "showName": "Rojo carmes\u00c3\u00ad",
-        "seasonName": "Season 1"
+        "name": "Heavenly Ever After: Limited Series",
+        "rank": 36
     }
 ]

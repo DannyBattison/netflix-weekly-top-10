@@ -1,122 +1,42 @@
 [
     {
-        "showId": "81628561",
-        "id": "81628562",
-        "week": "20241201",
-        "rank": 1,
-        "weeksInTopTen": 3,
-        "country": "pl",
-        "category": "tv",
-        "name": "The Mothers of Penguins: Season 1",
-        "showName": "The Mothers of Penguins",
-        "seasonName": "Season 1"
+        "name": "Sirens: Limited Series",
+        "rank": 25
     },
     {
-        "showId": "81457258",
-        "id": "81457259",
-        "week": "20241201",
-        "rank": 2,
-        "weeksInTopTen": 1,
-        "country": "pl",
-        "category": "tv",
-        "name": "The Madness: Limited Series",
-        "showName": "The Madness",
-        "seasonName": "Limited Series"
+        "name": "Dept. Q: Season 1",
+        "rank": 26
     },
     {
-        "showId": "81222923",
-        "id": "81286021",
-        "week": "20241201",
-        "rank": 3,
-        "weeksInTopTen": 2,
-        "country": "pl",
-        "category": "tv",
-        "name": "The Empress: Season 2",
-        "showName": "The Empress",
-        "seasonName": "Season 2"
+        "name": "Secrets We Keep: Limited Series",
+        "rank": 27
     },
     {
-        "showId": "81613239",
-        "id": "81613240",
-        "week": "20241201",
-        "rank": 4,
-        "weeksInTopTen": 5,
-        "country": "pl",
-        "category": "tv",
-        "name": "Go Ahead, Brother: Season 1",
-        "showName": "Go Ahead, Brother",
-        "seasonName": "Season 1"
+        "name": "Rhythm + Flow: Poland: Season 1",
+        "rank": 28
     },
     {
-        "showId": "81705443",
-        "id": "81705444",
-        "week": "20241201",
-        "rank": 5,
-        "weeksInTopTen": 1,
-        "country": "pl",
-        "category": "tv",
-        "name": "Cold Case: Who Killed JonBen\u00c3\u00a9t Ramsey: Season 1",
-        "showName": "Cold Case: Who Killed JonBen\u00c3\u00a9t Ramsey",
-        "seasonName": "Season 1"
+        "name": "Cold Case: The Tylenol Murders: Season 1",
+        "rank": 29
     },
     {
-        "showId": "81435684",
-        "id": "81516572",
-        "week": "20241201",
-        "rank": 6,
-        "weeksInTopTen": 4,
-        "country": "pl",
-        "category": "tv",
-        "name": "Arcane: Season 2",
-        "showName": "Arcane",
-        "seasonName": "Season 2"
+        "name": "Big Mouth: Season 8",
+        "rank": 30
     },
     {
-        "showId": "81014532",
-        "id": "81651785",
-        "week": "20241201",
-        "rank": 7,
-        "weeksInTopTen": 1,
-        "country": "pl",
-        "category": "tv",
-        "name": "The Creature Cases: Chapter 4",
-        "showName": "The Creature Cases",
-        "seasonName": "Chapter 4"
-    },
-    {
-        "showId": "81494906",
-        "id": "81494907",
-        "week": "20241201",
-        "rank": 8,
-        "weeksInTopTen": 2,
-        "country": "pl",
-        "category": "tv",
-        "name": "Adoration: Season 1",
-        "showName": "Adoration",
-        "seasonName": "Season 1"
-    },
-    {
-        "showId": "81677257",
-        "id": "81677258",
-        "week": "20241201",
-        "rank": 9,
-        "weeksInTopTen": 2,
-        "country": "pl",
-        "category": "tv",
-        "name": "A Man on the Inside: Season 1",
-        "showName": "A Man on the Inside",
-        "seasonName": "Season 1"
-    },
-    {
-        "showId": "81685956",
-        "id": "81685971",
-        "week": "20241201",
-        "rank": 10,
-        "weeksInTopTen": 17,
-        "country": "pl",
-        "category": "tv",
         "name": "Kitty Kotty: Season 2",
-        "showName": "Kitty Kotty",
-        "seasonName": "Season 2"
+        "rank": 31
+    },
+    {
+        "name": "Kitty Kotty: Season 1",
+        "rank": 32
+    },
+    {
+        "name": "Temptation: Season 1",
+        "rank": 33
+    },
+    {
+        "name": "American Manhunt: Osama bin Laden: Season 1",
+        "rank": 34
     }
 ]

@@ -1,122 +1,42 @@
 [
     {
-        "showId": "81498404",
-        "id": "81498404",
-        "week": "20241201",
-        "rank": 1,
-        "weeksInTopTen": 1,
-        "country": "cl",
-        "category": "films",
-        "name": "Our Little Secret",
-        "showName": "Our Little Secret",
-        "seasonName": "Our Little Secret"
+        "name": "The Heart Knows",
+        "rank": 23
     },
     {
-        "showId": "81198916",
-        "id": "81198916",
-        "week": "20241201",
-        "rank": 2,
-        "weeksInTopTen": 3,
-        "country": "cl",
-        "category": "films",
-        "name": "Minions: The Rise of Gru",
-        "showName": "Minions: The Rise of Gru",
-        "seasonName": "Minions: The Rise of Gru"
+        "name": "A Widow's Game",
+        "rank": 24
     },
     {
-        "showId": "81745658",
-        "id": "81745658",
-        "week": "20241201",
-        "rank": 3,
-        "weeksInTopTen": 1,
-        "country": "cl",
-        "category": "films",
-        "name": "Spellbound",
-        "showName": "Spellbound",
-        "seasonName": "Spellbound"
+        "name": "Puss in Boots: The Last Wish",
+        "rank": 25
     },
     {
-        "showId": "81711199",
-        "id": "81711199",
-        "week": "20241201",
-        "rank": 4,
-        "weeksInTopTen": 2,
-        "country": "cl",
-        "category": "films",
-        "name": "GTMAX",
-        "showName": "GTMAX",
-        "seasonName": "GTMAX"
+        "name": "Aquaman and the Lost Kingdom",
+        "rank": 26
     },
     {
-        "showId": "80186979",
-        "id": "80186979",
-        "week": "20241201",
-        "rank": 5,
-        "weeksInTopTen": 1,
-        "country": "cl",
-        "category": "films",
-        "name": "Daddy's Home 2",
-        "showName": "Daddy's Home 2",
-        "seasonName": "Daddy's Home 2"
+        "name": "Fear Street: Prom Queen",
+        "rank": 27
     },
     {
-        "showId": "70099116",
-        "id": "70099116",
-        "week": "20241201",
-        "rank": 6,
-        "weeksInTopTen": 1,
-        "country": "cl",
-        "category": "films",
-        "name": "Madagascar: Escape 2 Africa",
-        "showName": "Madagascar: Escape 2 Africa",
-        "seasonName": "Madagascar: Escape 2 Africa"
+        "name": "Shrek",
+        "rank": 28
     },
     {
-        "showId": "81674656",
-        "id": "81674656",
-        "week": "20241201",
-        "rank": 7,
-        "weeksInTopTen": 3,
-        "country": "cl",
-        "category": "films",
-        "name": "The Expendables 4",
-        "showName": "The Expendables 4",
-        "seasonName": "The Expendables 4"
+        "name": "Exterritorial",
+        "rank": 29
     },
     {
-        "showId": "81766198",
-        "id": "81766198",
-        "week": "20241201",
-        "rank": 8,
-        "weeksInTopTen": 2,
-        "country": "cl",
-        "category": "films",
-        "name": "The Merry Gentlemen",
-        "showName": "The Merry Gentlemen",
-        "seasonName": "The Merry Gentlemen"
+        "name": "Dr. Seuss' The Cat in the Hat",
+        "rank": 30
     },
     {
-        "showId": "80067930",
-        "id": "80067930",
-        "week": "20241201",
-        "rank": 9,
-        "weeksInTopTen": 4,
-        "country": "cl",
-        "category": "films",
-        "name": "13 Hours: The Secret Soldiers of Benghazi",
-        "showName": "13 Hours: The Secret Soldiers of Benghazi",
-        "seasonName": "13 Hours: The Secret Soldiers of Benghazi"
+        "name": "Shrek 2",
+        "rank": 31
     },
     {
-        "showId": "81631823",
-        "id": "81631823",
-        "week": "20241201",
-        "rank": 10,
-        "weeksInTopTen": 2,
-        "country": "cl",
-        "category": "films",
-        "name": "Dungeons & Dragons: Honor Among Thieves",
-        "showName": "Dungeons & Dragons: Honor Among Thieves",
-        "seasonName": "Dungeons & Dragons: Honor Among Thieves"
+        "name": "Nonnas",
+        "rank": 32
     }
 ]

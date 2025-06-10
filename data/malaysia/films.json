@@ -1,122 +1,42 @@
 [
     {
-        "showId": "81949600",
-        "id": "81949600",
-        "week": "20241201",
-        "rank": 1,
-        "weeksInTopTen": 2,
-        "country": "my",
-        "category": "films",
-        "name": "Conquer: Lahad Datu",
-        "showName": "Conquer: Lahad Datu",
-        "seasonName": "Conquer: Lahad Datu"
+        "name": "Sikandar",
+        "rank": 23
     },
     {
-        "showId": "81619948",
-        "id": "81619948",
-        "week": "20241201",
-        "rank": 2,
-        "weeksInTopTen": 1,
-        "country": "my",
-        "category": "films",
-        "name": "M3GAN",
-        "showName": "M3GAN",
-        "seasonName": "M3GAN"
+        "name": "The Deceased",
+        "rank": 24
     },
     {
-        "showId": "81953481",
-        "id": "81953481",
-        "week": "20241201",
-        "rank": 3,
-        "weeksInTopTen": 1,
-        "country": "my",
-        "category": "films",
-        "name": "Bagheera",
-        "showName": "Bagheera",
-        "seasonName": "Bagheera"
+        "name": "HIT: The Third Case",
+        "rank": 25
     },
     {
-        "showId": "81251375",
-        "id": "81251375",
-        "week": "20241201",
-        "rank": 4,
-        "weeksInTopTen": 1,
-        "country": "my",
-        "category": "films",
-        "name": "The Flash",
-        "showName": "The Flash",
-        "seasonName": "The Flash"
+        "name": "Retro",
+        "rank": 26
     },
     {
-        "showId": "81745658",
-        "id": "81745658",
-        "week": "20241201",
-        "rank": 5,
-        "weeksInTopTen": 1,
-        "country": "my",
-        "category": "films",
-        "name": "Spellbound",
-        "showName": "Spellbound",
-        "seasonName": "Spellbound"
+        "name": "The Devil's Bride",
+        "rank": 27
     },
     {
-        "showId": "81688468",
-        "id": "81688468",
-        "week": "20241201",
-        "rank": 6,
-        "weeksInTopTen": 2,
-        "country": "my",
-        "category": "films",
-        "name": "The Cursed Land",
-        "showName": "The Cursed Land",
-        "seasonName": "The Cursed Land"
+        "name": "Fear Street: Prom Queen",
+        "rank": 28
     },
     {
-        "showId": "81087735",
-        "id": "81087735",
-        "week": "20241201",
-        "rank": 7,
-        "weeksInTopTen": 4,
-        "country": "my",
-        "category": "films",
-        "name": "The Hunt",
-        "showName": "The Hunt",
-        "seasonName": "The Hunt"
+        "name": "Ruby Gillman, Teenage Kraken",
+        "rank": 29
     },
     {
-        "showId": "81902035",
-        "id": "81902035",
-        "week": "20241201",
-        "rank": 8,
-        "weeksInTopTen": 1,
-        "country": "my",
-        "category": "films",
-        "name": "Lucky Baskhar",
-        "showName": "Lucky Baskhar",
-        "seasonName": "Lucky Baskhar"
+        "name": "Scarecrow",
+        "rank": 30
     },
     {
-        "showId": "81946407",
-        "id": "81946407",
-        "week": "20241201",
-        "rank": 9,
-        "weeksInTopTen": 2,
-        "country": "my",
-        "category": "films",
-        "name": "How to Survive a Marriage?",
-        "showName": "How to Survive a Marriage?",
-        "seasonName": "How to Survive a Marriage?"
+        "name": "I Want To Be Boss",
+        "rank": 31
     },
     {
-        "showId": "81773024",
-        "id": "81773024",
-        "week": "20241201",
-        "rank": 10,
-        "weeksInTopTen": 4,
-        "country": "my",
-        "category": "films",
-        "name": "Ipar Adalah Maut",
-        "showName": "Ipar Adalah Maut",
-        "seasonName": "Ipar Adalah Maut"
+        "name": "Good Bad Ugly",
+        "rank": 32
     }
 ]

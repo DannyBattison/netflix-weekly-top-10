@@ -1,122 +1,42 @@
 [
     {
-        "showId": "81705443",
-        "id": "81705444",
-        "week": "20241201",
-        "rank": 1,
-        "weeksInTopTen": 1,
-        "country": "fi",
-        "category": "tv",
-        "name": "Cold Case: Who Killed JonBen\u00c3\u00a9t Ramsey: Season 1",
-        "showName": "Cold Case: Who Killed JonBen\u00c3\u00a9t Ramsey",
-        "seasonName": "Season 1"
+        "name": "Sirens: Limited Series",
+        "rank": 28
     },
     {
-        "showId": "81677257",
-        "id": "81677258",
-        "week": "20241201",
-        "rank": 2,
-        "weeksInTopTen": 2,
-        "country": "fi",
-        "category": "tv",
-        "name": "A Man on the Inside: Season 1",
-        "showName": "A Man on the Inside",
-        "seasonName": "Season 1"
+        "name": "Secrets We Keep: Limited Series",
+        "rank": 29
     },
     {
-        "showId": "81457258",
-        "id": "81457259",
-        "week": "20241201",
-        "rank": 3,
-        "weeksInTopTen": 1,
-        "country": "fi",
-        "category": "tv",
-        "name": "The Madness: Limited Series",
-        "showName": "The Madness",
-        "seasonName": "Limited Series"
+        "name": "Dept. Q: Season 1",
+        "rank": 30
     },
     {
-        "showId": "81629252",
-        "id": "81629253",
-        "week": "20241201",
-        "rank": 4,
-        "weeksInTopTen": 2,
-        "country": "fi",
-        "category": "tv",
-        "name": "The Helicopter Heist: Limited Series",
-        "showName": "The Helicopter Heist",
-        "seasonName": "Limited Series"
+        "name": "Cold Case: The Tylenol Murders: Season 1",
+        "rank": 31
     },
     {
-        "showId": "81222923",
-        "id": "81286021",
-        "week": "20241201",
-        "rank": 5,
-        "weeksInTopTen": 2,
-        "country": "fi",
-        "category": "tv",
-        "name": "The Empress: Season 2",
-        "showName": "The Empress",
-        "seasonName": "Season 2"
+        "name": "American Manhunt: Osama bin Laden: Season 1",
+        "rank": 32
     },
     {
-        "showId": "81435684",
-        "id": "81516572",
-        "week": "20241201",
-        "rank": 6,
-        "weeksInTopTen": 4,
-        "country": "fi",
-        "category": "tv",
-        "name": "Arcane: Season 2",
-        "showName": "Arcane",
-        "seasonName": "Season 2"
+        "name": "The Four Seasons: Season 1",
+        "rank": 33
     },
     {
-        "showId": "81014532",
-        "id": "81651785",
-        "week": "20241201",
-        "rank": 7,
-        "weeksInTopTen": 1,
-        "country": "fi",
-        "category": "tv",
-        "name": "The Creature Cases: Chapter 4",
-        "showName": "The Creature Cases",
-        "seasonName": "Chapter 4"
+        "name": "Fred and Rose West: A British Horror Story: Limited Series",
+        "rank": 34
     },
     {
-        "showId": "81738579",
-        "id": "81738579",
-        "week": "20241201",
-        "rank": 8,
-        "weeksInTopTen": 1,
-        "country": "fi",
-        "category": "tv",
-        "name": "Anthony Jeselnik: Bones and All",
-        "showName": "Anthony Jeselnik: Bones and All",
-        "seasonName": "Anthony Jeselnik: Bones and All"
+        "name": "Big Mouth: Season 8",
+        "rank": 35
     },
     {
-        "showId": "81435684",
-        "id": "81435685",
-        "week": "20241201",
-        "rank": 9,
-        "weeksInTopTen": 8,
-        "country": "fi",
-        "category": "tv",
-        "name": "Arcane: Season 1",
-        "showName": "Arcane",
-        "seasonName": "Season 1"
+        "name": "Pernille: Season 5",
+        "rank": 36
     },
     {
-        "showId": "80236318",
-        "id": "81634116",
-        "week": "20241201",
-        "rank": 10,
-        "weeksInTopTen": 8,
-        "country": "fi",
-        "category": "tv",
-        "name": "Outer Banks: Season 4",
-        "showName": "Outer Banks",
-        "seasonName": "Season 4"
+        "name": "Bet: Season 1",
+        "rank": 37
     }
 ]

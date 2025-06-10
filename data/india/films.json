@@ -1,122 +1,42 @@
 [
     {
-        "showId": "81902035",
-        "id": "81902035",
-        "week": "20241201",
-        "rank": 1,
-        "weeksInTopTen": 1,
-        "country": "in",
-        "category": "films",
-        "name": "Lucky Baskhar",
-        "showName": "Lucky Baskhar",
-        "seasonName": "Lucky Baskhar"
+        "name": "HIT: The Third Case",
+        "rank": 27
     },
     {
-        "showId": "81750030",
-        "id": "81750030",
-        "week": "20241201",
-        "rank": 2,
-        "weeksInTopTen": 1,
-        "country": "in",
-        "category": "films",
-        "name": "Sikandar Ka Muqaddar",
-        "showName": "Sikandar Ka Muqaddar",
-        "seasonName": "Sikandar Ka Muqaddar"
+        "name": "Sikandar",
+        "rank": 28
     },
     {
-        "showId": "81728598",
-        "id": "81728598",
-        "week": "20241201",
-        "rank": 3,
-        "weeksInTopTen": 4,
-        "country": "in",
-        "category": "films",
-        "name": "Devara",
-        "showName": "Devara",
-        "seasonName": "Devara"
+        "name": "Retro",
+        "rank": 29
     },
     {
-        "showId": "81953481",
-        "id": "81953481",
-        "week": "20241201",
-        "rank": 4,
-        "weeksInTopTen": 2,
-        "country": "in",
-        "category": "films",
-        "name": "Bagheera",
-        "showName": "Bagheera",
-        "seasonName": "Bagheera"
+        "name": "The Diplomat",
+        "rank": 30
     },
     {
-        "showId": "81745658",
-        "id": "81745658",
-        "week": "20241201",
-        "rank": 5,
-        "weeksInTopTen": 1,
-        "country": "in",
-        "category": "films",
-        "name": "Spellbound",
-        "showName": "Spellbound",
-        "seasonName": "Spellbound"
+        "name": "Jack",
+        "rank": 31
     },
     {
-        "showId": "81681817",
-        "id": "81681817",
-        "week": "20241201",
-        "rank": 6,
-        "weeksInTopTen": 6,
-        "country": "in",
-        "category": "films",
-        "name": "Do Patti",
-        "showName": "Do Patti",
-        "seasonName": "Do Patti"
+        "name": "Good Bad Ugly",
+        "rank": 32
     },
     {
-        "showId": "81498404",
-        "id": "81498404",
-        "week": "20241201",
-        "rank": 7,
-        "weeksInTopTen": 1,
-        "country": "in",
-        "category": "films",
-        "name": "Our Little Secret",
-        "showName": "Our Little Secret",
-        "seasonName": "Our Little Secret"
+        "name": "Court: State vs A Nobody",
+        "rank": 33
     },
     {
-        "showId": "81713677",
-        "id": "81713677",
-        "week": "20241201",
-        "rank": 8,
-        "weeksInTopTen": 6,
-        "country": "in",
-        "category": "films",
-        "name": "Meiyazhagan",
-        "showName": "Meiyazhagan",
-        "seasonName": "Meiyazhagan"
+        "name": "Mission: Impossible - Dead Reckoning",
+        "rank": 34
     },
     {
-        "showId": "81711199",
-        "id": "81711199",
-        "week": "20241201",
-        "rank": 9,
-        "weeksInTopTen": 1,
-        "country": "in",
-        "category": "films",
-        "name": "GTMAX",
-        "showName": "GTMAX",
-        "seasonName": "GTMAX"
+        "name": "Chhaava",
+        "rank": 35
     },
     {
-        "showId": "81251375",
-        "id": "81251375",
-        "week": "20241201",
-        "rank": 10,
-        "weeksInTopTen": 2,
-        "country": "in",
-        "category": "films",
-        "name": "The Flash",
-        "showName": "The Flash",
-        "seasonName": "The Flash"
+        "name": "A Widow's Game",
+        "rank": 36
     }
 ]

@@ -1,122 +1,42 @@
 [
     {
-        "showId": "81173113",
-        "id": "81306174",
-        "week": "20241201",
-        "rank": 1,
-        "weeksInTopTen": 2,
-        "country": "ae",
-        "category": "tv",
-        "name": "Yeh Kaali Kaali Ankhein: Season 2",
-        "showName": "Yeh Kaali Kaali Ankhein",
-        "seasonName": "Season 2"
+        "name": "Sirens: Limited Series",
+        "rank": 28
     },
     {
-        "showId": "81912961",
-        "id": "81912962",
-        "week": "20241201",
-        "rank": 2,
-        "weeksInTopTen": 2,
-        "country": "ae",
-        "category": "tv",
-        "name": "When the Phone Rings: Limited Series",
-        "showName": "When the Phone Rings",
-        "seasonName": "Limited Series"
+        "name": "Cold Case: The Tylenol Murders: Season 1",
+        "rank": 29
     },
     {
-        "showId": "81705443",
-        "id": "81705444",
-        "week": "20241201",
-        "rank": 3,
-        "weeksInTopTen": 1,
-        "country": "ae",
-        "category": "tv",
-        "name": "Cold Case: Who Killed JonBen\u00c3\u00a9t Ramsey: Season 1",
-        "showName": "Cold Case: Who Killed JonBen\u00c3\u00a9t Ramsey",
-        "seasonName": "Season 1"
+        "name": "American Manhunt: Osama bin Laden: Season 1",
+        "rank": 30
     },
     {
-        "showId": "81677257",
-        "id": "81677258",
-        "week": "20241201",
-        "rank": 4,
-        "weeksInTopTen": 2,
-        "country": "ae",
-        "category": "tv",
-        "name": "A Man on the Inside: Season 1",
-        "showName": "A Man on the Inside",
-        "seasonName": "Season 1"
+        "name": "Bet: Season 1",
+        "rank": 31
     },
     {
-        "showId": "81457258",
-        "id": "81457259",
-        "week": "20241201",
-        "rank": 5,
-        "weeksInTopTen": 1,
-        "country": "ae",
-        "category": "tv",
-        "name": "The Madness: Limited Series",
-        "showName": "The Madness",
-        "seasonName": "Limited Series"
+        "name": "Tastefully Yours: Limited Series",
+        "rank": 32
     },
     {
-        "showId": "81222923",
-        "id": "81286021",
-        "week": "20241201",
-        "rank": 6,
-        "weeksInTopTen": 1,
-        "country": "ae",
-        "category": "tv",
-        "name": "The Empress: Season 2",
-        "showName": "The Empress",
-        "seasonName": "Season 2"
+        "name": "Secrets We Keep: Limited Series",
+        "rank": 33
     },
     {
-        "showId": "81173113",
-        "id": "81189101",
-        "week": "20241201",
-        "rank": 7,
-        "weeksInTopTen": 4,
-        "country": "ae",
-        "category": "tv",
-        "name": "Yeh Kaali Kaali Ankhein: Season 1",
-        "showName": "Yeh Kaali Kaali Ankhein",
-        "seasonName": "Season 1"
+        "name": "The Royals: Season 1",
+        "rank": 34
     },
     {
-        "showId": "81435684",
-        "id": "81516572",
-        "week": "20241201",
-        "rank": 8,
-        "weeksInTopTen": 4,
-        "country": "ae",
-        "category": "tv",
-        "name": "Arcane: Season 2",
-        "showName": "Arcane",
-        "seasonName": "Season 2"
+        "name": "Dept. Q: Season 1",
+        "rank": 35
     },
     {
-        "showId": "81737430",
-        "id": "81786478",
-        "week": "20241201",
-        "rank": 9,
-        "weeksInTopTen": 11,
-        "country": "ae",
-        "category": "tv",
-        "name": "The Great Indian Kapil Show: Season 2",
-        "showName": "The Great Indian Kapil Show",
-        "seasonName": "Season 2"
+        "name": "Our Unwritten Seoul: Limited Series",
+        "rank": 36
     },
     {
-        "showId": "81582447",
-        "id": "81582448",
-        "week": "20241201",
-        "rank": 10,
-        "weeksInTopTen": 1,
-        "country": "ae",
-        "category": "tv",
-        "name": "The Trunk: Limited Series",
-        "showName": "The Trunk",
-        "seasonName": "Limited Series"
+        "name": "Ms. Rachel: Season 1",
+        "rank": 37
     }
 ]

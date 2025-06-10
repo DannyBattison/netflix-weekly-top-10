@@ -1,122 +1,42 @@
 [
     {
-        "showId": "81498404",
-        "id": "81498404",
-        "week": "20241201",
-        "rank": 1,
-        "weeksInTopTen": 1,
-        "country": "fi",
-        "category": "films",
-        "name": "Our Little Secret",
-        "showName": "Our Little Secret",
-        "seasonName": "Our Little Secret"
+        "name": "Way Home",
+        "rank": 23
     },
     {
-        "showId": "80187054",
-        "id": "80187054",
-        "week": "20241201",
-        "rank": 2,
-        "weeksInTopTen": 1,
-        "country": "fi",
-        "category": "films",
-        "name": "Red Sparrow",
-        "showName": "Red Sparrow",
-        "seasonName": "Red Sparrow"
+        "name": "A Widow's Game",
+        "rank": 24
     },
     {
-        "showId": "81766198",
-        "id": "81766198",
-        "week": "20241201",
-        "rank": 3,
-        "weeksInTopTen": 2,
-        "country": "fi",
-        "category": "films",
-        "name": "The Merry Gentlemen",
-        "showName": "The Merry Gentlemen",
-        "seasonName": "The Merry Gentlemen"
+        "name": "My Big Fat Greek Wedding 3",
+        "rank": 25
     },
     {
-        "showId": "81745658",
-        "id": "81745658",
-        "week": "20241201",
-        "rank": 4,
-        "weeksInTopTen": 2,
-        "country": "fi",
-        "category": "films",
-        "name": "Spellbound",
-        "showName": "Spellbound",
-        "seasonName": "Spellbound"
+        "name": "Erased",
+        "rank": 26
     },
     {
-        "showId": "81087735",
-        "id": "81087735",
-        "week": "20241201",
-        "rank": 5,
-        "weeksInTopTen": 3,
-        "country": "fi",
-        "category": "films",
-        "name": "The Hunt",
-        "showName": "The Hunt",
-        "seasonName": "The Hunt"
+        "name": "Fear Street: Prom Queen",
+        "rank": 27
     },
     {
-        "showId": "80186979",
-        "id": "80186979",
-        "week": "20241201",
-        "rank": 6,
-        "weeksInTopTen": 2,
-        "country": "fi",
-        "category": "films",
-        "name": "Daddy's Home 2",
-        "showName": "Daddy's Home 2",
-        "seasonName": "Daddy's Home 2"
+        "name": "Off Track 2",
+        "rank": 28
     },
     {
-        "showId": "81554996",
-        "id": "81554996",
-        "week": "20241201",
-        "rank": 7,
-        "weeksInTopTen": 2,
-        "country": "fi",
-        "category": "films",
-        "name": "Buy Now: The Shopping Conspiracy",
-        "showName": "Buy Now: The Shopping Conspiracy",
-        "seasonName": "Buy Now: The Shopping Conspiracy"
+        "name": "Nonnas",
+        "rank": 29
     },
     {
-        "showId": "80067930",
-        "id": "80067930",
-        "week": "20241201",
-        "rank": 8,
-        "weeksInTopTen": 4,
-        "country": "fi",
-        "category": "films",
-        "name": "13 Hours: The Secret Soldiers of Benghazi",
-        "showName": "13 Hours: The Secret Soldiers of Benghazi",
-        "seasonName": "13 Hours: The Secret Soldiers of Benghazi"
+        "name": "Mission: Impossible - Dead Reckoning",
+        "rank": 30
     },
     {
-        "showId": "70099116",
-        "id": "70099116",
-        "week": "20241201",
-        "rank": 9,
-        "weeksInTopTen": 1,
-        "country": "fi",
-        "category": "films",
-        "name": "Madagascar: Escape 2 Africa",
-        "showName": "Madagascar: Escape 2 Africa",
-        "seasonName": "Madagascar: Escape 2 Africa"
+        "name": "Dune: Part Two",
+        "rank": 31
     },
     {
-        "showId": "81579532",
-        "id": "81579532",
-        "week": "20241201",
-        "rank": 10,
-        "weeksInTopTen": 1,
-        "country": "fi",
-        "category": "films",
-        "name": "Beast (English)",
-        "showName": "Beast (English)",
-        "seasonName": "Beast (English)"
+        "name": "PAW Patrol: The Mighty Movie",
+        "rank": 32
     }
 ]

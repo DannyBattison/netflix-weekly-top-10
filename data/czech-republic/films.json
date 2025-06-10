@@ -1,122 +1,42 @@
 [
     {
-        "showId": "81498404",
-        "id": "81498404",
-        "week": "20241201",
-        "rank": 1,
-        "weeksInTopTen": 1,
-        "country": "cz",
-        "category": "films",
-        "name": "Our Little Secret",
-        "showName": "Our Little Secret",
-        "seasonName": "Our Little Secret"
+        "name": "Joy Within Reach",
+        "rank": 23
     },
     {
-        "showId": "81745658",
-        "id": "81745658",
-        "week": "20241201",
-        "rank": 2,
-        "weeksInTopTen": 2,
-        "country": "cz",
-        "category": "films",
-        "name": "Spellbound",
-        "showName": "Spellbound",
-        "seasonName": "Spellbound"
+        "name": "A Widow's Game",
+        "rank": 24
     },
     {
-        "showId": "81926316",
-        "id": "81926316",
-        "week": "20241201",
-        "rank": 3,
-        "weeksInTopTen": 2,
-        "country": "cz",
-        "category": "films",
-        "name": "Miki",
-        "showName": "Miki",
-        "seasonName": "Miki"
+        "name": "Do the M\u00e6th",
+        "rank": 25
     },
     {
-        "showId": "70099116",
-        "id": "70099116",
-        "week": "20241201",
-        "rank": 4,
-        "weeksInTopTen": 2,
-        "country": "cz",
-        "category": "films",
-        "name": "Madagascar: Escape 2 Africa",
-        "showName": "Madagascar: Escape 2 Africa",
-        "seasonName": "Madagascar: Escape 2 Africa"
+        "name": "Fear Street: Prom Queen",
+        "rank": 26
     },
     {
-        "showId": "81766198",
-        "id": "81766198",
-        "week": "20241201",
-        "rank": 5,
-        "weeksInTopTen": 2,
-        "country": "cz",
-        "category": "films",
-        "name": "The Merry Gentlemen",
-        "showName": "The Merry Gentlemen",
-        "seasonName": "The Merry Gentlemen"
+        "name": "Nonnas",
+        "rank": 27
     },
     {
-        "showId": "81640914",
-        "id": "81640914",
-        "week": "20241201",
-        "rank": 6,
-        "weeksInTopTen": 4,
-        "country": "cz",
-        "category": "films",
-        "name": "The Super Mario Bros. Movie",
-        "showName": "The Super Mario Bros. Movie",
-        "seasonName": "The Super Mario Bros. Movie"
+        "name": "PAW Patrol: The Mighty Movie",
+        "rank": 28
     },
     {
-        "showId": "70021636",
-        "id": "70021636",
-        "week": "20241201",
-        "rank": 7,
-        "weeksInTopTen": 3,
-        "country": "cz",
-        "category": "films",
-        "name": "Madagascar",
-        "showName": "Madagascar",
-        "seasonName": "Madagascar"
+        "name": "The Heart Knows",
+        "rank": 29
     },
     {
-        "showId": "81779948",
-        "id": "81779948",
-        "week": "20241201",
-        "rank": 8,
-        "weeksInTopTen": 1,
-        "country": "cz",
-        "category": "films",
-        "name": "Twas the Text Before Christmas",
-        "showName": "Twas the Text Before Christmas",
-        "seasonName": "Twas the Text Before Christmas"
+        "name": "The Bob & Bobby Movie: On the Trail of the Carrot Eater",
+        "rank": 30
     },
     {
-        "showId": "81554996",
-        "id": "81554996",
-        "week": "20241201",
-        "rank": 9,
-        "weeksInTopTen": 2,
-        "country": "cz",
-        "category": "films",
-        "name": "Buy Now: The Shopping Conspiracy",
-        "showName": "Buy Now: The Shopping Conspiracy",
-        "seasonName": "Buy Now: The Shopping Conspiracy"
+        "name": "Turbo",
+        "rank": 31
     },
     {
-        "showId": "81711199",
-        "id": "81711199",
-        "week": "20241201",
-        "rank": 10,
-        "weeksInTopTen": 1,
-        "country": "cz",
-        "category": "films",
-        "name": "GTMAX",
-        "showName": "GTMAX",
-        "seasonName": "GTMAX"
+        "name": "Dune: Part Two",
+        "rank": 32
     }
 ]

@@ -1,122 +1,42 @@
 [
     {
-        "showId": "81498404",
-        "id": "81498404",
-        "week": "20241201",
-        "rank": 1,
-        "weeksInTopTen": 1,
-        "country": "be",
-        "category": "films",
-        "name": "Our Little Secret",
-        "showName": "Our Little Secret",
-        "seasonName": "Our Little Secret"
+        "name": "A Widow's Game",
+        "rank": 24
     },
     {
-        "showId": "81602889",
-        "id": "81602889",
-        "week": "20241201",
-        "rank": 2,
-        "weeksInTopTen": 2,
-        "country": "be",
-        "category": "films",
-        "name": "Transformers: Rise of the Beasts",
-        "showName": "Transformers: Rise of the Beasts",
-        "seasonName": "Transformers: Rise of the Beasts"
+        "name": "Fear Street: Prom Queen",
+        "rank": 25
     },
     {
-        "showId": "80187054",
-        "id": "80187054",
-        "week": "20241201",
-        "rank": 3,
-        "weeksInTopTen": 1,
-        "country": "be",
-        "category": "films",
-        "name": "Red Sparrow",
-        "showName": "Red Sparrow",
-        "seasonName": "Red Sparrow"
+        "name": "Nonnas",
+        "rank": 26
     },
     {
-        "showId": "81745658",
-        "id": "81745658",
-        "week": "20241201",
-        "rank": 4,
-        "weeksInTopTen": 1,
-        "country": "be",
-        "category": "films",
-        "name": "Spellbound",
-        "showName": "Spellbound",
-        "seasonName": "Spellbound"
+        "name": "Anora",
+        "rank": 27
     },
     {
-        "showId": "81674658",
-        "id": "81674658",
-        "week": "20241201",
-        "rank": 5,
-        "weeksInTopTen": 1,
-        "country": "be",
-        "category": "films",
-        "name": "The Equalizer 3",
-        "showName": "The Equalizer 3",
-        "seasonName": "The Equalizer 3"
+        "name": "Collateral",
+        "rank": 28
     },
     {
-        "showId": "81766198",
-        "id": "81766198",
-        "week": "20241201",
-        "rank": 6,
-        "weeksInTopTen": 2,
-        "country": "be",
-        "category": "films",
-        "name": "The Merry Gentlemen",
-        "showName": "The Merry Gentlemen",
-        "seasonName": "The Merry Gentlemen"
+        "name": "The Heart Knows",
+        "rank": 29
     },
     {
-        "showId": "81438065",
-        "id": "81438065",
-        "week": "20241201",
-        "rank": 7,
-        "weeksInTopTen": 1,
-        "country": "be",
-        "category": "films",
-        "name": "The Ice Road",
-        "showName": "The Ice Road",
-        "seasonName": "The Ice Road"
+        "name": "Exterritorial",
+        "rank": 30
     },
     {
-        "showId": "81711199",
-        "id": "81711199",
-        "week": "20241201",
-        "rank": 8,
-        "weeksInTopTen": 2,
-        "country": "be",
-        "category": "films",
-        "name": "GTMAX",
-        "showName": "GTMAX",
-        "seasonName": "GTMAX"
+        "name": "Havoc",
+        "rank": 31
     },
     {
-        "showId": "70099116",
-        "id": "70099116",
-        "week": "20241201",
-        "rank": 9,
-        "weeksInTopTen": 1,
-        "country": "be",
-        "category": "films",
-        "name": "Madagascar: Escape 2 Africa",
-        "showName": "Madagascar: Escape 2 Africa",
-        "seasonName": "Madagascar: Escape 2 Africa"
+        "name": "Inside Man: Most Wanted",
+        "rank": 32
     },
     {
-        "showId": "80186979",
-        "id": "80186979",
-        "week": "20241201",
-        "rank": 10,
-        "weeksInTopTen": 2,
-        "country": "be",
-        "category": "films",
-        "name": "Daddy's Home 2",
-        "showName": "Daddy's Home 2",
-        "seasonName": "Daddy's Home 2"
+        "name": "Mission: Impossible - Dead Reckoning",
+        "rank": 33
     }
 ]

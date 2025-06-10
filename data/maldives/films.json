@@ -1,122 +1,42 @@
 [
     {
-        "showId": "81953481",
-        "id": "81953481",
-        "week": "20241201",
-        "rank": 1,
-        "weeksInTopTen": 1,
-        "country": "mv",
-        "category": "films",
-        "name": "Bagheera",
-        "showName": "Bagheera",
-        "seasonName": "Bagheera"
+        "name": "Sikandar",
+        "rank": 25
     },
     {
-        "showId": "81745658",
-        "id": "81745658",
-        "week": "20241201",
-        "rank": 2,
-        "weeksInTopTen": 2,
-        "country": "mv",
-        "category": "films",
-        "name": "Spellbound",
-        "showName": "Spellbound",
-        "seasonName": "Spellbound"
+        "name": "HIT: The Third Case",
+        "rank": 26
     },
     {
-        "showId": "81750030",
-        "id": "81750030",
-        "week": "20241201",
-        "rank": 3,
-        "weeksInTopTen": 1,
-        "country": "mv",
-        "category": "films",
-        "name": "Sikandar Ka Muqaddar",
-        "showName": "Sikandar Ka Muqaddar",
-        "seasonName": "Sikandar Ka Muqaddar"
+        "name": "Retro",
+        "rank": 27
     },
     {
-        "showId": "81902035",
-        "id": "81902035",
-        "week": "20241201",
-        "rank": 4,
-        "weeksInTopTen": 1,
-        "country": "mv",
-        "category": "films",
-        "name": "Lucky Baskhar",
-        "showName": "Lucky Baskhar",
-        "seasonName": "Lucky Baskhar"
+        "name": "Fear Street: Prom Queen",
+        "rank": 28
     },
     {
-        "showId": "81728598",
-        "id": "81728598",
-        "week": "20241201",
-        "rank": 5,
-        "weeksInTopTen": 4,
-        "country": "mv",
-        "category": "films",
-        "name": "Devara",
-        "showName": "Devara",
-        "seasonName": "Devara"
+        "name": "A Widow's Game",
+        "rank": 29
     },
     {
-        "showId": "81498404",
-        "id": "81498404",
-        "week": "20241201",
-        "rank": 6,
-        "weeksInTopTen": 1,
-        "country": "mv",
-        "category": "films",
-        "name": "Our Little Secret",
-        "showName": "Our Little Secret",
-        "seasonName": "Our Little Secret"
+        "name": "The Diplomat",
+        "rank": 30
     },
     {
-        "showId": "81711199",
-        "id": "81711199",
-        "week": "20241201",
-        "rank": 7,
-        "weeksInTopTen": 2,
-        "country": "mv",
-        "category": "films",
-        "name": "GTMAX",
-        "showName": "GTMAX",
-        "seasonName": "GTMAX"
+        "name": "Inside Man: Most Wanted",
+        "rank": 31
     },
     {
-        "showId": "81131575",
-        "id": "81131575",
-        "week": "20241201",
-        "rank": 8,
-        "weeksInTopTen": 3,
-        "country": "mv",
-        "category": "films",
-        "name": "Ready or Not",
-        "showName": "Ready or Not",
-        "seasonName": "Ready or Not"
+        "name": "Mission: Impossible - Dead Reckoning",
+        "rank": 32
     },
     {
-        "showId": "81251375",
-        "id": "81251375",
-        "week": "20241201",
-        "rank": 9,
-        "weeksInTopTen": 2,
-        "country": "mv",
-        "category": "films",
-        "name": "The Flash",
-        "showName": "The Flash",
-        "seasonName": "The Flash"
+        "name": "Night Swim",
+        "rank": 33
     },
     {
-        "showId": "81949600",
-        "id": "81949600",
-        "week": "20241201",
-        "rank": 10,
-        "weeksInTopTen": 1,
-        "country": "mv",
-        "category": "films",
-        "name": "Conquer: Lahad Datu",
-        "showName": "Conquer: Lahad Datu",
-        "seasonName": "Conquer: Lahad Datu"
+        "name": "Jewel Thief - The Heist Begins",
+        "rank": 34
     }
 ]

@@ -1,122 +1,42 @@
 [
     {
-        "showId": "81498404",
-        "id": "81498404",
-        "week": "20241201",
-        "rank": 1,
-        "weeksInTopTen": 1,
-        "country": "is",
-        "category": "films",
-        "name": "Our Little Secret",
-        "showName": "Our Little Secret",
-        "seasonName": "Our Little Secret"
+        "name": "No Hard Feelings",
+        "rank": 23
     },
     {
-        "showId": "80187054",
-        "id": "80187054",
-        "week": "20241201",
-        "rank": 2,
-        "weeksInTopTen": 1,
-        "country": "is",
-        "category": "films",
-        "name": "Red Sparrow",
-        "showName": "Red Sparrow",
-        "seasonName": "Red Sparrow"
+        "name": "A Widow's Game",
+        "rank": 24
     },
     {
-        "showId": "81766198",
-        "id": "81766198",
-        "week": "20241201",
-        "rank": 3,
-        "weeksInTopTen": 2,
-        "country": "is",
-        "category": "films",
-        "name": "The Merry Gentlemen",
-        "showName": "The Merry Gentlemen",
-        "seasonName": "The Merry Gentlemen"
+        "name": "Nonnas",
+        "rank": 25
     },
     {
-        "showId": "80186979",
-        "id": "80186979",
-        "week": "20241201",
-        "rank": 4,
-        "weeksInTopTen": 3,
-        "country": "is",
-        "category": "films",
-        "name": "Daddy's Home 2",
-        "showName": "Daddy's Home 2",
-        "seasonName": "Daddy's Home 2"
+        "name": "PAW Patrol: The Mighty Movie",
+        "rank": 26
     },
     {
-        "showId": "81745658",
-        "id": "81745658",
-        "week": "20241201",
-        "rank": 5,
-        "weeksInTopTen": 2,
-        "country": "is",
-        "category": "films",
-        "name": "Spellbound",
-        "showName": "Spellbound",
-        "seasonName": "Spellbound"
+        "name": "Mission: Impossible - Dead Reckoning",
+        "rank": 27
     },
     {
-        "showId": "81616256",
-        "id": "81616256",
-        "week": "20241201",
-        "rank": 6,
-        "weeksInTopTen": 1,
-        "country": "is",
-        "category": "films",
-        "name": "A Man Called Otto",
-        "showName": "A Man Called Otto",
-        "seasonName": "A Man Called Otto"
+        "name": "My Big Fat Greek Wedding 3",
+        "rank": 28
     },
     {
-        "showId": "81554996",
-        "id": "81554996",
-        "week": "20241201",
-        "rank": 7,
-        "weeksInTopTen": 2,
-        "country": "is",
-        "category": "films",
-        "name": "Buy Now: The Shopping Conspiracy",
-        "showName": "Buy Now: The Shopping Conspiracy",
-        "seasonName": "Buy Now: The Shopping Conspiracy"
+        "name": "Fear Street: Prom Queen",
+        "rank": 29
     },
     {
-        "showId": "81087735",
-        "id": "81087735",
-        "week": "20241201",
-        "rank": 8,
-        "weeksInTopTen": 2,
-        "country": "is",
-        "category": "films",
-        "name": "The Hunt",
-        "showName": "The Hunt",
-        "seasonName": "The Hunt"
+        "name": "Off Track 2",
+        "rank": 30
     },
     {
-        "showId": "70099116",
-        "id": "70099116",
-        "week": "20241201",
-        "rank": 9,
-        "weeksInTopTen": 2,
-        "country": "is",
-        "category": "films",
-        "name": "Madagascar: Escape 2 Africa",
-        "showName": "Madagascar: Escape 2 Africa",
-        "seasonName": "Madagascar: Escape 2 Africa"
+        "name": "Puss in Boots: The Last Wish",
+        "rank": 31
     },
     {
-        "showId": "81701716",
-        "id": "81701716",
-        "week": "20241201",
-        "rank": 10,
-        "weeksInTopTen": 1,
-        "country": "is",
-        "category": "films",
-        "name": "JOY - The Birth of IVF",
-        "showName": "JOY - The Birth of IVF",
-        "seasonName": "JOY - The Birth of IVF"
+        "name": "The Heart Knows",
+        "rank": 32
     }
 ]

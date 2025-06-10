@@ -1,122 +1,42 @@
 [
     {
-        "showId": "81498404",
-        "id": "81498404",
-        "week": "20241201",
-        "rank": 1,
-        "weeksInTopTen": 1,
-        "country": "us",
-        "category": "films",
-        "name": "Our Little Secret",
-        "showName": "Our Little Secret",
-        "seasonName": "Our Little Secret"
+        "name": "The Wild Robot",
+        "rank": 28
     },
     {
-        "showId": "81745658",
-        "id": "81745658",
-        "week": "20241201",
-        "rank": 2,
-        "weeksInTopTen": 2,
-        "country": "us",
-        "category": "films",
-        "name": "Spellbound",
-        "showName": "Spellbound",
-        "seasonName": "Spellbound"
+        "name": "A Widow's Game",
+        "rank": 29
     },
     {
-        "showId": "81766198",
-        "id": "81766198",
-        "week": "20241201",
-        "rank": 3,
-        "weeksInTopTen": 2,
-        "country": "us",
-        "category": "films",
-        "name": "The Merry Gentlemen",
-        "showName": "The Merry Gentlemen",
-        "seasonName": "The Merry Gentlemen"
+        "name": "Instant Family",
+        "rank": 30
     },
     {
-        "showId": "80108180",
-        "id": "80108180",
-        "week": "20241201",
-        "rank": 4,
-        "weeksInTopTen": 2,
-        "country": "us",
-        "category": "films",
-        "name": "Father Figures",
-        "showName": "Father Figures",
-        "seasonName": "Father Figures"
+        "name": "Pig",
+        "rank": 31
     },
     {
-        "showId": "81764579",
-        "id": "81764579",
-        "week": "20241201",
-        "rank": 5,
-        "weeksInTopTen": 3,
-        "country": "us",
-        "category": "films",
-        "name": "Hot Frosty",
-        "showName": "Hot Frosty",
-        "seasonName": "Hot Frosty"
+        "name": "Fear Street: Prom Queen",
+        "rank": 32
     },
     {
-        "showId": "80095314",
-        "id": "80095314",
-        "week": "20241201",
-        "rank": 6,
-        "weeksInTopTen": 6,
-        "country": "us",
-        "category": "films",
-        "name": "The Secret Life of Pets",
-        "showName": "The Secret Life of Pets",
-        "seasonName": "The Secret Life of Pets"
+        "name": "Nonnas",
+        "rank": 33
     },
     {
-        "showId": "80199682",
-        "id": "80199682",
-        "week": "20241201",
-        "rank": 7,
-        "weeksInTopTen": 6,
-        "country": "us",
-        "category": "films",
-        "name": "The Christmas Chronicles",
-        "showName": "The Christmas Chronicles",
-        "seasonName": "The Christmas Chronicles"
+        "name": "Despicable Me 4",
+        "rank": 34
     },
     {
-        "showId": "80117526",
-        "id": "80117526",
-        "week": "20241201",
-        "rank": 8,
-        "weeksInTopTen": 9,
-        "country": "us",
-        "category": "films",
-        "name": "Sing",
-        "showName": "Sing",
-        "seasonName": "Sing"
+        "name": "Home",
+        "rank": 35
     },
     {
-        "showId": "81554996",
-        "id": "81554996",
-        "week": "20241201",
-        "rank": 9,
-        "weeksInTopTen": 2,
-        "country": "us",
-        "category": "films",
-        "name": "Buy Now: The Shopping Conspiracy",
-        "showName": "Buy Now: The Shopping Conspiracy",
-        "seasonName": "Buy Now: The Shopping Conspiracy"
+        "name": "Untold: The Fall of Favre",
+        "rank": 36
     },
     {
-        "showId": "81950625",
-        "id": "81950625",
-        "week": "20241201",
-        "rank": 10,
-        "weeksInTopTen": 1,
-        "country": "us",
-        "category": "films",
-        "name": "Afraid",
-        "showName": "Afraid",
-        "seasonName": "Afraid"
+        "name": "Havoc",
+        "rank": 37
     }
 ]

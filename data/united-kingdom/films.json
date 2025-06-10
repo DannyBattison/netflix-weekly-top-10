@@ -1,122 +1,42 @@
 [
     {
-        "showId": "81498404",
-        "id": "81498404",
-        "week": "20241201",
-        "rank": 1,
-        "weeksInTopTen": 1,
-        "country": "gb",
-        "category": "films",
-        "name": "Our Little Secret",
-        "showName": "Our Little Secret",
-        "seasonName": "Our Little Secret"
+        "name": "Mission: Impossible - Dead Reckoning",
+        "rank": 24
     },
     {
-        "showId": "81087735",
-        "id": "81087735",
-        "week": "20241201",
-        "rank": 2,
-        "weeksInTopTen": 4,
-        "country": "gb",
-        "category": "films",
-        "name": "The Hunt",
-        "showName": "The Hunt",
-        "seasonName": "The Hunt"
+        "name": "Dr. Seuss' The Cat in the Hat",
+        "rank": 25
     },
     {
-        "showId": "81701716",
-        "id": "81701716",
-        "week": "20241201",
-        "rank": 3,
-        "weeksInTopTen": 2,
-        "country": "gb",
-        "category": "films",
-        "name": "JOY - The Birth of IVF",
-        "showName": "JOY - The Birth of IVF",
-        "seasonName": "JOY - The Birth of IVF"
+        "name": "Fear Street: Prom Queen",
+        "rank": 26
     },
     {
-        "showId": "81745658",
-        "id": "81745658",
-        "week": "20241201",
-        "rank": 4,
-        "weeksInTopTen": 2,
-        "country": "gb",
-        "category": "films",
-        "name": "Spellbound",
-        "showName": "Spellbound",
-        "seasonName": "Spellbound"
+        "name": "Gran Turismo: Based on a True Story",
+        "rank": 27
     },
     {
-        "showId": "80089006",
-        "id": "80089006",
-        "week": "20241201",
-        "rank": 5,
-        "weeksInTopTen": 1,
-        "country": "gb",
-        "category": "films",
-        "name": "Going in Style",
-        "showName": "Going in Style",
-        "seasonName": "Going in Style"
+        "name": "A Widow's Game",
+        "rank": 28
     },
     {
-        "showId": "70099116",
-        "id": "70099116",
-        "week": "20241201",
-        "rank": 6,
-        "weeksInTopTen": 3,
-        "country": "gb",
-        "category": "films",
-        "name": "Madagascar: Escape 2 Africa",
-        "showName": "Madagascar: Escape 2 Africa",
-        "seasonName": "Madagascar: Escape 2 Africa"
+        "name": "The Super Mario Bros. Movie",
+        "rank": 29
     },
     {
-        "showId": "81766198",
-        "id": "81766198",
-        "week": "20241201",
-        "rank": 7,
-        "weeksInTopTen": 2,
-        "country": "gb",
-        "category": "films",
-        "name": "The Merry Gentlemen",
-        "showName": "The Merry Gentlemen",
-        "seasonName": "The Merry Gentlemen"
+        "name": "Downsizing",
+        "rank": 30
     },
     {
-        "showId": "81776747",
-        "id": "81776747",
-        "week": "20241201",
-        "rank": 8,
-        "weeksInTopTen": 1,
-        "country": "gb",
-        "category": "films",
-        "name": "Something in the Water",
-        "showName": "Something in the Water",
-        "seasonName": "Something in the Water"
+        "name": "Nonnas",
+        "rank": 31
     },
     {
-        "showId": "80199682",
-        "id": "80199682",
-        "week": "20241201",
-        "rank": 9,
-        "weeksInTopTen": 15,
-        "country": "gb",
-        "category": "films",
-        "name": "The Christmas Chronicles",
-        "showName": "The Christmas Chronicles",
-        "seasonName": "The Christmas Chronicles"
+        "name": "Minions",
+        "rank": 32
     },
     {
-        "showId": "70082661",
-        "id": "70082661",
-        "week": "20241201",
-        "rank": 10,
-        "weeksInTopTen": 1,
-        "country": "gb",
-        "category": "films",
-        "name": "Awake",
-        "showName": "Awake",
-        "seasonName": "Awake"
+        "name": "Havoc",
+        "rank": 33
     }
 ]

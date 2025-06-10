@@ -1,122 +1,42 @@
 [
     {
-        "showId": "81928685",
-        "id": "81928685",
-        "week": "20241201",
-        "rank": 1,
-        "weeksInTopTen": 3,
-        "country": "vn",
-        "category": "films",
-        "name": "Ma Da",
-        "showName": "Ma Da",
-        "seasonName": "Ma Da"
+        "name": "Fear Street: Prom Queen",
+        "rank": 25
     },
     {
-        "showId": "81619948",
-        "id": "81619948",
-        "week": "20241201",
-        "rank": 2,
-        "weeksInTopTen": 1,
-        "country": "vn",
-        "category": "films",
-        "name": "M3GAN",
-        "showName": "M3GAN",
-        "seasonName": "M3GAN"
+        "name": "A Widow's Game",
+        "rank": 26
     },
     {
-        "showId": "81251375",
-        "id": "81251375",
-        "week": "20241201",
-        "rank": 3,
-        "weeksInTopTen": 1,
-        "country": "vn",
-        "category": "films",
-        "name": "The Flash",
-        "showName": "The Flash",
-        "seasonName": "The Flash"
+        "name": "The Last Wife",
+        "rank": 27
     },
     {
-        "showId": "81087735",
-        "id": "81087735",
-        "week": "20241201",
-        "rank": 4,
-        "weeksInTopTen": 4,
-        "country": "vn",
-        "category": "films",
-        "name": "The Hunt",
-        "showName": "The Hunt",
-        "seasonName": "The Hunt"
+        "name": "Lucy",
+        "rank": 28
     },
     {
-        "showId": "81949600",
-        "id": "81949600",
-        "week": "20241201",
-        "rank": 5,
-        "weeksInTopTen": 1,
-        "country": "vn",
-        "category": "films",
-        "name": "Conquer: Lahad Datu",
-        "showName": "Conquer: Lahad Datu",
-        "seasonName": "Conquer: Lahad Datu"
+        "name": "Havoc",
+        "rank": 29
     },
     {
-        "showId": "81745658",
-        "id": "81745658",
-        "week": "20241201",
-        "rank": 6,
-        "weeksInTopTen": 1,
-        "country": "vn",
-        "category": "films",
-        "name": "Spellbound",
-        "showName": "Spellbound",
-        "seasonName": "Spellbound"
+        "name": "Ruby Gillman, Teenage Kraken",
+        "rank": 30
     },
     {
-        "showId": "81498404",
-        "id": "81498404",
-        "week": "20241201",
-        "rank": 7,
-        "weeksInTopTen": 1,
-        "country": "vn",
-        "category": "films",
-        "name": "Our Little Secret",
-        "showName": "Our Little Secret",
-        "seasonName": "Our Little Secret"
-    },
-    {
-        "showId": "80067930",
-        "id": "80067930",
-        "week": "20241201",
-        "rank": 8,
-        "weeksInTopTen": 5,
-        "country": "vn",
-        "category": "films",
-        "name": "13 Hours: The Secret Soldiers of Benghazi",
-        "showName": "13 Hours: The Secret Soldiers of Benghazi",
-        "seasonName": "13 Hours: The Secret Soldiers of Benghazi"
-    },
-    {
-        "showId": "81711199",
-        "id": "81711199",
-        "week": "20241201",
-        "rank": 9,
-        "weeksInTopTen": 2,
-        "country": "vn",
-        "category": "films",
-        "name": "GTMAX",
-        "showName": "GTMAX",
-        "seasonName": "GTMAX"
-    },
-    {
-        "showId": "81779693",
-        "id": "81779693",
-        "week": "20241201",
-        "rank": 10,
-        "weeksInTopTen": 26,
-        "country": "vn",
-        "category": "films",
         "name": "Mai",
-        "showName": "Mai",
-        "seasonName": "Mai"
+        "rank": 31
+    },
+    {
+        "name": "Exterritorial",
+        "rank": 32
+    },
+    {
+        "name": "Mercy",
+        "rank": 33
+    },
+    {
+        "name": "The Secret Life of Pets 2",
+        "rank": 34
     }
 ]

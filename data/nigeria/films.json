@@ -1,122 +1,42 @@
 [
     {
-        "showId": "80187054",
-        "id": "80187054",
-        "week": "20241201",
-        "rank": 1,
-        "weeksInTopTen": 1,
-        "country": "ng",
-        "category": "films",
-        "name": "Red Sparrow",
-        "showName": "Red Sparrow",
-        "seasonName": "Red Sparrow"
+        "name": "Sikandar",
+        "rank": 25
     },
     {
-        "showId": "81953481",
-        "id": "81953481",
-        "week": "20241201",
-        "rank": 2,
-        "weeksInTopTen": 2,
-        "country": "ng",
-        "category": "films",
-        "name": "Bagheera",
-        "showName": "Bagheera",
-        "seasonName": "Bagheera"
+        "name": "Breaking",
+        "rank": 26
     },
     {
-        "showId": "81087735",
-        "id": "81087735",
-        "week": "20241201",
-        "rank": 3,
-        "weeksInTopTen": 4,
-        "country": "ng",
-        "category": "films",
-        "name": "The Hunt",
-        "showName": "The Hunt",
-        "seasonName": "The Hunt"
+        "name": "Fear Street: Prom Queen",
+        "rank": 27
     },
     {
-        "showId": "81745658",
-        "id": "81745658",
-        "week": "20241201",
-        "rank": 4,
-        "weeksInTopTen": 2,
-        "country": "ng",
-        "category": "films",
-        "name": "Spellbound",
-        "showName": "Spellbound",
-        "seasonName": "Spellbound"
+        "name": "HIT: The Third Case",
+        "rank": 28
     },
     {
-        "showId": "81711199",
-        "id": "81711199",
-        "week": "20241201",
-        "rank": 5,
-        "weeksInTopTen": 2,
-        "country": "ng",
-        "category": "films",
-        "name": "GTMAX",
-        "showName": "GTMAX",
-        "seasonName": "GTMAX"
+        "name": "Knock at the Cabin",
+        "rank": 29
     },
     {
-        "showId": "81602889",
-        "id": "81602889",
-        "week": "20241201",
-        "rank": 6,
-        "weeksInTopTen": 1,
-        "country": "ng",
-        "category": "films",
-        "name": "Transformers: Rise of the Beasts",
-        "showName": "Transformers: Rise of the Beasts",
-        "seasonName": "Transformers: Rise of the Beasts"
+        "name": "A Widow's Game",
+        "rank": 30
     },
     {
-        "showId": "81949600",
-        "id": "81949600",
-        "week": "20241201",
-        "rank": 7,
-        "weeksInTopTen": 1,
-        "country": "ng",
-        "category": "films",
-        "name": "Conquer: Lahad Datu",
-        "showName": "Conquer: Lahad Datu",
-        "seasonName": "Conquer: Lahad Datu"
+        "name": "Lucy",
+        "rank": 31
     },
     {
-        "showId": "81498404",
-        "id": "81498404",
-        "week": "20241201",
-        "rank": 8,
-        "weeksInTopTen": 1,
-        "country": "ng",
-        "category": "films",
-        "name": "Our Little Secret",
-        "showName": "Our Little Secret",
-        "seasonName": "Our Little Secret"
+        "name": "Exterritorial",
+        "rank": 32
     },
     {
-        "showId": "80067930",
-        "id": "80067930",
-        "week": "20241201",
-        "rank": 9,
-        "weeksInTopTen": 5,
-        "country": "ng",
-        "category": "films",
-        "name": "13 Hours: The Secret Soldiers of Benghazi",
-        "showName": "13 Hours: The Secret Soldiers of Benghazi",
-        "seasonName": "13 Hours: The Secret Soldiers of Benghazi"
+        "name": "Retro",
+        "rank": 33
     },
     {
-        "showId": "81708625",
-        "id": "81708625",
-        "week": "20241201",
-        "rank": 10,
-        "weeksInTopTen": 1,
-        "country": "ng",
-        "category": "films",
-        "name": "Sisi London",
-        "showName": "Sisi London",
-        "seasonName": "Sisi London"
+        "name": "Inside Man: Most Wanted",
+        "rank": 34
     }
 ]

@@ -1,122 +1,42 @@
 [
     {
-        "showId": "81498404",
-        "id": "81498404",
-        "week": "20241201",
-        "rank": 1,
-        "weeksInTopTen": 1,
-        "country": "de",
-        "category": "films",
-        "name": "Our Little Secret",
-        "showName": "Our Little Secret",
-        "seasonName": "Our Little Secret"
+        "name": "Venom: The Last Dance",
+        "rank": 25
     },
     {
-        "showId": "81079733",
-        "id": "81079733",
-        "week": "20241201",
-        "rank": 2,
-        "weeksInTopTen": 1,
-        "country": "de",
-        "category": "films",
-        "name": "Cold Pursuit",
-        "showName": "Cold Pursuit",
-        "seasonName": "Cold Pursuit"
+        "name": "A Widow's Game",
+        "rank": 26
     },
     {
-        "showId": "81766198",
-        "id": "81766198",
-        "week": "20241201",
-        "rank": 3,
-        "weeksInTopTen": 2,
-        "country": "de",
-        "category": "films",
-        "name": "The Merry Gentlemen",
-        "showName": "The Merry Gentlemen",
-        "seasonName": "The Merry Gentlemen"
+        "name": "Fear Street: Prom Queen",
+        "rank": 27
     },
     {
-        "showId": "81745658",
-        "id": "81745658",
-        "week": "20241201",
-        "rank": 4,
-        "weeksInTopTen": 2,
-        "country": "de",
-        "category": "films",
-        "name": "Spellbound",
-        "showName": "Spellbound",
-        "seasonName": "Spellbound"
+        "name": "Nonnas",
+        "rank": 28
     },
     {
-        "showId": "80013762",
-        "id": "80013762",
-        "week": "20241201",
-        "rank": 5,
-        "weeksInTopTen": 1,
-        "country": "de",
-        "category": "films",
-        "name": "John Wick",
-        "showName": "John Wick",
-        "seasonName": "John Wick"
+        "name": "Savage Salvation",
+        "rank": 29
     },
     {
-        "showId": "81779948",
-        "id": "81779948",
-        "week": "20241201",
-        "rank": 6,
-        "weeksInTopTen": 1,
-        "country": "de",
-        "category": "films",
-        "name": "Twas the Text Before Christmas",
-        "showName": "Twas the Text Before Christmas",
-        "seasonName": "Twas the Text Before Christmas"
+        "name": "Inside Man: Most Wanted",
+        "rank": 30
     },
     {
-        "showId": "81691511",
-        "id": "81691511",
-        "week": "20241201",
-        "rank": 7,
-        "weeksInTopTen": 2,
-        "country": "de",
-        "category": "films",
-        "name": "Tarot",
-        "showName": "Tarot",
-        "seasonName": "Tarot"
+        "name": "Collateral",
+        "rank": 31
     },
     {
-        "showId": "80067930",
-        "id": "80067930",
-        "week": "20241201",
-        "rank": 8,
-        "weeksInTopTen": 1,
-        "country": "de",
-        "category": "films",
-        "name": "13 Hours: The Secret Soldiers of Benghazi",
-        "showName": "13 Hours: The Secret Soldiers of Benghazi",
-        "seasonName": "13 Hours: The Secret Soldiers of Benghazi"
+        "name": "Havoc",
+        "rank": 32
     },
     {
-        "showId": "81711199",
-        "id": "81711199",
-        "week": "20241201",
-        "rank": 9,
-        "weeksInTopTen": 2,
-        "country": "de",
-        "category": "films",
-        "name": "GTMAX",
-        "showName": "GTMAX",
-        "seasonName": "GTMAX"
+        "name": "Bad Influence",
+        "rank": 33
     },
     {
-        "showId": "80186979",
-        "id": "80186979",
-        "week": "20241201",
-        "rank": 10,
-        "weeksInTopTen": 1,
-        "country": "de",
-        "category": "films",
-        "name": "Daddy's Home 2",
-        "showName": "Daddy's Home 2",
-        "seasonName": "Daddy's Home 2"
+        "name": "The Heart Knows",
+        "rank": 34
     }
 ]
