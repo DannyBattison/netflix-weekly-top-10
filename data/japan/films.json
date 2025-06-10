@@ -1,122 +1,42 @@
 [
     {
-        "showId": "81087735",
-        "id": "81087735",
-        "week": "20241201",
-        "rank": 1,
-        "weeksInTopTen": 3,
-        "country": "jp",
-        "category": "films",
-        "name": "The Hunt",
-        "showName": "The Hunt",
-        "seasonName": "The Hunt"
+        "name": "Phases of the Moon",
+        "rank": 23
     },
     {
-        "showId": "81906790",
-        "id": "81906790",
-        "week": "20241201",
-        "rank": 2,
-        "weeksInTopTen": 1,
-        "country": "jp",
-        "category": "films",
-        "name": "BL Metamorphosis",
-        "showName": "BL Metamorphosis",
-        "seasonName": "BL Metamorphosis"
+        "name": "Mission: Impossible - Dead Reckoning",
+        "rank": 24
     },
     {
-        "showId": "81580574",
-        "id": "81580574",
-        "week": "20241201",
-        "rank": 3,
-        "weeksInTopTen": 1,
-        "country": "jp",
-        "category": "films",
-        "name": "Mononoke The Movie: The Phantom in the Rain",
-        "showName": "Mononoke The Movie: The Phantom in the Rain",
-        "seasonName": "Mononoke The Movie: The Phantom in the Rain"
+        "name": "Bullet Train Explosion",
+        "rank": 25
     },
     {
-        "showId": "81711199",
-        "id": "81711199",
-        "week": "20241201",
-        "rank": 4,
-        "weeksInTopTen": 2,
-        "country": "jp",
-        "category": "films",
-        "name": "GTMAX",
-        "showName": "GTMAX",
-        "seasonName": "GTMAX"
+        "name": "Sunset Sunrise",
+        "rank": 26
     },
     {
-        "showId": "80067930",
-        "id": "80067930",
-        "week": "20241201",
-        "rank": 5,
-        "weeksInTopTen": 5,
-        "country": "jp",
-        "category": "films",
-        "name": "13 Hours: The Secret Soldiers of Benghazi",
-        "showName": "13 Hours: The Secret Soldiers of Benghazi",
-        "seasonName": "13 Hours: The Secret Soldiers of Benghazi"
+        "name": "The Wrath of Becky",
+        "rank": 27
     },
     {
-        "showId": "81708094",
-        "id": "81708094",
-        "week": "20241201",
-        "rank": 6,
-        "weeksInTopTen": 7,
-        "country": "jp",
-        "category": "films",
-        "name": "Don't Call it Mystery: The Movie",
-        "showName": "Don't Call it Mystery: The Movie",
-        "seasonName": "Don't Call it Mystery: The Movie"
+        "name": "Detective Conan: The Million-Dollar Pentagram",
+        "rank": 28
     },
     {
-        "showId": "81498404",
-        "id": "81498404",
-        "week": "20241201",
-        "rank": 7,
-        "weeksInTopTen": 1,
-        "country": "jp",
-        "category": "films",
-        "name": "Our Little Secret",
-        "showName": "Our Little Secret",
-        "seasonName": "Our Little Secret"
+        "name": "The Equalizer 3",
+        "rank": 29
     },
     {
-        "showId": "81745658",
-        "id": "81745658",
-        "week": "20241201",
-        "rank": 8,
-        "weeksInTopTen": 1,
-        "country": "jp",
-        "category": "films",
-        "name": "Spellbound",
-        "showName": "Spellbound",
-        "seasonName": "Spellbound"
+        "name": "Fear Street: Prom Queen",
+        "rank": 30
     },
     {
-        "showId": "81131575",
-        "id": "81131575",
-        "week": "20241201",
-        "rank": 9,
-        "weeksInTopTen": 3,
-        "country": "jp",
-        "category": "films",
-        "name": "Ready or Not",
-        "showName": "Ready or Not",
-        "seasonName": "Ready or Not"
+        "name": "The Equalizer",
+        "rank": 31
     },
     {
-        "showId": "70099116",
-        "id": "70099116",
-        "week": "20241201",
-        "rank": 10,
-        "weeksInTopTen": 1,
-        "country": "jp",
-        "category": "films",
-        "name": "Madagascar: Escape 2 Africa",
-        "showName": "Madagascar: Escape 2 Africa",
-        "seasonName": "Madagascar: Escape 2 Africa"
+        "name": "The Equalizer 2",
+        "rank": 32
     }
 ]

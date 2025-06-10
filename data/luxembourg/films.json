@@ -1,122 +1,42 @@
 [
     {
-        "showId": "81498404",
-        "id": "81498404",
-        "week": "20241201",
-        "rank": 1,
-        "weeksInTopTen": 1,
-        "country": "lu",
-        "category": "films",
-        "name": "Our Little Secret",
-        "showName": "Our Little Secret",
-        "seasonName": "Our Little Secret"
+        "name": "A Widow's Game",
+        "rank": 26
     },
     {
-        "showId": "81766198",
-        "id": "81766198",
-        "week": "20241201",
-        "rank": 2,
-        "weeksInTopTen": 2,
-        "country": "lu",
-        "category": "films",
-        "name": "The Merry Gentlemen",
-        "showName": "The Merry Gentlemen",
-        "seasonName": "The Merry Gentlemen"
+        "name": "Nonnas",
+        "rank": 27
     },
     {
-        "showId": "81745658",
-        "id": "81745658",
-        "week": "20241201",
-        "rank": 3,
-        "weeksInTopTen": 2,
-        "country": "lu",
-        "category": "films",
-        "name": "Spellbound",
-        "showName": "Spellbound",
-        "seasonName": "Spellbound"
+        "name": "Venom: The Last Dance",
+        "rank": 28
     },
     {
-        "showId": "80187054",
-        "id": "80187054",
-        "week": "20241201",
-        "rank": 4,
-        "weeksInTopTen": 1,
-        "country": "lu",
-        "category": "films",
-        "name": "Red Sparrow",
-        "showName": "Red Sparrow",
-        "seasonName": "Red Sparrow"
+        "name": "Collateral",
+        "rank": 29
     },
     {
-        "showId": "81711199",
-        "id": "81711199",
-        "week": "20241201",
-        "rank": 5,
-        "weeksInTopTen": 2,
-        "country": "lu",
-        "category": "films",
-        "name": "GTMAX",
-        "showName": "GTMAX",
-        "seasonName": "GTMAX"
+        "name": "Fear Street: Prom Queen",
+        "rank": 30
     },
     {
-        "showId": "81554996",
-        "id": "81554996",
-        "week": "20241201",
-        "rank": 6,
-        "weeksInTopTen": 2,
-        "country": "lu",
-        "category": "films",
-        "name": "Buy Now: The Shopping Conspiracy",
-        "showName": "Buy Now: The Shopping Conspiracy",
-        "seasonName": "Buy Now: The Shopping Conspiracy"
+        "name": "The Heart Knows",
+        "rank": 31
     },
     {
-        "showId": "81779948",
-        "id": "81779948",
-        "week": "20241201",
-        "rank": 7,
-        "weeksInTopTen": 1,
-        "country": "lu",
-        "category": "films",
-        "name": "Twas the Text Before Christmas",
-        "showName": "Twas the Text Before Christmas",
-        "seasonName": "Twas the Text Before Christmas"
+        "name": "Exterritorial",
+        "rank": 32
     },
     {
-        "showId": "81701716",
-        "id": "81701716",
-        "week": "20241201",
-        "rank": 8,
-        "weeksInTopTen": 1,
-        "country": "lu",
-        "category": "films",
-        "name": "JOY - The Birth of IVF",
-        "showName": "JOY - The Birth of IVF",
-        "seasonName": "JOY - The Birth of IVF"
+        "name": "Instant Family",
+        "rank": 33
     },
     {
-        "showId": "81087735",
-        "id": "81087735",
-        "week": "20241201",
-        "rank": 9,
-        "weeksInTopTen": 4,
-        "country": "lu",
-        "category": "films",
-        "name": "The Hunt",
-        "showName": "The Hunt",
-        "seasonName": "The Hunt"
+        "name": "Bad Influence",
+        "rank": 34
     },
     {
-        "showId": "81681292",
-        "id": "81681292",
-        "week": "20241201",
-        "rank": 10,
-        "weeksInTopTen": 1,
-        "country": "lu",
-        "category": "films",
-        "name": "The Snow Sister",
-        "showName": "The Snow Sister",
-        "seasonName": "The Snow Sister"
+        "name": "Inside Man: Most Wanted",
+        "rank": 35
     }
 ]

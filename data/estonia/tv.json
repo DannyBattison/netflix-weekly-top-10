@@ -1,122 +1,42 @@
 [
     {
-        "showId": "81705443",
-        "id": "81705444",
-        "week": "20241201",
-        "rank": 1,
-        "weeksInTopTen": 1,
-        "country": "ee",
-        "category": "tv",
-        "name": "Cold Case: Who Killed JonBen\u00c3\u00a9t Ramsey: Season 1",
-        "showName": "Cold Case: Who Killed JonBen\u00c3\u00a9t Ramsey",
-        "seasonName": "Season 1"
+        "name": "Sirens: Limited Series",
+        "rank": 28
     },
     {
-        "showId": "81435684",
-        "id": "81516572",
-        "week": "20241201",
-        "rank": 2,
-        "weeksInTopTen": 4,
-        "country": "ee",
-        "category": "tv",
-        "name": "Arcane: Season 2",
-        "showName": "Arcane",
-        "seasonName": "Season 2"
+        "name": "Cold Case: The Tylenol Murders: Season 1",
+        "rank": 29
     },
     {
-        "showId": "81677257",
-        "id": "81677258",
-        "week": "20241201",
-        "rank": 3,
-        "weeksInTopTen": 2,
-        "country": "ee",
-        "category": "tv",
-        "name": "A Man on the Inside: Season 1",
-        "showName": "A Man on the Inside",
-        "seasonName": "Season 1"
+        "name": "Dept. Q: Season 1",
+        "rank": 30
     },
     {
-        "showId": "81457258",
-        "id": "81457259",
-        "week": "20241201",
-        "rank": 4,
-        "weeksInTopTen": 1,
-        "country": "ee",
-        "category": "tv",
-        "name": "The Madness: Limited Series",
-        "showName": "The Madness",
-        "seasonName": "Limited Series"
+        "name": "Secrets We Keep: Limited Series",
+        "rank": 31
     },
     {
-        "showId": "81222923",
-        "id": "81286021",
-        "week": "20241201",
-        "rank": 5,
-        "weeksInTopTen": 2,
-        "country": "ee",
-        "category": "tv",
-        "name": "The Empress: Season 2",
-        "showName": "The Empress",
-        "seasonName": "Season 2"
+        "name": "American Manhunt: Osama bin Laden: Season 1",
+        "rank": 32
     },
     {
-        "showId": "81435684",
-        "id": "81435685",
-        "week": "20241201",
-        "rank": 6,
-        "weeksInTopTen": 9,
-        "country": "ee",
-        "category": "tv",
-        "name": "Arcane: Season 1",
-        "showName": "Arcane",
-        "seasonName": "Season 1"
+        "name": "Big Mouth: Season 8",
+        "rank": 33
     },
     {
-        "showId": "81738579",
-        "id": "81738579",
-        "week": "20241201",
-        "rank": 7,
-        "weeksInTopTen": 1,
-        "country": "ee",
-        "category": "tv",
-        "name": "Anthony Jeselnik: Bones and All",
-        "showName": "Anthony Jeselnik: Bones and All",
-        "seasonName": "Anthony Jeselnik: Bones and All"
+        "name": "Sneaky Links: Dating After Dark: Season 1",
+        "rank": 34
     },
     {
-        "showId": "80192612",
-        "id": "81786168",
-        "week": "20241201",
-        "rank": 8,
-        "weeksInTopTen": 5,
-        "country": "ee",
-        "category": "tv",
-        "name": "Young Sheldon: Season 7",
-        "showName": "Young Sheldon",
-        "seasonName": "Season 7"
+        "name": "The Four Seasons: Season 1",
+        "rank": 35
     },
     {
-        "showId": "81927150",
-        "id": "81927151",
-        "week": "20241201",
-        "rank": 9,
-        "weeksInTopTen": 1,
-        "country": "ee",
-        "category": "tv",
-        "name": "Is It Cake? Holiday: Season 1",
-        "showName": "Is It Cake? Holiday",
-        "seasonName": "Season 1"
+        "name": "Love, Death & Robots: Volume 4",
+        "rank": 36
     },
     {
-        "showId": "81068725",
-        "id": "81206426",
-        "week": "20241201",
-        "rank": 10,
-        "weeksInTopTen": 1,
-        "country": "ee",
-        "category": "tv",
-        "name": "Senna: Limited Series",
-        "showName": "Senna",
-        "seasonName": "Limited Series"
+        "name": "Fred and Rose West: A British Horror Story: Limited Series",
+        "rank": 37
     }
 ]

@@ -1,122 +1,42 @@
 [
     {
-        "showId": "81912961",
-        "id": "81912962",
-        "week": "20241201",
-        "rank": 1,
-        "weeksInTopTen": 2,
-        "country": "hk",
-        "category": "tv",
-        "name": "When the Phone Rings: Limited Series",
-        "showName": "When the Phone Rings",
-        "seasonName": "Limited Series"
+        "name": "Tastefully Yours: Limited Series",
+        "rank": 27
     },
     {
-        "showId": "81907277",
-        "id": "81907278",
-        "week": "20241201",
-        "rank": 2,
-        "weeksInTopTen": 2,
-        "country": "hk",
-        "category": "tv",
-        "name": "See Her Again: Season 1",
-        "showName": "See Her Again",
-        "seasonName": "Season 1"
+        "name": "Our Unwritten Seoul: Limited Series",
+        "rank": 28
     },
     {
-        "showId": "81746667",
-        "id": "81746668",
-        "week": "20241201",
-        "rank": 3,
-        "weeksInTopTen": 4,
-        "country": "hk",
-        "category": "tv",
-        "name": "Born for the Spotlight: Season 1",
-        "showName": "Born for the Spotlight",
-        "seasonName": "Season 1"
+        "name": "Forget You Not: Season 1",
+        "rank": 29
     },
     {
-        "showId": "81736884",
-        "id": "81736885",
-        "week": "20241201",
-        "rank": 4,
-        "weeksInTopTen": 8,
-        "country": "hk",
-        "category": "tv",
-        "name": "DAN DA DAN",
-        "showName": "DAN DA DAN",
-        "seasonName": "DAN DA DAN"
+        "name": "Heavenly Ever After: Limited Series",
+        "rank": 30
     },
     {
-        "showId": "81435684",
-        "id": "81516572",
-        "week": "20241201",
-        "rank": 5,
-        "weeksInTopTen": 4,
-        "country": "hk",
-        "category": "tv",
-        "name": "Arcane: Season 2",
-        "showName": "Arcane",
-        "seasonName": "Season 2"
+        "name": "Sirens: Limited Series",
+        "rank": 31
     },
     {
-        "showId": "81582447",
-        "id": "81582448",
-        "week": "20241201",
-        "rank": 6,
-        "weeksInTopTen": 1,
-        "country": "hk",
-        "category": "tv",
-        "name": "The Trunk: Limited Series",
-        "showName": "The Trunk",
-        "seasonName": "Limited Series"
+        "name": "Youthful Glory: Season 1",
+        "rank": 32
     },
     {
-        "showId": "81954670",
-        "id": "81954671",
-        "week": "20241201",
-        "rank": 7,
-        "weeksInTopTen": 4,
-        "country": "hk",
-        "category": "tv",
-        "name": "The Story of Pearl Girl: The Story Of Pearl Girl",
-        "showName": "The Story of Pearl Girl",
-        "seasonName": "The Story Of Pearl Girl"
+        "name": "Bet: Season 1",
+        "rank": 33
     },
     {
-        "showId": "81677257",
-        "id": "81677258",
-        "week": "20241201",
-        "rank": 8,
-        "weeksInTopTen": 1,
-        "country": "hk",
-        "category": "tv",
-        "name": "A Man on the Inside: Season 1",
-        "showName": "A Man on the Inside",
-        "seasonName": "Season 1"
+        "name": "Resident Playbook: Limited Series",
+        "rank": 34
     },
     {
-        "showId": "81640753",
-        "id": "81940353",
-        "week": "20241201",
-        "rank": 9,
-        "weeksInTopTen": 8,
-        "country": "hk",
-        "category": "tv",
-        "name": "Blue Lock: BLUE LOCK VS. U-20 JAPAN",
-        "showName": "Blue Lock",
-        "seasonName": "BLUE LOCK VS. U-20 JAPAN"
+        "name": "The Devil's Plan: Season 2",
+        "rank": 35
     },
     {
-        "showId": "81705443",
-        "id": "81705444",
-        "week": "20241201",
-        "rank": 10,
-        "weeksInTopTen": 1,
-        "country": "hk",
-        "category": "tv",
-        "name": "Cold Case: Who Killed JonBen\u00c3\u00a9t Ramsey: Season 1",
-        "showName": "Cold Case: Who Killed JonBen\u00c3\u00a9t Ramsey",
-        "seasonName": "Season 1"
+        "name": "Cold Case: The Tylenol Murders: Season 1",
+        "rank": 36
     }
 ]

@@ -1,122 +1,42 @@
 [
     {
-        "showId": "81757200",
-        "id": "81757200",
-        "week": "20241201",
-        "rank": 1,
-        "weeksInTopTen": 1,
-        "country": "fr",
-        "category": "films",
-        "name": "Rendez-Vous Chez Les Malawas",
-        "showName": "Rendez-Vous Chez Les Malawas",
-        "seasonName": "Rendez-Vous Chez Les Malawas"
+        "name": "A Widow's Game",
+        "rank": 22
     },
     {
-        "showId": "81672084",
-        "id": "81672084",
-        "week": "20241201",
-        "rank": 2,
-        "weeksInTopTen": 2,
-        "country": "fr",
-        "category": "films",
-        "name": "The Last Voyage of the Demeter",
-        "showName": "The Last Voyage of the Demeter",
-        "seasonName": "The Last Voyage of the Demeter"
+        "name": "Ast\u00e9rix & Ob\u00e9lix: The Middle Kingdom",
+        "rank": 23
     },
     {
-        "showId": "81498404",
-        "id": "81498404",
-        "week": "20241201",
-        "rank": 3,
-        "weeksInTopTen": 1,
-        "country": "fr",
-        "category": "films",
-        "name": "Our Little Secret",
-        "showName": "Our Little Secret",
-        "seasonName": "Our Little Secret"
+        "name": "Body Cam",
+        "rank": 24
     },
     {
-        "showId": "81711199",
-        "id": "81711199",
-        "week": "20241201",
-        "rank": 4,
-        "weeksInTopTen": 2,
-        "country": "fr",
-        "category": "films",
-        "name": "GTMAX",
-        "showName": "GTMAX",
-        "seasonName": "GTMAX"
+        "name": "True Friends",
+        "rank": 25
     },
     {
-        "showId": "81745658",
-        "id": "81745658",
-        "week": "20241201",
-        "rank": 5,
-        "weeksInTopTen": 2,
-        "country": "fr",
-        "category": "films",
-        "name": "Spellbound",
-        "showName": "Spellbound",
-        "seasonName": "Spellbound"
+        "name": "Fear Street: Prom Queen",
+        "rank": 26
     },
     {
-        "showId": "81766198",
-        "id": "81766198",
-        "week": "20241201",
-        "rank": 6,
-        "weeksInTopTen": 2,
-        "country": "fr",
-        "category": "films",
-        "name": "The Merry Gentlemen",
-        "showName": "The Merry Gentlemen",
-        "seasonName": "The Merry Gentlemen"
+        "name": "Radin!",
+        "rank": 27
     },
     {
-        "showId": "81210341",
-        "id": "81210341",
-        "week": "20241201",
-        "rank": 7,
-        "weeksInTopTen": 2,
-        "country": "fr",
-        "category": "films",
-        "name": "Santa & Co",
-        "showName": "Santa & Co",
-        "seasonName": "Santa & Co"
+        "name": "A Perfect Murder",
+        "rank": 28
     },
     {
-        "showId": "81087735",
-        "id": "81087735",
-        "week": "20241201",
-        "rank": 8,
-        "weeksInTopTen": 3,
-        "country": "fr",
-        "category": "films",
-        "name": "The Hunt",
-        "showName": "The Hunt",
-        "seasonName": "The Hunt"
+        "name": "The Heart Knows",
+        "rank": 29
     },
     {
-        "showId": "70099116",
-        "id": "70099116",
-        "week": "20241201",
-        "rank": 9,
-        "weeksInTopTen": 1,
-        "country": "fr",
-        "category": "films",
-        "name": "Madagascar: Escape 2 Africa",
-        "showName": "Madagascar: Escape 2 Africa",
-        "seasonName": "Madagascar: Escape 2 Africa"
+        "name": "Unforgettable",
+        "rank": 30
     },
     {
-        "showId": "80067930",
-        "id": "80067930",
-        "week": "20241201",
-        "rank": 10,
-        "weeksInTopTen": 1,
-        "country": "fr",
-        "category": "films",
-        "name": "13 Hours: The Secret Soldiers of Benghazi",
-        "showName": "13 Hours: The Secret Soldiers of Benghazi",
-        "seasonName": "13 Hours: The Secret Soldiers of Benghazi"
+        "name": "Dr. Seuss' The Cat in the Hat",
+        "rank": 31
     }
 ]

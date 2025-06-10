@@ -1,122 +1,42 @@
 [
     {
-        "showId": "81767231",
-        "id": "81730180",
-        "week": "20241201",
-        "rank": 1,
-        "weeksInTopTen": 2,
-        "country": "za",
-        "category": "tv",
-        "name": "The Mabaso\u00e2\u0080\u0099s Family Reunion: Season 1",
-        "showName": "The Mabaso\u00e2\u0080\u0099s Family Reunion",
-        "seasonName": "Season 1"
+        "name": "Sirens: Limited Series",
+        "rank": 28
     },
     {
-        "showId": "81675428",
-        "id": "81675429",
-        "week": "20241201",
-        "rank": 2,
-        "weeksInTopTen": 1,
-        "country": "za",
-        "category": "tv",
-        "name": "Love Never Lies: South Africa: Season 1",
-        "showName": "Love Never Lies: South Africa",
-        "seasonName": "Season 1"
+        "name": "Cold Case: The Tylenol Murders: Season 1",
+        "rank": 29
     },
     {
-        "showId": "81705443",
-        "id": "81705444",
-        "week": "20241201",
-        "rank": 3,
-        "weeksInTopTen": 1,
-        "country": "za",
-        "category": "tv",
-        "name": "Cold Case: Who Killed JonBen\u00c3\u00a9t Ramsey: Season 1",
-        "showName": "Cold Case: Who Killed JonBen\u00c3\u00a9t Ramsey",
-        "seasonName": "Season 1"
+        "name": "She the People: Season 1",
+        "rank": 30
     },
     {
-        "showId": "81677257",
-        "id": "81677258",
-        "week": "20241201",
-        "rank": 4,
-        "weeksInTopTen": 2,
-        "country": "za",
-        "category": "tv",
-        "name": "A Man on the Inside: Season 1",
-        "showName": "A Man on the Inside",
-        "seasonName": "Season 1"
+        "name": "FOREVER: Season 1",
+        "rank": 31
     },
     {
-        "showId": "81457258",
-        "id": "81457259",
-        "week": "20241201",
-        "rank": 5,
-        "weeksInTopTen": 1,
-        "country": "za",
-        "category": "tv",
-        "name": "The Madness: Limited Series",
-        "showName": "The Madness",
-        "seasonName": "Limited Series"
+        "name": "Dept. Q: Season 1",
+        "rank": 32
     },
     {
-        "showId": "81222923",
-        "id": "81286021",
-        "week": "20241201",
-        "rank": 6,
-        "weeksInTopTen": 1,
-        "country": "za",
-        "category": "tv",
-        "name": "The Empress: Season 2",
-        "showName": "The Empress",
-        "seasonName": "Season 2"
+        "name": "Secrets We Keep: Limited Series",
+        "rank": 33
     },
     {
-        "showId": "81764523",
-        "id": "81764524",
-        "week": "20241201",
-        "rank": 7,
-        "weeksInTopTen": 6,
-        "country": "za",
-        "category": "tv",
-        "name": "Beauty in Black: Season 1",
-        "showName": "Beauty in Black",
-        "seasonName": "Season 1"
+        "name": "Unseen: Season 2",
+        "rank": 34
     },
     {
-        "showId": "81927150",
-        "id": "81927151",
-        "week": "20241201",
-        "rank": 8,
-        "weeksInTopTen": 1,
-        "country": "za",
-        "category": "tv",
-        "name": "Is It Cake? Holiday: Season 1",
-        "showName": "Is It Cake? Holiday",
-        "seasonName": "Season 1"
+        "name": "Bet: Season 1",
+        "rank": 35
     },
     {
-        "showId": "81273085",
-        "id": "81631470",
-        "week": "20241201",
-        "rank": 9,
-        "weeksInTopTen": 7,
-        "country": "za",
-        "category": "tv",
-        "name": "CoComelon: Season 11",
-        "showName": "CoComelon",
-        "seasonName": "Season 11"
+        "name": "American Manhunt: Osama bin Laden: Season 1",
+        "rank": 36
     },
     {
-        "showId": "81629252",
-        "id": "81629253",
-        "week": "20241201",
-        "rank": 10,
-        "weeksInTopTen": 2,
-        "country": "za",
-        "category": "tv",
-        "name": "The Helicopter Heist: Limited Series",
-        "showName": "The Helicopter Heist",
-        "seasonName": "Limited Series"
+        "name": "CoComelon: Season 13",
+        "rank": 37
     }
 ]

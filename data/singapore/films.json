@@ -1,122 +1,42 @@
 [
     {
-        "showId": "81251375",
-        "id": "81251375",
-        "week": "20241201",
-        "rank": 1,
-        "weeksInTopTen": 1,
-        "country": "sg",
-        "category": "films",
-        "name": "The Flash",
-        "showName": "The Flash",
-        "seasonName": "The Flash"
+        "name": "I Want To Be Boss",
+        "rank": 23
     },
     {
-        "showId": "81619948",
-        "id": "81619948",
-        "week": "20241201",
-        "rank": 2,
-        "weeksInTopTen": 1,
-        "country": "sg",
-        "category": "films",
-        "name": "M3GAN",
-        "showName": "M3GAN",
-        "seasonName": "M3GAN"
+        "name": "Sikandar",
+        "rank": 24
     },
     {
-        "showId": "81498404",
-        "id": "81498404",
-        "week": "20241201",
-        "rank": 3,
-        "weeksInTopTen": 1,
-        "country": "sg",
-        "category": "films",
-        "name": "Our Little Secret",
-        "showName": "Our Little Secret",
-        "seasonName": "Our Little Secret"
+        "name": "HIT: The Third Case",
+        "rank": 25
     },
     {
-        "showId": "81949600",
-        "id": "81949600",
-        "week": "20241201",
-        "rank": 4,
-        "weeksInTopTen": 2,
-        "country": "sg",
-        "category": "films",
-        "name": "Conquer: Lahad Datu",
-        "showName": "Conquer: Lahad Datu",
-        "seasonName": "Conquer: Lahad Datu"
+        "name": "Retro",
+        "rank": 26
     },
     {
-        "showId": "81745658",
-        "id": "81745658",
-        "week": "20241201",
-        "rank": 5,
-        "weeksInTopTen": 1,
-        "country": "sg",
-        "category": "films",
-        "name": "Spellbound",
-        "showName": "Spellbound",
-        "seasonName": "Spellbound"
+        "name": "The Deceased",
+        "rank": 27
     },
     {
-        "showId": "81902035",
-        "id": "81902035",
-        "week": "20241201",
-        "rank": 6,
-        "weeksInTopTen": 1,
-        "country": "sg",
-        "category": "films",
-        "name": "Lucky Baskhar",
-        "showName": "Lucky Baskhar",
-        "seasonName": "Lucky Baskhar"
+        "name": "Fear Street: Prom Queen",
+        "rank": 28
     },
     {
-        "showId": "81087735",
-        "id": "81087735",
-        "week": "20241201",
-        "rank": 7,
-        "weeksInTopTen": 4,
-        "country": "sg",
-        "category": "films",
-        "name": "The Hunt",
-        "showName": "The Hunt",
-        "seasonName": "The Hunt"
+        "name": "A Widow's Game",
+        "rank": 29
     },
     {
-        "showId": "81953481",
-        "id": "81953481",
-        "week": "20241201",
-        "rank": 8,
-        "weeksInTopTen": 1,
-        "country": "sg",
-        "category": "films",
-        "name": "Bagheera",
-        "showName": "Bagheera",
-        "seasonName": "Bagheera"
+        "name": "Ruby Gillman, Teenage Kraken",
+        "rank": 30
     },
     {
-        "showId": "81554996",
-        "id": "81554996",
-        "week": "20241201",
-        "rank": 9,
-        "weeksInTopTen": 2,
-        "country": "sg",
-        "category": "films",
-        "name": "Buy Now: The Shopping Conspiracy",
-        "showName": "Buy Now: The Shopping Conspiracy",
-        "seasonName": "Buy Now: The Shopping Conspiracy"
+        "name": "The Devil's Bride",
+        "rank": 31
     },
     {
-        "showId": "81688468",
-        "id": "81688468",
-        "week": "20241201",
-        "rank": 10,
-        "weeksInTopTen": 2,
-        "country": "sg",
-        "category": "films",
-        "name": "The Cursed Land",
-        "showName": "The Cursed Land",
-        "seasonName": "The Cursed Land"
+        "name": "Inside Man: Most Wanted",
+        "rank": 32
     }
 ]

@@ -1,122 +1,42 @@
 [
     {
-        "showId": "81457258",
-        "id": "81457259",
-        "week": "20241201",
-        "rank": 1,
-        "weeksInTopTen": 1,
-        "country": "ng",
-        "category": "tv",
-        "name": "The Madness: Limited Series",
-        "showName": "The Madness",
-        "seasonName": "Limited Series"
+        "name": "The Party: Season 1",
+        "rank": 26
     },
     {
-        "showId": "81912961",
-        "id": "81912962",
-        "week": "20241201",
-        "rank": 2,
-        "weeksInTopTen": 2,
-        "country": "ng",
-        "category": "tv",
-        "name": "When the Phone Rings: Limited Series",
-        "showName": "When the Phone Rings",
-        "seasonName": "Limited Series"
+        "name": "Sirens: Limited Series",
+        "rank": 27
     },
     {
-        "showId": "81764523",
-        "id": "81764524",
-        "week": "20241201",
-        "rank": 3,
-        "weeksInTopTen": 6,
-        "country": "ng",
-        "category": "tv",
-        "name": "Beauty in Black: Season 1",
-        "showName": "Beauty in Black",
-        "seasonName": "Season 1"
+        "name": "She the People: Season 1",
+        "rank": 28
     },
     {
-        "showId": "81435684",
-        "id": "81516572",
-        "week": "20241201",
-        "rank": 4,
-        "weeksInTopTen": 4,
-        "country": "ng",
-        "category": "tv",
-        "name": "Arcane: Season 2",
-        "showName": "Arcane",
-        "seasonName": "Season 2"
+        "name": "Bet: Season 1",
+        "rank": 29
     },
     {
-        "showId": "81767231",
-        "id": "81730180",
-        "week": "20241201",
-        "rank": 5,
-        "weeksInTopTen": 1,
-        "country": "ng",
-        "category": "tv",
-        "name": "The Mabaso\u00e2\u0080\u0099s Family Reunion: Season 1",
-        "showName": "The Mabaso\u00e2\u0080\u0099s Family Reunion",
-        "seasonName": "Season 1"
+        "name": "FOREVER: Season 1",
+        "rank": 30
     },
     {
-        "showId": "81629252",
-        "id": "81629253",
-        "week": "20241201",
-        "rank": 6,
-        "weeksInTopTen": 2,
-        "country": "ng",
-        "category": "tv",
-        "name": "The Helicopter Heist: Limited Series",
-        "showName": "The Helicopter Heist",
-        "seasonName": "Limited Series"
+        "name": "Dear Hongrang: Season 1",
+        "rank": 31
     },
     {
-        "showId": "81222923",
-        "id": "81286021",
-        "week": "20241201",
-        "rank": 7,
-        "weeksInTopTen": 1,
-        "country": "ng",
-        "category": "tv",
-        "name": "The Empress: Season 2",
-        "showName": "The Empress",
-        "seasonName": "Season 2"
+        "name": "Our Unwritten Seoul: Limited Series",
+        "rank": 32
     },
     {
-        "showId": "81582447",
-        "id": "81582448",
-        "week": "20241201",
-        "rank": 8,
-        "weeksInTopTen": 1,
-        "country": "ng",
-        "category": "tv",
-        "name": "The Trunk: Limited Series",
-        "showName": "The Trunk",
-        "seasonName": "Limited Series"
+        "name": "The Royals: Season 1",
+        "rank": 33
     },
     {
-        "showId": "81435684",
-        "id": "81435685",
-        "week": "20241201",
-        "rank": 9,
-        "weeksInTopTen": 8,
-        "country": "ng",
-        "category": "tv",
-        "name": "Arcane: Season 1",
-        "showName": "Arcane",
-        "seasonName": "Season 1"
+        "name": "Baby Farm: Season 1",
+        "rank": 34
     },
     {
-        "showId": "81222923",
-        "id": "81264582",
-        "week": "20241201",
-        "rank": 10,
-        "weeksInTopTen": 4,
-        "country": "ng",
-        "category": "tv",
-        "name": "The Empress: Season 1",
-        "showName": "The Empress",
-        "seasonName": "Season 1"
+        "name": "American Manhunt: Osama bin Laden: Season 1",
+        "rank": 35
     }
 ]

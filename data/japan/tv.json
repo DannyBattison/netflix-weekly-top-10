@@ -1,122 +1,42 @@
 [
     {
-        "showId": "81512200",
-        "id": "81512201",
-        "week": "20241201",
-        "rank": 1,
-        "weeksInTopTen": 3,
-        "country": "jp",
-        "category": "tv",
-        "name": "Beyond Goodbye: Season 1",
-        "showName": "Beyond Goodbye",
-        "seasonName": "Season 1"
+        "name": "Welcome, Now Get Lost",
+        "rank": 24
     },
     {
-        "showId": "81736884",
-        "id": "81736885",
-        "week": "20241201",
-        "rank": 2,
-        "weeksInTopTen": 8,
-        "country": "jp",
-        "category": "tv",
-        "name": "DAN DA DAN",
-        "showName": "DAN DA DAN",
-        "seasonName": "DAN DA DAN"
+        "name": "Since I Took You Away: Season 1",
+        "rank": 25
     },
     {
-        "showId": "81521365",
-        "id": "81715843",
-        "week": "20241201",
-        "rank": 3,
-        "weeksInTopTen": 4,
-        "country": "jp",
-        "category": "tv",
-        "name": "Love Village: Season 2",
-        "showName": "Love Village",
-        "seasonName": "Season 2"
+        "name": "Our Unwritten Seoul: Limited Series",
+        "rank": 26
     },
     {
-        "showId": "81927743",
-        "id": "81927744",
-        "week": "20241201",
-        "rank": 4,
-        "weeksInTopTen": 7,
-        "country": "jp",
-        "category": "tv",
-        "name": "Light of My Lion: Season 1",
-        "showName": "Light of My Lion",
-        "seasonName": "Season 1"
+        "name": "The Apothecary Diaries: Season 2",
+        "rank": 27
     },
     {
-        "showId": "81933671",
-        "id": "81933672",
-        "week": "20241201",
-        "rank": 5,
-        "weeksInTopTen": 2,
-        "country": "jp",
-        "category": "tv",
-        "name": "Invisible Us: Season 1",
-        "showName": "Invisible Us",
-        "seasonName": "Season 1"
+        "name": "Tastefully Yours: Limited Series",
+        "rank": 28
     },
     {
-        "showId": "81912961",
-        "id": "81912962",
-        "week": "20241201",
-        "rank": 6,
-        "weeksInTopTen": 1,
-        "country": "jp",
-        "category": "tv",
-        "name": "When the Phone Rings: Limited Series",
-        "showName": "When the Phone Rings",
-        "seasonName": "Limited Series"
+        "name": "Fire Force: Season 3",
+        "rank": 29
     },
     {
-        "showId": "81932411",
-        "id": "81932412",
-        "week": "20241201",
-        "rank": 7,
-        "weeksInTopTen": 8,
-        "country": "jp",
-        "category": "tv",
-        "name": "AARO -All-domain Anomaly Resolution Office-: Season 1",
-        "showName": "AARO -All-domain Anomaly Resolution Office-",
-        "seasonName": "Season 1"
+        "name": "The Reluctant Preacher: Season 1",
+        "rank": 30
     },
     {
-        "showId": "81901457",
-        "id": "81901459",
-        "week": "20241201",
-        "rank": 8,
-        "weeksInTopTen": 7,
-        "country": "jp",
-        "category": "tv",
-        "name": "timelesz project -AUDITION-: Season 1",
-        "showName": "timelesz project -AUDITION-",
-        "seasonName": "Season 1"
+        "name": "Wind Breaker: Season 2",
+        "rank": 31
     },
     {
-        "showId": "81640753",
-        "id": "81940353",
-        "week": "20241201",
-        "rank": 9,
-        "weeksInTopTen": 8,
-        "country": "jp",
-        "category": "tv",
-        "name": "Blue Lock: BLUE LOCK VS. U-20 JAPAN",
-        "showName": "Blue Lock",
-        "seasonName": "BLUE LOCK VS. U-20 JAPAN"
+        "name": "News Anchor: Season 1",
+        "rank": 32
     },
     {
-        "showId": "81944753",
-        "id": "81944754",
-        "week": "20241201",
-        "rank": 10,
-        "weeksInTopTen": 4,
-        "country": "jp",
-        "category": "tv",
-        "name": "Yakuza Fianc\u00c3\u00a9: Raise wa Tanin ga Ii: Season 1",
-        "showName": "Yakuza Fianc\u00c3\u00a9: Raise wa Tanin ga Ii",
-        "seasonName": "Season 1"
+        "name": "Dear Hongrang: Season 1",
+        "rank": 33
     }
 ]

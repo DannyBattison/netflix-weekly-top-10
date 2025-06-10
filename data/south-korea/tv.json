@@ -1,122 +1,42 @@
 [
     {
-        "showId": "81582447",
-        "id": "81582448",
-        "week": "20241201",
-        "rank": 1,
-        "weeksInTopTen": 1,
-        "country": "kr",
-        "category": "tv",
-        "name": "The Trunk: Limited Series",
-        "showName": "The Trunk",
-        "seasonName": "Limited Series"
+        "name": "Our Unwritten Seoul: Limited Series",
+        "rank": 24
     },
     {
-        "showId": "81912961",
-        "id": "81912962",
-        "week": "20241201",
-        "rank": 2,
-        "weeksInTopTen": 2,
-        "country": "kr",
-        "category": "tv",
-        "name": "When the Phone Rings: Limited Series",
-        "showName": "When the Phone Rings",
-        "seasonName": "Limited Series"
+        "name": "Tastefully Yours: Limited Series",
+        "rank": 25
     },
     {
-        "showId": "81955468",
-        "id": "81955469",
-        "week": "20241201",
-        "rank": 3,
-        "weeksInTopTen": 2,
-        "country": "kr",
-        "category": "tv",
-        "name": "Parole Examiner Lee: Season 1",
-        "showName": "Parole Examiner Lee",
-        "seasonName": "Season 1"
+        "name": "Oh My Ghost Clients: Season 1",
+        "rank": 26
     },
     {
-        "showId": "81635888",
-        "id": "81747553",
-        "week": "20241201",
-        "rank": 4,
-        "weeksInTopTen": 2,
-        "country": "kr",
-        "category": "tv",
-        "name": "Zombieverse: New Blood",
-        "showName": "Zombieverse",
-        "seasonName": "New Blood"
+        "name": "Dear Hongrang: Season 1",
+        "rank": 27
     },
     {
-        "showId": "81943794",
-        "id": "81943795",
-        "week": "20241201",
-        "rank": 5,
-        "weeksInTopTen": 1,
-        "country": "kr",
-        "category": "tv",
-        "name": "The Tale of Lady Ok: Season 1",
-        "showName": "The Tale of Lady Ok",
-        "seasonName": "Season 1"
+        "name": "Adventure by Accident: Season 4",
+        "rank": 28
     },
     {
-        "showId": "81943403",
-        "id": "81943404",
-        "week": "20241201",
-        "rank": 6,
-        "weeksInTopTen": 8,
-        "country": "kr",
-        "category": "tv",
-        "name": "Family by Choice: Season 1",
-        "showName": "Family by Choice",
-        "seasonName": "Season 1"
+        "name": "The Haunted Palace: Season 1",
+        "rank": 29
     },
     {
-        "showId": "81506124",
-        "id": "81506125",
-        "week": "20241201",
-        "rank": 7,
-        "weeksInTopTen": 4,
-        "country": "kr",
-        "category": "tv",
-        "name": "Mr. Plankton: Limited Series",
-        "showName": "Mr. Plankton",
-        "seasonName": "Limited Series"
+        "name": "Heavenly Ever After: Limited Series",
+        "rank": 30
     },
     {
-        "showId": "81435684",
-        "id": "81516572",
-        "week": "20241201",
-        "rank": 8,
-        "weeksInTopTen": 4,
-        "country": "kr",
-        "category": "tv",
-        "name": "Arcane: Season 2",
-        "showName": "Arcane",
-        "seasonName": "Season 2"
+        "name": "GOOD BOY: Season 1",
+        "rank": 31
     },
     {
-        "showId": "81945659",
-        "id": "81945660",
-        "week": "20241201",
-        "rank": 9,
-        "weeksInTopTen": 2,
-        "country": "kr",
-        "category": "tv",
-        "name": "Marry YOU: Season 1",
-        "showName": "Marry YOU",
-        "seasonName": "Season 1"
+        "name": "Resident Playbook: Limited Series",
+        "rank": 32
     },
     {
-        "showId": "81955454",
-        "id": "81955455",
-        "week": "20241201",
-        "rank": 10,
-        "weeksInTopTen": 4,
-        "country": "kr",
-        "category": "tv",
-        "name": "Brewing Love: Season 1",
-        "showName": "Brewing Love",
-        "seasonName": "Season 1"
+        "name": "K-foodie meets J-foodie: Season 2: The Ultimate Taste-off",
+        "rank": 33
     }
 ]

@@ -1,122 +1,42 @@
 [
     {
-        "showId": "81498404",
-        "id": "81498404",
-        "week": "20241201",
-        "rank": 1,
-        "weeksInTopTen": 1,
-        "country": "ee",
-        "category": "films",
-        "name": "Our Little Secret",
-        "showName": "Our Little Secret",
-        "seasonName": "Our Little Secret"
+        "name": "Kraven the Hunter",
+        "rank": 23
     },
     {
-        "showId": "81554996",
-        "id": "81554996",
-        "week": "20241201",
-        "rank": 2,
-        "weeksInTopTen": 2,
-        "country": "ee",
-        "category": "films",
-        "name": "Buy Now: The Shopping Conspiracy",
-        "showName": "Buy Now: The Shopping Conspiracy",
-        "seasonName": "Buy Now: The Shopping Conspiracy"
+        "name": "Fear Street: Prom Queen",
+        "rank": 24
     },
     {
-        "showId": "81762792",
-        "id": "81762792",
-        "week": "20241201",
-        "rank": 3,
-        "weeksInTopTen": 2,
-        "country": "ee",
-        "category": "films",
-        "name": "Bad Boys: Ride or Die",
-        "showName": "Bad Boys: Ride or Die",
-        "seasonName": "Bad Boys: Ride or Die"
+        "name": "Nonnas",
+        "rank": 25
     },
     {
-        "showId": "81766198",
-        "id": "81766198",
-        "week": "20241201",
-        "rank": 4,
-        "weeksInTopTen": 2,
-        "country": "ee",
-        "category": "films",
-        "name": "The Merry Gentlemen",
-        "showName": "The Merry Gentlemen",
-        "seasonName": "The Merry Gentlemen"
+        "name": "Mission: Impossible - Dead Reckoning",
+        "rank": 26
     },
     {
-        "showId": "81087735",
-        "id": "81087735",
-        "week": "20241201",
-        "rank": 5,
-        "weeksInTopTen": 6,
-        "country": "ee",
-        "category": "films",
-        "name": "The Hunt",
-        "showName": "The Hunt",
-        "seasonName": "The Hunt"
+        "name": "A Widow's Game",
+        "rank": 27
     },
     {
-        "showId": "81745658",
-        "id": "81745658",
-        "week": "20241201",
-        "rank": 6,
-        "weeksInTopTen": 1,
-        "country": "ee",
-        "category": "films",
-        "name": "Spellbound",
-        "showName": "Spellbound",
-        "seasonName": "Spellbound"
+        "name": "Havoc",
+        "rank": 28
     },
     {
-        "showId": "81392060",
-        "id": "81392060",
-        "week": "20241201",
-        "rank": 7,
-        "weeksInTopTen": 4,
-        "country": "ee",
-        "category": "films",
-        "name": "Meet Me Next Christmas",
-        "showName": "Meet Me Next Christmas",
-        "seasonName": "Meet Me Next Christmas"
+        "name": "The Super Mario Bros. Movie",
+        "rank": 29
     },
     {
-        "showId": "81779944",
-        "id": "81779944",
-        "week": "20241201",
-        "rank": 8,
-        "weeksInTopTen": 1,
-        "country": "ee",
-        "category": "films",
-        "name": "A Paris Christmas Waltz",
-        "showName": "A Paris Christmas Waltz",
-        "seasonName": "A Paris Christmas Waltz"
+        "name": "Inside Man: Most Wanted",
+        "rank": 30
     },
     {
-        "showId": "81131575",
-        "id": "81131575",
-        "week": "20241201",
-        "rank": 9,
-        "weeksInTopTen": 3,
-        "country": "ee",
-        "category": "films",
-        "name": "Ready or Not",
-        "showName": "Ready or Not",
-        "seasonName": "Ready or Not"
+        "name": "PAW Patrol: The Mighty Movie",
+        "rank": 31
     },
     {
-        "showId": "81779948",
-        "id": "81779948",
-        "week": "20241201",
-        "rank": 10,
-        "weeksInTopTen": 1,
-        "country": "ee",
-        "category": "films",
-        "name": "Twas the Text Before Christmas",
-        "showName": "Twas the Text Before Christmas",
-        "seasonName": "Twas the Text Before Christmas"
+        "name": "Despicable Me 3",
+        "rank": 32
     }
 ]

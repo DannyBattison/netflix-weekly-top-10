@@ -1,122 +1,42 @@
 [
     {
-        "showId": "81705443",
-        "id": "81705444",
-        "week": "20241201",
-        "rank": 1,
-        "weeksInTopTen": 1,
-        "country": "us",
-        "category": "tv",
-        "name": "Cold Case: Who Killed JonBen\u00c3\u00a9t Ramsey: Season 1",
-        "showName": "Cold Case: Who Killed JonBen\u00c3\u00a9t Ramsey",
-        "seasonName": "Season 1"
+        "name": "Sirens: Limited Series",
+        "rank": 28
     },
     {
-        "showId": "81457258",
-        "id": "81457259",
-        "week": "20241201",
-        "rank": 2,
-        "weeksInTopTen": 1,
-        "country": "us",
-        "category": "tv",
-        "name": "The Madness: Limited Series",
-        "showName": "The Madness",
-        "seasonName": "Limited Series"
+        "name": "Cold Case: The Tylenol Murders: Season 1",
+        "rank": 29
     },
     {
-        "showId": "81677257",
-        "id": "81677258",
-        "week": "20241201",
-        "rank": 3,
-        "weeksInTopTen": 2,
-        "country": "us",
-        "category": "tv",
-        "name": "A Man on the Inside: Season 1",
-        "showName": "A Man on the Inside",
-        "seasonName": "Season 1"
+        "name": "American Manhunt: Osama bin Laden: Season 1",
+        "rank": 30
     },
     {
-        "showId": "81927150",
-        "id": "81927151",
-        "week": "20241201",
-        "rank": 4,
-        "weeksInTopTen": 1,
-        "country": "us",
-        "category": "tv",
-        "name": "Is It Cake? Holiday: Season 1",
-        "showName": "Is It Cake? Holiday",
-        "seasonName": "Season 1"
+        "name": "Raw: 2025 - May 26, 2025",
+        "rank": 31
     },
     {
-        "showId": "81738579",
-        "id": "81738579",
-        "week": "20241201",
-        "rank": 5,
-        "weeksInTopTen": 1,
-        "country": "us",
-        "category": "tv",
-        "name": "Anthony Jeselnik: Bones and All",
-        "showName": "Anthony Jeselnik: Bones and All",
-        "seasonName": "Anthony Jeselnik: Bones and All"
+        "name": "She the People: Season 1",
+        "rank": 32
     },
     {
-        "showId": "81222923",
-        "id": "81286021",
-        "week": "20241201",
-        "rank": 6,
-        "weeksInTopTen": 1,
-        "country": "us",
-        "category": "tv",
-        "name": "The Empress: Season 2",
-        "showName": "The Empress",
-        "seasonName": "Season 2"
+        "name": "Ms. Rachel: Season 1",
+        "rank": 33
     },
     {
-        "showId": "81435684",
-        "id": "81516572",
-        "week": "20241201",
-        "rank": 7,
-        "weeksInTopTen": 4,
-        "country": "us",
-        "category": "tv",
-        "name": "Arcane: Season 2",
-        "showName": "Arcane",
-        "seasonName": "Season 2"
+        "name": "Dept. Q: Season 1",
+        "rank": 34
     },
     {
-        "showId": "80216665",
-        "id": "81234777",
-        "week": "20241201",
-        "rank": 8,
-        "weeksInTopTen": 1,
-        "country": "us",
-        "category": "tv",
-        "name": "Rhythm + Flow: Season 2",
-        "showName": "Rhythm + Flow",
-        "seasonName": "Season 2"
+        "name": "The Four Seasons: Season 1",
+        "rank": 35
     },
     {
-        "showId": "81002370",
-        "id": "81576914",
-        "week": "20241201",
-        "rank": 9,
-        "weeksInTopTen": 7,
-        "country": "us",
-        "category": "tv",
-        "name": "Cobra Kai: Season 6",
-        "showName": "Cobra Kai",
-        "seasonName": "Season 6"
+        "name": "Mike Birbiglia: The Good Life",
+        "rank": 36
     },
     {
-        "showId": "80177453",
-        "id": "80177454",
-        "week": "20241201",
-        "rank": 10,
-        "weeksInTopTen": 2,
-        "country": "us",
-        "category": "tv",
-        "name": "A.P. Bio: Season 1",
-        "showName": "A.P. Bio",
-        "seasonName": "Season 1"
+        "name": "FOREVER: Season 1",
+        "rank": 37
     }
 ]

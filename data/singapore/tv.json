@@ -1,122 +1,42 @@
 [
     {
-        "showId": "81912961",
-        "id": "81912962",
-        "week": "20241201",
-        "rank": 1,
-        "weeksInTopTen": 2,
-        "country": "sg",
-        "category": "tv",
-        "name": "When the Phone Rings: Limited Series",
-        "showName": "When the Phone Rings",
-        "seasonName": "Limited Series"
+        "name": "Tastefully Yours: Limited Series",
+        "rank": 25
     },
     {
-        "showId": "81954670",
-        "id": "81954671",
-        "week": "20241201",
-        "rank": 2,
-        "weeksInTopTen": 3,
-        "country": "sg",
-        "category": "tv",
-        "name": "The Story of Pearl Girl: The Story Of Pearl Girl",
-        "showName": "The Story of Pearl Girl",
-        "seasonName": "The Story Of Pearl Girl"
+        "name": "Sirens: Limited Series",
+        "rank": 26
     },
     {
-        "showId": "81677257",
-        "id": "81677258",
-        "week": "20241201",
-        "rank": 3,
-        "weeksInTopTen": 2,
-        "country": "sg",
-        "category": "tv",
-        "name": "A Man on the Inside: Season 1",
-        "showName": "A Man on the Inside",
-        "seasonName": "Season 1"
+        "name": "Cold Case: The Tylenol Murders: Season 1",
+        "rank": 27
     },
     {
-        "showId": "81582447",
-        "id": "81582448",
-        "week": "20241201",
-        "rank": 4,
-        "weeksInTopTen": 1,
-        "country": "sg",
-        "category": "tv",
-        "name": "The Trunk: Limited Series",
-        "showName": "The Trunk",
-        "seasonName": "Limited Series"
+        "name": "Oh My Ghost Clients: Season 1",
+        "rank": 28
     },
     {
-        "showId": "81435684",
-        "id": "81516572",
-        "week": "20241201",
-        "rank": 5,
-        "weeksInTopTen": 4,
-        "country": "sg",
-        "category": "tv",
-        "name": "Arcane: Season 2",
-        "showName": "Arcane",
-        "seasonName": "Season 2"
+        "name": "Our Unwritten Seoul: Limited Series",
+        "rank": 29
     },
     {
-        "showId": "81705443",
-        "id": "81705444",
-        "week": "20241201",
-        "rank": 6,
-        "weeksInTopTen": 1,
-        "country": "sg",
-        "category": "tv",
-        "name": "Cold Case: Who Killed JonBen\u00c3\u00a9t Ramsey: Season 1",
-        "showName": "Cold Case: Who Killed JonBen\u00c3\u00a9t Ramsey",
-        "seasonName": "Season 1"
+        "name": "The Haunted Palace: Season 1",
+        "rank": 30
     },
     {
-        "showId": "81736884",
-        "id": "81736885",
-        "week": "20241201",
-        "rank": 7,
-        "weeksInTopTen": 8,
-        "country": "sg",
-        "category": "tv",
-        "name": "DAN DA DAN",
-        "showName": "DAN DA DAN",
-        "seasonName": "DAN DA DAN"
+        "name": "The Prisoner of Beauty: Season 1",
+        "rank": 31
     },
     {
-        "showId": "81506124",
-        "id": "81506125",
-        "week": "20241201",
-        "rank": 8,
-        "weeksInTopTen": 3,
-        "country": "sg",
-        "category": "tv",
-        "name": "Mr. Plankton: Limited Series",
-        "showName": "Mr. Plankton",
-        "seasonName": "Limited Series"
+        "name": "Bet: Season 1",
+        "rank": 32
     },
     {
-        "showId": "81907277",
-        "id": "81907278",
-        "week": "20241201",
-        "rank": 9,
-        "weeksInTopTen": 1,
-        "country": "sg",
-        "category": "tv",
-        "name": "See Her Again: Season 1",
-        "showName": "See Her Again",
-        "seasonName": "Season 1"
+        "name": "American Manhunt: Osama bin Laden: Season 1",
+        "rank": 33
     },
     {
-        "showId": "81635888",
-        "id": "81747553",
-        "week": "20241201",
-        "rank": 10,
-        "weeksInTopTen": 2,
-        "country": "sg",
-        "category": "tv",
-        "name": "Zombieverse: New Blood",
-        "showName": "Zombieverse",
-        "seasonName": "New Blood"
+        "name": "Heavenly Ever After: Limited Series",
+        "rank": 34
     }
 ]
