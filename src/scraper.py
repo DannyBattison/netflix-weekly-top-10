@@ -7,7 +7,13 @@ def extract_titles_from_html(html_content):
     soup = BeautifulSoup(html_content, "html.parser")
     
     # Find all <button> elements with no attributes
-    return [{"name": btn.text, "rank": idx + 1} for idx, btn in enumerate(soup.find_all('button')) if not btn.attrs]
+    buttons_data = []
+    rank = 1
+
+    for btn in soup.find_all('button'):
+        if not btn.attrs:
+            buttons_data.append({"name": btn.text, "rank": rank})
+            rank += 1
 
 with open("countries.json") as file:
     countries = json.load(file)
