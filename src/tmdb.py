@@ -122,6 +122,10 @@ async def process_file(country, media_type):
 
     tmdb_ids = []
 
+    if not data:
+        print(f'No data found for {media_type} in {country}')
+        return False
+    
     for item in data:
         encoded_name = urllib.parse.quote(item['name'])
         if media_type == 'tv':
