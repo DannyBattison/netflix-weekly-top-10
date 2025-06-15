@@ -15,6 +15,8 @@ def extract_titles_from_html(html_content):
             buttons_data.append({"name": btn.text, "rank": rank})
             rank += 1
 
+    return buttons_data
+
 with open("countries.json") as file:
     countries = json.load(file)
 
