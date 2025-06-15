@@ -1,1 +1,42 @@
-null
+[
+    {
+        "name": "STRAW",
+        "rank": 1
+    },
+    {
+        "name": "K.O.",
+        "rank": 2
+    },
+    {
+        "name": "Aquaman and the Lost Kingdom",
+        "rank": 3
+    },
+    {
+        "name": "M3GAN",
+        "rank": 4
+    },
+    {
+        "name": "A Widow's Game",
+        "rank": 5
+    },
+    {
+        "name": "The Heart Knows",
+        "rank": 6
+    },
+    {
+        "name": "The Dark Tower",
+        "rank": 7
+    },
+    {
+        "name": "Family Camp",
+        "rank": 8
+    },
+    {
+        "name": "Puss in Boots: The Last Wish",
+        "rank": 9
+    },
+    {
+        "name": "Wonka",
+        "rank": 10
+    }
+]

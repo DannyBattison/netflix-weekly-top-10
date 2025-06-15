@@ -1,1 +1,42 @@
-null
+[
+    {
+        "name": "STRAW",
+        "rank": 1
+    },
+    {
+        "name": "Now You See Me",
+        "rank": 2
+    },
+    {
+        "name": "Bee Movie",
+        "rank": 3
+    },
+    {
+        "name": "Wrath of the Titans",
+        "rank": 4
+    },
+    {
+        "name": "Now You See Me 2",
+        "rank": 5
+    },
+    {
+        "name": "The Wild Robot",
+        "rank": 6
+    },
+    {
+        "name": "Barbarian",
+        "rank": 7
+    },
+    {
+        "name": "A Widow's Game",
+        "rank": 8
+    },
+    {
+        "name": "K.O.",
+        "rank": 9
+    },
+    {
+        "name": "Despicable Me 4",
+        "rank": 10
+    }
+]
