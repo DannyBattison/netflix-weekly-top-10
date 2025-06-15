@@ -17,6 +17,7 @@ def get_tmdb_movie_id(api_key, show_name):
 
 # Function to get TMDB ID using the TMDB API
 def get_tmdb_tv_id(api_key, show_name):
+    show_name = show_name.rsplit(":", 1)[0].strip()
     headers = { 'Authorization': f'Bearer {api_key}', 'Content-Type': 'application/json;charset=utf-8' }
     url = f'https://api.themoviedb.org/3/search/tv?query={show_name}'
     response = requests.get(url, headers=headers)
