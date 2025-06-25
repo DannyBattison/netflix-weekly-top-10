@@ -1,30 +1,30 @@
 [
     {
-        "name": "STRAW",
+        "name": "Plane",
         "rank": 1
     },
     {
-        "name": "Plane",
+        "name": "Trainwreck: The Astroworld Tragedy",
         "rank": 2
     },
     {
-        "name": "Titan: The OceanGate Submersible Disaster",
+        "name": "STRAW",
         "rank": 3
     },
     {
-        "name": "Get Hard",
+        "name": "The Last Witch Hunter",
         "rank": 4
     },
     {
-        "name": "Bee Movie",
+        "name": "Trainwreck: Mayor of Mayhem",
         "rank": 5
     },
     {
-        "name": "Trainwreck: The Astroworld Tragedy",
+        "name": "KPop Demon Hunters",
         "rank": 6
     },
     {
-        "name": "K.O.",
+        "name": "Titan: The OceanGate Submersible Disaster",
         "rank": 7
     },
     {
@@ -32,11 +32,11 @@
         "rank": 8
     },
     {
-        "name": "Now You See Me",
+        "name": "Bee Movie",
         "rank": 9
     },
     {
-        "name": "Now You See Me 2",
+        "name": "Copycat",
         "rank": 10
     }
 ]
