@@ -1,6 +1,6 @@
 [
     {
-        "name": "Jaat",
+        "name": "Raid 2",
         "rank": 1
     },
     {
@@ -8,27 +8,27 @@
         "rank": 2
     },
     {
-        "name": "Retro",
+        "name": "Jaat",
         "rank": 3
     },
     {
-        "name": "Sikandar",
+        "name": "KPop Demon Hunters",
         "rank": 4
     },
     {
-        "name": "The Diplomat",
+        "name": "Retro",
         "rank": 5
     },
     {
-        "name": "Deva",
+        "name": "Sikandar",
         "rank": 6
     },
     {
-        "name": "Lucky Baskhar",
+        "name": "The Diplomat",
         "rank": 7
     },
     {
-        "name": "K.O.",
+        "name": "Deva",
         "rank": 8
     },
     {
@@ -36,7 +36,7 @@
         "rank": 9
     },
     {
-        "name": "KPop Demon Hunters",
+        "name": "Lucky Baskhar",
         "rank": 10
     }
 ]
