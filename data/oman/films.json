@@ -1,42 +1,42 @@
 [
     {
-        "name": "Abandoned Man",
+        "name": "The Killer",
         "rank": 1
     },
     {
-        "name": "Maa",
+        "name": "Inspector Zende",
         "rank": 2
     },
     {
-        "name": "Maareesan",
+        "name": "The Thursday Murder Club",
         "rank": 3
     },
     {
-        "name": "Fall for Me",
+        "name": "KPop Demon Hunters",
         "rank": 4
     },
     {
-        "name": "KPop Demon Hunters",
+        "name": "Love Untangled",
         "rank": 5
     },
     {
-        "name": "Tehran",
+        "name": "Abandoned Man",
         "rank": 6
     },
     {
-        "name": "The Killer",
+        "name": "Maa",
         "rank": 7
     },
     {
-        "name": "Kingdom",
+        "name": "Fall for Me",
         "rank": 8
     },
     {
-        "name": "The Thursday Murder Club",
+        "name": "Tehran",
         "rank": 9
     },
     {
-        "name": "Welcome to Sudden Death",
+        "name": "Kingdom",
         "rank": 10
     }
 ]
