@@ -1,6 +1,6 @@
 [
     {
-        "name": "Troll 2",
+        "name": "The Super Mario Bros. Movie",
         "rank": 1
     },
     {
@@ -8,35 +8,35 @@
         "rank": 2
     },
     {
-        "name": "The Peanuts Movie",
+        "name": "Death Wish (2018)",
         "rank": 3
     },
     {
-        "name": "The Call of the Wild",
+        "name": "The Book of Life",
         "rank": 4
     },
     {
-        "name": "Ferdinand",
+        "name": "The Croods: A New Age",
         "rank": 5
     },
     {
-        "name": "The Maze Runner",
+        "name": "It Chapter Two",
         "rank": 6
     },
     {
-        "name": "The Book of Life",
+        "name": "Big",
         "rank": 7
     },
     {
-        "name": "Maze Runner: The Scorch Trials",
+        "name": "Ferdinand",
         "rank": 8
     },
     {
-        "name": "Garfield",
+        "name": "Troll 2",
         "rank": 9
     },
     {
-        "name": "It Chapter Two",
+        "name": "Grown Ups",
         "rank": 10
     }
 ]
