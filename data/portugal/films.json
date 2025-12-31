@@ -1,26 +1,26 @@
 [
     {
-        "name": "The Great Flood",
+        "name": "Dr. Seuss' The Grinch",
         "rank": 1
     },
     {
-        "name": "Wake Up Dead Man: A Knives Out Mystery",
+        "name": "The Great Flood",
         "rank": 2
     },
     {
-        "name": "Dr. Seuss' The Grinch",
+        "name": "Wake Up Dead Man: A Knives Out Mystery",
         "rank": 3
     },
     {
-        "name": "Five Nights at Freddy's",
+        "name": "How the Grinch Stole Christmas",
         "rank": 4
     },
     {
-        "name": "The Garfield Movie",
+        "name": "Goodbye June",
         "rank": 5
     },
     {
-        "name": "Murder in Monaco",
+        "name": "Jingle Bell Heist",
         "rank": 6
     },
     {
@@ -28,15 +28,15 @@
         "rank": 7
     },
     {
-        "name": "The Croods: A New Age",
+        "name": "KPop Demon Hunters",
         "rank": 8
     },
     {
-        "name": "KPop Demon Hunters",
+        "name": "Murder in Monaco",
         "rank": 9
     },
     {
-        "name": "Joker: Folie \u00e0 Deux",
+        "name": "A Time For Bravery",
         "rank": 10
     }
 ]
