@@ -1,18 +1,18 @@
 [
     {
-        "name": "The Rip",
+        "name": "Trap",
         "rank": 1
     },
     {
-        "name": "The Magnificent Seven",
+        "name": "Max",
         "rank": 2
     },
     {
-        "name": "No Time to Die",
+        "name": "The Rip",
         "rank": 3
     },
     {
-        "name": "Freelance",
+        "name": "In the Land of Saints and Sinners",
         "rank": 4
     },
     {
@@ -20,23 +20,23 @@
         "rank": 5
     },
     {
-        "name": "Max",
+        "name": "No Time to Die",
         "rank": 6
     },
     {
-        "name": "People We Meet on Vacation",
+        "name": "The Magnificent Seven",
         "rank": 7
     },
     {
-        "name": "Spectre",
+        "name": "The Super Mario Bros. Movie",
         "rank": 8
     },
     {
-        "name": "The Super Mario Bros. Movie",
+        "name": "Skin Trade",
         "rank": 9
     },
     {
-        "name": "KPop Demon Hunters",
+        "name": "City of Dreams",
         "rank": 10
     }
 ]
