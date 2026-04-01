@@ -1,6 +1,6 @@
 [
     {
-        "name": "War Machine",
+        "name": "Mardaani 3",
         "rank": 1
     },
     {
@@ -8,35 +8,35 @@
         "rank": 2
     },
     {
-        "name": "Anora",
+        "name": "Dhurandhar",
         "rank": 3
     },
     {
-        "name": "Border 2",
+        "name": "Anora",
         "rank": 4
     },
     {
-        "name": "Made in Korea",
+        "name": "Border 2",
         "rank": 5
     },
     {
-        "name": "Gladiator II",
+        "name": "War Machine",
         "rank": 6
     },
     {
-        "name": "Dhurandhar",
+        "name": "Made in Korea",
         "rank": 7
     },
     {
-        "name": "Talvar",
+        "name": "Gladiator II",
         "rank": 8
     },
     {
-        "name": "Raazi",
+        "name": "Wicked",
         "rank": 9
     },
     {
-        "name": "Outside the Wire",
+        "name": "Raazi",
         "rank": 10
     }
 ]
