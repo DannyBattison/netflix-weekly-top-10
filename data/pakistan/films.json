@@ -1,10 +1,10 @@
 [
     {
-        "name": "Thrash",
+        "name": "Toaster",
         "rank": 1
     },
     {
-        "name": "Vadh 2",
+        "name": "Thrash",
         "rank": 2
     },
     {
@@ -12,31 +12,31 @@
         "rank": 3
     },
     {
-        "name": "Anaconda",
+        "name": "Ustaad Bhagat Singh",
         "rank": 4
     },
     {
-        "name": "Mardaani 3",
+        "name": "Do Deewane Seher Mein",
         "rank": 5
     },
     {
-        "name": "Mrithyunjay\u200b",
+        "name": "Dhurandhar",
         "rank": 6
     },
     {
-        "name": "Dhurandhar",
+        "name": "Mardaani 3",
         "rank": 7
     },
     {
-        "name": "Vadh",
+        "name": "Vadh 2",
         "rank": 8
     },
     {
-        "name": "Humint",
+        "name": "War Machine",
         "rank": 9
     },
     {
-        "name": "War Machine",
+        "name": "Anaconda",
         "rank": 10
     }
 ]
