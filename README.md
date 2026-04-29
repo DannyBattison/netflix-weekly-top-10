@@ -1,4 +1,4 @@
-![Last updated](https://img.shields.io/badge/Last%20updated-2026--04--22-blue)
+![Last updated](https://img.shields.io/badge/Last%20updated-2026--04--29-blue)
 
 # Netflix Weekly Charts Scraper
 
