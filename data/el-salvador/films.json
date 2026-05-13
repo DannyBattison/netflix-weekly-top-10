@@ -1,26 +1,26 @@
 [
     {
-        "name": "Apex",
+        "name": "Swapped",
         "rank": 1
     },
     {
-        "name": "Migration",
+        "name": "Mechanic: Resurrection",
         "rank": 2
     },
     {
-        "name": "Swapped",
+        "name": "Migration",
         "rank": 3
     },
     {
-        "name": "Mechanic: Resurrection",
+        "name": "Apex",
         "rank": 4
     },
     {
-        "name": "Trust",
+        "name": "My Dearest Assassin",
         "rank": 5
     },
     {
-        "name": "Finders Keepers",
+        "name": "Remarkably Bright Creatures",
         "rank": 6
     },
     {
@@ -28,15 +28,15 @@
         "rank": 7
     },
     {
-        "name": "The Inevitable Defeat of Mister & Pete",
+        "name": "The Hunt",
         "rank": 8
     },
     {
-        "name": "Hangman",
+        "name": "Hercules",
         "rank": 9
     },
     {
-        "name": "Hercules",
+        "name": "Finders Keepers",
         "rank": 10
     }
 ]

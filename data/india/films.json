@@ -1,6 +1,6 @@
 [
     {
-        "name": "Apex",
+        "name": "Swapped",
         "rank": 1
     },
     {
@@ -8,35 +8,35 @@
         "rank": 2
     },
     {
-        "name": "Do Deewane Seher Mein",
+        "name": "Biker",
         "rank": 3
     },
     {
-        "name": "Youth",
+        "name": "Bharathanatyam 2 Mohiniyattam",
         "rank": 4
     },
     {
-        "name": "Biker",
+        "name": "Do Deewane Seher Mein",
         "rank": 5
     },
     {
-        "name": "Toaster",
+        "name": "Youth",
         "rank": 6
     },
     {
-        "name": "Ustaad Bhagat Singh",
+        "name": "Dhurandhar",
         "rank": 7
     },
     {
-        "name": "Dhurandhar",
+        "name": "Toaster",
         "rank": 8
     },
     {
-        "name": "Swapped",
+        "name": "Ustaad Bhagat Singh",
         "rank": 9
     },
     {
-        "name": "Tu Yaa Main",
+        "name": "Apex",
         "rank": 10
     }
 ]
