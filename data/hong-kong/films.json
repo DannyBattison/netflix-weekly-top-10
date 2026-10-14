@@ -1,14 +1,14 @@
 [
     {
-        "name": "UNABOMBER",
+        "name": "Animals",
         "rank": 1
     },
     {
-        "name": "Kung Fu Hustle",
+        "name": "Kong: Skull Island",
         "rank": 2
     },
     {
-        "name": "The Mummy",
+        "name": "Lake Placid vs. Anaconda",
         "rank": 3
     },
     {
@@ -16,27 +16,27 @@
         "rank": 4
     },
     {
-        "name": "The Mummy Returns",
+        "name": "Kung Fu Hustle",
         "rank": 5
     },
     {
-        "name": "The Silence of the Lambs",
+        "name": "The Forever Purge",
         "rank": 6
     },
     {
-        "name": "A Minecraft Movie",
+        "name": "UNABOMBER",
         "rank": 7
     },
     {
-        "name": "The Mummy: Tomb of the Dragon Emperor",
+        "name": "Sinners",
         "rank": 8
     },
     {
-        "name": "The Widower: 'Til Death Do Us Part",
+        "name": "The Purge",
         "rank": 9
     },
     {
-        "name": "Crazy Rich Asians",
+        "name": "The Silence of the Lambs",
         "rank": 10
     }
 ]
