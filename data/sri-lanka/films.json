@@ -1,26 +1,26 @@
 [
     {
-        "name": "Mandaadi",
+        "name": "Animals",
         "rank": 1
     },
     {
-        "name": "Animals",
+        "name": "Mandaadi",
         "rank": 2
     },
     {
-        "name": "Vishwanath & Sons",
+        "name": "Pradhama Drishtya Kuttakkar",
         "rank": 3
     },
     {
-        "name": "Pradhama Drishtiya Kuttakkar",
+        "name": "Tomb Raider",
         "rank": 4
     },
     {
-        "name": "Modha Rathri",
+        "name": "Enna Vilai : The Price of Dignity",
         "rank": 5
     },
     {
-        "name": "Ocean's 8",
+        "name": "Vishwanath & Sons",
         "rank": 6
     },
     {
@@ -28,15 +28,15 @@
         "rank": 7
     },
     {
-        "name": "UNABOMBER",
+        "name": "Evil Dead Burn",
         "rank": 8
     },
     {
-        "name": "Kong: Skull Island",
+        "name": "Modha Rathri",
         "rank": 9
     },
     {
-        "name": "Sinners",
+        "name": "Epic",
         "rank": 10
     }
 ]

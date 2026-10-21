@@ -1,42 +1,42 @@
 [
     {
-        "name": "Animals",
+        "name": "Tomb Raider",
         "rank": 1
     },
     {
-        "name": "Kong: Skull Island",
+        "name": "Animals",
         "rank": 2
     },
     {
-        "name": "Lake Placid vs. Anaconda",
+        "name": "Evil Dead Burn",
         "rank": 3
     },
     {
-        "name": "Ocean's 8",
+        "name": "Kong: Skull Island",
         "rank": 4
     },
     {
-        "name": "Kung Fu Hustle",
+        "name": "Lights Out",
         "rank": 5
     },
     {
-        "name": "The Forever Purge",
+        "name": "Kung Fu Hustle",
         "rank": 6
     },
     {
-        "name": "UNABOMBER",
+        "name": "House of Wax",
         "rank": 7
     },
     {
-        "name": "Sinners",
+        "name": "The Purge",
         "rank": 8
     },
     {
-        "name": "The Purge",
+        "name": "Godzilla vs. Kong",
         "rank": 9
     },
     {
-        "name": "The Silence of the Lambs",
+        "name": "The Forever Purge",
         "rank": 10
     }
 ]
