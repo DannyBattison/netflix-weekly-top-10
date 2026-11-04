@@ -1,22 +1,22 @@
 [
     {
-        "name": "Animals",
+        "name": "The Addams Family",
         "rank": 1
     },
     {
-        "name": "Surviving Hurricane Otis",
+        "name": "Collision Course",
         "rank": 2
     },
     {
-        "name": "Armored",
+        "name": "Surviving Hurricane Otis",
         "rank": 3
     },
     {
-        "name": "Hot Wheels Let's Race: Attack of the T-Rex",
+        "name": "The Addams Family 2",
         "rank": 4
     },
     {
-        "name": "The Addams Family",
+        "name": "Animals",
         "rank": 5
     },
     {
@@ -24,19 +24,19 @@
         "rank": 6
     },
     {
-        "name": "Norm: The Tale of Norm Macdonald",
+        "name": "SCTV: The Greatest Show You've Never Heard Of",
         "rank": 7
     },
     {
-        "name": "Hollywood Dirt",
+        "name": "Hubie Halloween",
         "rank": 8
     },
     {
-        "name": "Blackout",
+        "name": "Final Destination: Bloodlines",
         "rank": 9
     },
     {
-        "name": "The Addams Family 2",
+        "name": "Money Train",
         "rank": 10
     }
 ]
