@@ -1,6 +1,6 @@
 [
     {
-        "name": "The Paradise",
+        "name": "Collision Course",
         "rank": 1
     },
     {
@@ -8,35 +8,35 @@
         "rank": 2
     },
     {
-        "name": "Collision Course",
+        "name": "Unknown",
         "rank": 3
     },
     {
-        "name": "Surviving Hurricane Otis",
+        "name": "Rush Hour",
         "rank": 4
     },
     {
-        "name": "Gajab Raat",
+        "name": "The Paradise",
         "rank": 5
     },
     {
-        "name": "Evil Dead Burn",
+        "name": "Wonder Woman 1984",
         "rank": 6
     },
     {
-        "name": "Animals",
+        "name": "Rush Hour 2",
         "rank": 7
     },
     {
-        "name": "Blackout",
+        "name": "Rush Hour 3",
         "rank": 8
     },
     {
-        "name": "Doing Life",
+        "name": "Nowhere to Run",
         "rank": 9
     },
     {
-        "name": "Nowhere to Run",
+        "name": "Animals",
         "rank": 10
     }
 ]
